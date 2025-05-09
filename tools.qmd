@@ -2,24 +2,29 @@
 title: "Useful Tools"
 ---
 
-Here's a collection of useful links and tools I use in my research.
-
-## Blogs I like
-
-[Ceteris Non Paribus](https://jasonkerwin.com/nonparibus/)
-
-[Development Impact](https://blogs.worldbank.org/en/impactevaluations)
-
-[Noahpinion](https://www.noahpinion.blog/)
-
-[Paul Krugman](https://paulkrugman.substack.com/)
-
-[An Africanist Perspective](https://www.africanistperspective.com/)
-
-[Scott's Mixtape](https://causalinf.substack.com/)
-
-[Data Colada](https://datacolada.org/)
-
 ## Links
 
-[How to make a website with Quarto](https://quarto.org/docs/websites/).
+Below are tools and guides I recommend for getting started:
+
+- [Learn to use GitHub](https://happygitwithr.com/)
+- [Learn to use RStudio](https://education.rstudio.com/learn/beginner/)
+- [Learn to use Overleaf](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
+- [How to make a website with Quarto](https://quarto.org/docs/websites/)
+
+## Readings & Podcasts I Recommend
+
+- [NPR Planet Money](https://www.npr.org/podcasts/510289/planet-money/)  
+  A fun, accessible economics podcast covering current issues with a storytelling approach.
+
+- [Developing Economics](https://developingeconomics.org/)  
+  A critical perspective on development economics from a heterodox lens.
+
+- [Confessions of a Supply-Side Liberal](https://blog.supplysideliberal.com/)  
+  Noah Smith’s blog exploring macro, policy, and the philosophy of economics.
+
+- [Erik's Blog](https://erik-t-andersen.com/blog/blog)  
+  Erik Andersen’s posts on theoretical computer science, algorithms, and economic theory.
+  
+- [Practical Stoicism](https://stoicismpod.com/)  
+  A podcast exploring ancient Stoic philosophy and how it applies to modern life.
+

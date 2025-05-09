@@ -1,0 +1,10 @@
+---
+title: "QSCI 381 Teaching Resources"
+toc: FALSE
+---
+
+## Introduction to Probability and Statistics
+
+Materials from my time as a TA at UW, focused on data analysis in R and applied statistics in natural resource management.
+
+- [Coming soon]

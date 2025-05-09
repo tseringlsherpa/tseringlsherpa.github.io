@@ -1,0 +1,114 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m a second-year PhD student in economics at the University of Washington. I grew up in Boulder, Colorado, and earned my undergraduate degree in applied math and economics from the University of Colorado. My undergraduate honors thesis focused on the effect of wildfires on U.S. county-level house prices.\nMy interest in economics began in high school after watching a documentary in my AP economics class. It revealed the unintended consequences of global consumption, how well-meaning interventions in lower-income countries can end up undermining local economies and harming the environment. That experience pushed me to study economic structures and externalities more seriously, and it’s stayed with me as a central motivation.\nI’ve always wanted to understand the decisions people make and the systems they navigate. While economic models aren’t perfect, I appreciate their ability to combine theory with empirical evidence to analyze real-world problems. That’s what drew me to research: I wanted to develop the skills to study pressing issues using data and to contribute ideas that could reduce harm or inform better policy. Over time, that interest has evolved into a broader commitment to studying inequality, structural constraints, and the effects of interventions, especially in contexts I have personal ties to, such as Sherpa communities.\nAfter completing my PhD, I hope to pursue a research-oriented position where I can continue working on these questions. I’m also deeply interested in mentoring and teaching, especially supporting students from underrepresented backgrounds, including women, first-generation students, and students of color, in navigating economics as a field."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tsering Sherpa",
+    "section": "",
+    "text": "I am a second-year PhD student in the economics department at the University of Washington Seattle. My interests are in development economics and applied microeconomics. I completed my undergraduate degree in math and economics at the University of Colorado Boulder in 2023.\nOutside of academics, I enjoy reading, writing, gardening, and spending time with friends, family, and dogs."
+  },
+  {
+    "objectID": "tools.html",
+    "href": "tools.html",
+    "title": "Useful Tools",
+    "section": "",
+    "text": "Below are tools and guides I recommend for getting started:\n\nLearn to use GitHub\nLearn to use RStudio\nLearn to use Overleaf\nHow to make a website with Quarto"
+  },
+  {
+    "objectID": "tools.html#links",
+    "href": "tools.html#links",
+    "title": "Useful Tools",
+    "section": "",
+    "text": "Below are tools and guides I recommend for getting started:\n\nLearn to use GitHub\nLearn to use RStudio\nLearn to use Overleaf\nHow to make a website with Quarto"
+  },
+  {
+    "objectID": "tools.html#readings-podcasts-i-recommend",
+    "href": "tools.html#readings-podcasts-i-recommend",
+    "title": "Useful Tools",
+    "section": "Readings & Podcasts I Recommend",
+    "text": "Readings & Podcasts I Recommend\n\nNPR Planet Money\nA fun, accessible economics podcast covering current issues with a storytelling approach.\nDeveloping Economics\nA critical perspective on development economics from a heterodox lens.\nConfessions of a Supply-Side Liberal\nNoah Smith’s blog exploring macro, policy, and the philosophy of economics.\nErik’s Blog\nErik Andersen’s posts on theoretical computer science, algorithms, and economic theory.\nPractical Stoicism\nA podcast exploring ancient Stoic philosophy and how it applies to modern life."
+  },
+  {
+    "objectID": "community.html",
+    "href": "community.html",
+    "title": "Community Engagement",
+    "section": "",
+    "text": "As an undergraduate at CU Boulder, I was involved in several student organizations, including the American Marketing Association, the Finance Board (as a voting member), and CU Women in Economics. I also worked as a learning assistant and tutor for Calculus II and III. On the Finance Board, I contributed to decisions about student fee allocations, gaining experience in navigating trade-offs and advocating for students during post-COVID budget restructuring. I also volunteered as a reading tutor for elementary students, working one-on-one to support early literacy efforts that had been disrupted by COVID. That experience deepened my interest in education equity and continues to inform how I think about access and learning at different developmental stages.\nAt the University of Washington, I stay engaged through both departmental and community initiatives. I currently serve as Vice President of the Department of Economics Graduate Student Committee, where I’ve helped advocate for more equitable and transparent funding practices. I’m also an active member of UW’s Women in Economics (WiE), with a focus on increasing undergraduate engagement and encouraging collaboration among board members to organize events and support community outreach. I also mentor first-year Economics PhD students through a department-led initiative that includes quarterly check-ins, co-led with a faculty member, to support student well-being, progress, and professional development."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Tsering Sherpa",
+    "section": "",
+    "text": "This page is for current and past students. You can reach me at tsherp@uw.edu with questions or to set up a meeting. Please refer to Canvas for current office hours."
+  },
+  {
+    "objectID": "teaching.html#student-info",
+    "href": "teaching.html#student-info",
+    "title": "Tsering Sherpa",
+    "section": "",
+    "text": "This page is for current and past students. You can reach me at tsherp@uw.edu with questions or to set up a meeting. Please refer to Canvas for current office hours."
+  },
+  {
+    "objectID": "teaching.html#teaching-assistant-courses",
+    "href": "teaching.html#teaching-assistant-courses",
+    "title": "Tsering Sherpa",
+    "section": "Teaching Assistant: Courses",
+    "text": "Teaching Assistant: Courses\nQSCI 381: Introduction to Probability and Statistics\nAutumn 2024, Winter 2025, Spring 2025\nEC 201: Introduction to Macroeconomics\nSpring 2024, Summer 2024\nEC 200: Introduction to Microeconomics\nWinter 2024, Summer 2024"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research Motivation",
+    "section": "",
+    "text": "I’m drawn to development economics because I care about how inequality persists and how social and institutional structures shape the lives of people in marginalized communities, including in places like the Himalayas, where I have personal ties. I’m especially interested in education and gender disparities, and in how people form beliefs about the value of education when they’re facing real trade-offs and constraints.\nI think a lot about how aspirations are shaped, not just by individual preferences, but by broader environmental and institutional factors. I’m interested in what kinds of interventions, like NGO programs, can meaningfully shift those trajectories. I’ve also been exploring how businesses can adopt more sustainable practices, especially as technological growth brings new environmental externalities. More recently, I’ve been thinking about how AI is changing economic decision-making and how it might reshape who and who doesn’t benefit from these systems."
+  },
+  {
+    "objectID": "service.html",
+    "href": "service.html",
+    "title": "Work in Progress",
+    "section": "",
+    "text": "Under Construction…"
+  },
+  {
+    "objectID": "dogs.html",
+    "href": "dogs.html",
+    "title": "Loyal Company",
+    "section": "",
+    "text": "These dogs have, each in their own way, shaped my sense of care, patience, and presence."
+  },
+  {
+    "objectID": "dogs.html#cody-sherpa",
+    "href": "dogs.html#cody-sherpa",
+    "title": "Loyal Company",
+    "section": "Cody Sherpa",
+    "text": "Cody Sherpa\nCody is my family’s chihuahua mix. We adopted him in 2010, and he’s still very happy and healthy!"
+  },
+  {
+    "objectID": "dogs.html#foster-dogs-in-seattle",
+    "href": "dogs.html#foster-dogs-in-seattle",
+    "title": "Loyal Company",
+    "section": "Foster Dogs in Seattle",
+    "text": "Foster Dogs in Seattle\nBelow are some of the puppies and dogs I’ve fostered through Resilient Hearts Animal Sanctuary in Seattle.\nIf you’re in Seattle and interested in fostering, I highly recommend getting involved. Fostering allows shelters to make space for unhoused dogs, helping reduce overcrowding and minimizing the risk of euthanasia due to lack of resources.\n\n\n\n\nMushu\n\n\n\n\n\nRoo\n\n\n\n\n\n\n\nYuki\n\n\n\n\n\nPingu"
+  },
+  {
+    "objectID": "qsci381-resources.html",
+    "href": "qsci381-resources.html",
+    "title": "QSCI 381 Teaching Resources",
+    "section": "",
+    "text": "Materials from my time as a TA at UW, focused on data analysis in R and applied statistics in natural resource management.\n\n[Coming soon]"
+  },
+  {
+    "objectID": "qsci381-resources.html#introduction-to-probability-and-statistics",
+    "href": "qsci381-resources.html#introduction-to-probability-and-statistics",
+    "title": "QSCI 381 Teaching Resources",
+    "section": "",
+    "text": "Materials from my time as a TA at UW, focused on data analysis in R and applied statistics in natural resource management.\n\n[Coming soon]"
+  }
+]

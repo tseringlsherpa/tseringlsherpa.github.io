@@ -1,55 +1,67 @@
-# fmt: skip file
 project:
   type: website
+  output-dir: docs
+  resources:
+    - "images/"
 
 website:
-  title: "Erik Andersen"
-  description: "PhD Student, University of Washington"
+  title: "Tsering Sherpa"
+  description: "PhD Student at the University of Washington"
   image: "images/profile.jpeg"
+  favicon: "images/logo.png"
   reader-mode: true
   twitter-card: true
   open-graph: true
-  site-url: https://erik-t-andersen.com/
+  site-url: https://tseringlsherpa.github.io
   navbar:
-    logo: images/logo_full_size.png
-    logo-alt: Ico
+    logo: "images/logo.png"
+    logo-alt: "Logo"
     collapse: true
     background: light
     search: true
     left:
-      - href: index.qmd
-        text: Home
+      - text: Profile
+        menu:
+          - text: About Me
+            href: about.qmd
+          - text: Community Engagement
+            href: community.qmd
       - text: "CV"
         href: files/CV.pdf
       - text: Research
-        href: research.qmd
+        menu:
+          - text: "Motivation"
+            href: research.qmd
+          - text: "Work in Progress"
+            href: service.qmd
+          - text: ORCID
+            href: https://orcid.org/0009-0000-5484-803X
       - text: "Teaching"
-        href: teaching.qmd
-      - text: "Service"
-        href: service.qmd
-      - text: "Blog"
-        href: blog/blog.qmd
+        menu:
+          - text: Courses
+            href: teaching.qmd
+          - text: QSCI381 Resources
+            href: qsci381-resources.qmd
       - text: "More"
-        menu: 
+        menu:
           - text: Useful Tools
             href: tools.qmd
+          - text: "Dawgs"
+            href: dogs.qmd
     right:
       - icon: github
-        href: https://github.com/eander462
+        href: https://github.com/tseringlsherpa
         target: _blank
       - icon: linkedin
-        href: https://www.linkedin.com/in/eander462/
+        href: https://www.linkedin.com/in/tseringlsherpa/
         target: _blank
   page-footer:
     center: 
-      - text: "eander46@uw.edu"
+      - text: "tsherp@uw.edu"
         icon: envelope
-        href: "mailto:eander46@uw.edu"
+        href: "mailto:tsherp@uw.edu"
       - text: "319C Savery Hall, University of Washington, Seattle, WA"
-  favicon: logo.ico
-
           
-
 format:
   html:
     theme: 

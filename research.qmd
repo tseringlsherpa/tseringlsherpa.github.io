@@ -1,18 +1,7 @@
 ---
-title: "Research"
+title: "Research Motivation"
 toc: FALSE
 ---
+I’m drawn to development economics because I care about how inequality persists and how social and institutional structures shape the lives of people in marginalized communities, including in places like the Himalayas, where I have personal ties. I’m especially interested in education and gender disparities, and in how people form beliefs about the value of education when they’re facing real trade-offs and constraints.
 
-I study development economics, which I interpret to be the study of economic and social problems in disadvantaged populations whether they be in developing countries or not. I work to design programs that help those struggling populations with their real-world problems, and uncover mechanisms working against their success. I do this in a rigorous way using both randomized control trials and advanced statistical methods using observational data.
-
-I am primarily interested in the Economics of Education, and understanding when and why people hold biased beliefs about education's value and helping to correct those so people make more informed decisions. I am also interested in studying how these decisions are adversely affected by changing environmental factors.
-
-## Work in Progress
-
-**Crossing the Threshold: Complementary Effects of School Quality and Parental Engagement in Ghana**
-
-**Integrating Educational Technology with Structured Pedagogy to Improve Learning Outcomes for Every Student (with Erik Andersen, Simon Graffy, Jason Kerwin, and Monica Lambon-Quayefio)**
-
-**Disproportional Outcomes from Probationary Policies: Problems and Solutions**
-
-**At What Level Should you Cluster, Why Cluster at All? Randomization Inference Correction to Incorrect False Rejection Rates with Small Clusters**
+I think a lot about how aspirations are shaped, not just by individual preferences, but by broader environmental and institutional factors. I’m interested in what kinds of interventions, like NGO programs, can meaningfully shift those trajectories. I’ve also been exploring how businesses can adopt more sustainable practices, especially as technological growth brings new environmental externalities. More recently, I’ve been thinking about how AI is changing economic decision-making and how it might reshape who and who doesn't benefit from these systems.
