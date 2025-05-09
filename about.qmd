@@ -3,7 +3,7 @@ title: "About Me"
 toc: FALSE
 ---
 
-I’m a second-year PhD student in economics at the University of Washington. I grew up in Boulder, Colorado, and earned my undergraduate degree in applied math and economics from the University of Colorado. My undergraduate honors thesis focused on the effect of wildfires on U.S. county-level house prices.
+I’m a second-year PhD student in economics at the University of Washington. I grew up in Boulder, Colorado, and earned my undergraduate degree in applied mathematics and economics from the University of Colorado. My undergraduate honors thesis, advised by Professor Taylor Jaworski, examined the effect of wildfires on U.S. county-level house prices.
 
 My interest in economics began in high school after watching a documentary in my AP economics class. It revealed the unintended consequences of global consumption, how well-meaning interventions in lower-income countries can end up undermining local economies and harming the environment. That experience pushed me to study economic structures and externalities more seriously, and it’s stayed with me as a central motivation.
 
