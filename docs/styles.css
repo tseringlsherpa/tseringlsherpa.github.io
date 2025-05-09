@@ -1,7 +1,6 @@
-/* NAVBAR LOGO SETTINGS */
-.navbar-brand img {
-  height: 60px;
-  width: auto;
+.navbar-logo {
+  height: 60px !important;
+  width: auto !important;
   object-fit: contain;
   display: inline-block;
   margin: 0;
