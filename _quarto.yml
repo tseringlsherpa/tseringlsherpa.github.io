@@ -28,7 +28,7 @@ website:
           - text: Community Engagement
             href: community.qmd
       - text: "CV"
-        href: files/CV.pdf
+        href: files/cv.pdf
       - text: Research
         menu:
           - text: "Motivation"
