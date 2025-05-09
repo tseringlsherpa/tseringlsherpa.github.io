@@ -20,11 +20,11 @@ Below are tools and guides I recommend for getting started:
   A critical perspective on development economics from a heterodox lens.
 
 - [Confessions of a Supply-Side Liberal](https://blog.supplysideliberal.com/)  
-  Noah Smith’s blog exploring macro, policy, and the philosophy of economics.
+  Miles Kimball’s blog exploring macro, policy, and the philosophy of economics.
 
 - [Erik's Blog](https://erik-t-andersen.com/blog/blog)  
-  Erik Andersen’s posts on theoretical computer science, algorithms, and economic theory.
+  Erik Andersen’s posts on economics
   
 - [Practical Stoicism](https://stoicismpod.com/)  
-  A podcast exploring ancient Stoic philosophy and how it applies to modern life.
+  A podcast exploring Stoic philosophy and how it applies to modern life.
 
