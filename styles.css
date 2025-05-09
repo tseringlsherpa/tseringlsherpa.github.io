@@ -86,3 +86,10 @@
   display: none !important;
 }
 
+section > h1 .quarto-section-identifier,
+section > h2 .quarto-section-identifier,
+section > h3 .quarto-section-identifier,
+section > h4 .quarto-section-identifier {
+  display: none !important;
+}
+
