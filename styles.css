@@ -1,13 +1,14 @@
 /* NAVBAR LOGO SETTINGS */
-.navbar-logo {
-  height: 75px !important;     /* Or 100px, etc. */
-  width: auto !important;
-  max-height: none !important;
+.navbar-brand img {
+  height: 75px;
+  width: auto;
   object-fit: contain;
+  display: inline-block;
+  margin: 0;
+  padding: 0;
 }
 
-
-.navbar-logo:hover {
+.navbar-brand img:hover {
   transform: scale(1.2);
 }
 
