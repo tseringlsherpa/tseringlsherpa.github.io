@@ -7,7 +7,7 @@ These dogs have, each in their own way, shaped my sense of care, patience, and p
 
 ## Cody Sherpa
 
-Cody is my family's chihuahua mix. We adopted him in 2010, and he's still very happy and healthy!
+Cody is my family's chihuahua mix. We adopted him in 2012, and he's still very happy and healthy!
 <div style="display: flex; gap: 10px; align-items: center;">
   <img src="images/cody.jpeg" width="200" alt="Cody 1">
   <img src="images/cody1.jpeg" width="200" alt="Cody's First Birthday">
@@ -49,5 +49,5 @@ If you're in Seattle and interested in fostering, I highly recommend getting inv
 
 Featured here is a photo I got with Dubs the II, the mascot of the University of Washington Huskies.
 
-![With Dubs, the UW mascot](images/dubs.jpeg)
+<img src="images/dubs.jpeg" alt="With Dubs" width="300" style="display: block; margin: 0 auto;">
 
