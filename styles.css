@@ -1,5 +1,5 @@
 /* NAVBAR LOGO SETTINGS */
-.navbar-brand img {
+.navbar-logo img {
   height: 60px;
   width: auto;
   object-fit: contain;
@@ -8,7 +8,7 @@
   padding: 0;
 }
 
-.navbar-brand img:hover {
+.navbar-logo img:hover {
   transform: scale(1.2);
 }
 
