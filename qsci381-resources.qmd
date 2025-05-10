@@ -7,4 +7,4 @@ toc: FALSE
 
 Materials from my time as a TA at UW, focused on data analysis in R and applied statistics in natural resource management.
 
-- [Coming soon]
+- [How to Set U
