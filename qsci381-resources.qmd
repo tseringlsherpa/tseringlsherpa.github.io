@@ -7,4 +7,5 @@ toc: FALSE
 
 Materials from my time as a TA at UW, focused on data analysis in R and applied statistics in natural resource management.
 
-- [How to Set U
+- [How to Set Up R](files/QSCI381/Rsetup.pdf)
+- [R Markdown and Assignment Info](files/QSCI381/AssignmentsRTips.pdf)

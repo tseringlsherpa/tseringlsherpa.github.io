@@ -82,4 +82,13 @@
   color: #111111 !important;
 }
 
-.quarto-sectio
+.quarto-section-identifier {
+  display: none !important;
+}
+
+.navbar .navbar-brand img.navbar-logo {
+  height: 60px !important;
+  width: auto !important;
+  max-height: none !important;
+}
+
