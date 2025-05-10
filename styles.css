@@ -1,11 +1,11 @@
 /* NAVBAR LOGO SETTINGS */
 .navbar-brand img {
-  height: 75px;
-  width: auto;
+  height: 100px !important;
+  width: auto !important;
   object-fit: contain;
   display: inline-block;
-  margin: 0;
-  padding: 0;
+  margin: 0 !important;
+  padding: 0 !important;
 }
 
 .navbar-brand img:hover {
@@ -85,3 +85,10 @@
 .quarto-section-identifier {
   display: none !important;
 }
+
+.navbar .navbar-brand img.navbar-logo {
+  height: 60px !important;
+  width: auto !important;
+  max-height: none !important;
+}
+

@@ -65,10 +65,10 @@ website:
           
 format:
   html:
+    css: styles.css
     anchor-sections: false
     theme: 
       dark: darkly
-      light: flatly 
-    css: styles.css
+      light: flatly
     toc: true
 

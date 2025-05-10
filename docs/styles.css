@@ -1,10 +1,11 @@
-.navbar-logo {
-  height: 60px !important;
+/* NAVBAR LOGO SETTINGS */
+.navbar-brand img {
+  height: 100px !important;
   width: auto !important;
   object-fit: contain;
   display: inline-block;
-  margin: 0;
-  padding: 0;
+  margin: 0 !important;
+  padding: 0 !important;
 }
 
 .navbar-brand img:hover {
@@ -79,5 +80,15 @@
 .dropdown-menu a:hover {
   background-color: #f0f0f0 !important;
   color: #111111 !important;
+}
+
+.quarto-section-identifier {
+  display: none !important;
+}
+
+.navbar .navbar-brand img.navbar-logo {
+  height: 60px !important;
+  width: auto !important;
+  max-height: none !important;
 }
 

@@ -1,3 +1,2 @@
-## My Personal Website
-Built with Quarto 
-
+## Tsering Sherpa | Academic Website
+This i
