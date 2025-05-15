@@ -9,3 +9,7 @@ Materials from my time as a TA at UW, focused on data analysis in R and applied 
 
 - [How to Set Up R](files/QSCI381/Rsetup.pdf)
 - [R Markdown and Assignment Info](files/QSCI381/AssignmentsRTips.pdf)
+- [Equation Sheet](files/QSCI381/QSCI381_equations.pdf)
+- [CLT and Normal Approximation](files/QSCI381/CLT_NormalApprox.pdf)
+- [Types of Tests and Hypotheses](files/QSCI381/Tests Notes.pdf)
+- [F-Tests, ANOVA, Regressions](files/QSCI381/F_ANOVA_Regress.pdf)
