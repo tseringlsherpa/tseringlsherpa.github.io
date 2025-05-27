@@ -10,12 +10,11 @@ These dogs have, each in their own way, shaped my sense of care, patience, and p
 <p>
   Cody is my family's chihuahua mix. We adopted him in 2012, and he's still very happy and healthy! We also have another family dog named Daisy.
 </p>
-
-<div style="display: flex; gap: 10px; align-items: center; flex-wrap: nowrap; overflow-x: auto;">
-  <img src="images/cody.jpeg" width="200" alt="Cody 1">
-  <img src="images/cody1.jpeg" width="200" alt="Cody's First Birthday">
-  <img src="images/lovebug.jpeg" width="200" alt="Recent Photo of Cody">
-  <img src="images/daisy.jpeg" width="200" alt="Daisy">
+<div style="display: flex; gap: 5px; align-items: center; flex-wrap: nowrap; overflow-x: auto; white-space: nowrap; min-width: 820px;">
+  <img src="images/cody.jpeg" width="200" style="flex-shrink: 0; display: inline-block;" alt="Cody 1">
+  <img src="images/cody1.jpeg" width="200" style="flex-shrink: 0; display: inline-block;" alt="Cody's First Birthday">
+  <img src="images/lovebug.jpeg" width="215" style="flex-shrink: 0; display: inline-block;" alt="Recent Photo of Cody">
+  <img src="images/daisy.jpeg" width="180.7" style="flex-shrink: 0; display: inline-block;" alt="Daisy">
 </div>
 
 
