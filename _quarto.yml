@@ -21,14 +21,6 @@ website:
     background: light
     search: true
     left:
-      - text: Profile
-        menu:
-          - text: About Me
-            href: about.qmd
-          - text: Community Engagement
-            href: community.qmd
-      - text: "CV"
-        href: files/cv.pdf
       - text: Research
         menu:
           - text: "Motivation"
@@ -37,16 +29,20 @@ website:
             href: service.qmd
           - text: ORCID
             href: https://orcid.org/0009-0000-5484-803X
+      - text: "CV"
+        href: files/cv.pdf
       - text: "Teaching"
+        href: teaching.qmd
+      - text: Resources 
         menu:
-          - text: Courses
-            href: teaching.qmd
-          - text: QSCI381 Resources
+          - text: "QSCI 381"
             href: qsci381-resources.qmd
+          - text: "Additional Tools"
+            href: tools.qmd
       - text: "More"
         menu:
-          - text: Useful Tools
-            href: tools.qmd
+          - text: Community Engagement
+            href: community.qmd
           - text: "Dawgs"
             href: dogs.qmd
     right:

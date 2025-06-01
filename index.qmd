@@ -2,7 +2,7 @@
 title: "Tsering Sherpa"
 image: images/profile.jpeg
 about:
-  template: solana  
+  template: solana
   image-shape: round
   image-width: 17em
   links:
@@ -23,8 +23,8 @@ about:
       href: "mailto:tsherp@uw.edu"
       target: _blank
 ---
-I am a second-year PhD student in the economics department at the University of Washington Seattle. My interests are in development economics and applied microeconomics. I completed my undergraduate degree in math and economics at the University of Colorado Boulder in 2023.
+I am a second-year PhD student in the economics department at the University of Washington Seattle. My interests are in development economics and applied microeconomics. 
+
+I grew up in Boulder, Colorado, and earned my undergraduate degree in applied mathematics and economics from the University of Colorado in May 2023. 
 
 Outside of academics, I enjoy reading, writing, gardening, and spending time with friends, family, and dogs.
-
-

@@ -1,16 +1,14 @@
 ---
+title: "Teaching"
 toc: TRUE
 ---
-
-## Student Info
-
 This page is for current and past students. You can reach me at [tsherp@uw.edu](mailto:tsherp@uw.edu) with questions or to set up a meeting. Please refer to Canvas for current office hours.
 
-## Teaching Assistant: Courses
+# Teaching Assistant: Courses
 
 <u>QSCI 381: Introduction to Probability and Statistics</u>
 
-Autumn 2024, Winter 2025, Spring 2025
+Autumn 2024 and 2025, Winter 2025, Spring 2025
 
 <u>EC 201: Introduction to Macroeconomics</u>
 
@@ -19,3 +17,4 @@ Spring 2024, Summer 2024
 <u>EC 200: Introduction to Microeconomics</u>
 
 Winter 2024, Summer 2024 
+
