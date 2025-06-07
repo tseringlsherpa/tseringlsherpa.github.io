@@ -8,6 +8,7 @@ You can reach me at [tsherp@uw.edu](mailto:tsherp@uw.edu) with questions or to s
 
 - [How to Set Up R](files/QSCI381/Rsetup.pdf)
 - [R Markdown and Assignment Info](files/QSCI381/AssignmentsRTips.pdf)
+- [Basic R Examples with Code](files/QSCI381/R_Basics.pdf)
 - [Equation Sheet](files/QSCI381/QSCI381_equations.pdf)
 - [CLT and Normal Approximation](files/QSCI381/CLT_NormalApprox.pdf)
 - [Types of Tests and Hypotheses](files/QSCI381/Tests Notes.pdf)
