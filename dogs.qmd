@@ -8,7 +8,7 @@ These dogs have, each in their own way, shaped my sense of care, patience, and p
 ## Cody Sherpa
 
 <p>
-  Cody was our family's chihuahua mix and my childhood pet. We adopted him in 2012, and we got to spend nearly 15 years with him. We also have another family dog named Daisy.
+  Cody was our family's chihuahua mix and my childhood pet. We adopted him in 2012, and we got to spend nearly 13 years with him. We also have another family dog named Daisy.
 </p>
 <div style="display: flex; gap: 5px; align-items: center; flex-wrap: nowrap; overflow-x: auto; white-space: nowrap; min-width: 820px;">
   <img src="images/cody.jpeg" width="200" style="flex-shrink: 0; display: inline-block;" alt="Cody 1">
