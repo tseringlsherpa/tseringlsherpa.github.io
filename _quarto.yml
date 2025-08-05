@@ -10,7 +10,6 @@ website:
   description: "PhD Student at the University of Washington"
   image: "images/profile.jpeg"
   favicon: "images/logo.png"
-  reader-mode: true
   twitter-card: true
   open-graph: true
   site-url: https://tseringlsherpa.github.io
