@@ -23,7 +23,7 @@ about:
       href: "mailto:tsherp@uw.edu"
       target: _blank
 ---
-I am a second-year PhD student in the economics department at the University of Washington Seattle. My interests are in development economics and applied microeconomics. 
+I am a third-year PhD student in the economics department at the University of Washington Seattle. My interests are in development economics and applied microeconomics. 
 
 I grew up in Boulder, Colorado, and earned my undergraduate degree in applied mathematics and economics from the University of Colorado in May 2023. 
 

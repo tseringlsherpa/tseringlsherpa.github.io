@@ -3,7 +3,7 @@ title: "About Me"
 toc: FALSE
 ---
 
-I’m a second-year PhD student in economics at the University of Washington. I grew up in Boulder, Colorado, and earned my undergraduate degree in applied mathematics and economics from the University of Colorado in May 2023. My undergraduate honors thesis, advised by Professor Taylor Jaworski, examined the effect of wildfires on U.S. county-level house prices. 
+I’m a third-year PhD student in economics at the University of Washington. I grew up in Boulder, Colorado, and earned my undergraduate degree in applied mathematics and economics from the University of Colorado in May 2023. My undergraduate honors thesis, advised by Professor Taylor Jaworski, examined the effect of wildfires on U.S. county-level house prices. 
 
 In the summer of 2022, I studied abroad at the London School of Economics, where I took a course on Management Analytics in the Age of Big Data, which introduced me to the applications of statistical and causal inference in decision-making under uncertainty.
 
