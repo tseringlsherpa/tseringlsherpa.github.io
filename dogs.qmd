@@ -46,6 +46,11 @@ If you're in Seattle and interested in fostering, I highly recommend getting inv
       <img src="images/pingu.jpeg" alt="Pingu" width="350px">
     </td>
   </tr>
+  <td style="text-align: center; border: none; padding: 10px;">
+      <h4>Charlie Jr.</h4>
+      <img src="images/charlie.jpeg" alt="Charlie Jr." width="350px">
+    </td>
+  </tr>
 </table>
 
 ## Go Dawgs!

@@ -13,3 +13,4 @@ You can reach me at [tsherp@uw.edu](mailto:tsherp@uw.edu) with questions or to s
 - [CLT and Normal Approximation](files/QSCI381/CLT_NormalApprox.pdf)
 - [Types of Tests and Hypotheses](files/QSCI381/Tests Notes.pdf)
 - [F-Tests, ANOVA, Regressions](files/QSCI381/F_ANOVA_Regress.pdf)
+- [Not Required but Useful: TinyTex](https://yihui.org/tinytex/)
