@@ -23,8 +23,10 @@ about:
       href: "mailto:tsherp@uw.edu"
       target: _blank
 ---
-I am a third-year PhD student in the economics department at the University of Washington Seattle. My interests are in development economics and applied microeconomics. 
+I am a third-year PhD student in the economics department at the University of Washington Seattle. My fields are in development economics and microeconomic theory. I grew up in Boulder, Colorado, and earned my undergraduate degree in applied mathematics and economics from the University of Colorado in May 2023.
 
-I grew up in Boulder, Colorado, and earned my undergraduate degree in applied mathematics and economics from the University of Colorado in May 2023. 
+I’m drawn to development economics because I care about how inequality persists and how institutional and social structures shape people’s lives, especially in marginalized communities. This interest is personal. I have ties to Himalayan regions where many families face constraints around education, gender roles, and access to opportunities. I’m particularly interested in how people form beliefs about the value of education while facing trade-offs that are often invisible in high-level models.
+
+At the core, I’ve always been motivated by understanding how people make decisions in constrained environments. Economic models are imperfect, but I value how they combine formal structure with data to uncover patterns and test ideas. That’s what drew me to research. I wanted to develop the tools to analyze inequality, evaluate interventions, and contribute to better policy.
 
 Outside of academics, I enjoy reading, writing, gardening, and spending time with friends, family, and dogs.
