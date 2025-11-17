@@ -24,9 +24,8 @@ website:
         href: index.qmd
       - text: "CV"
         href: files/cv.pdf
-      - text: Research
-      - href: research.qmd
-            
+      - text: "Research"
+      - href: res.qmd
       - text: "Teaching"
         href: teaching.qmd
       - text: Resources 
@@ -39,8 +38,6 @@ website:
         menu:
           - text: "Dawgs"
             href: dogs.qmd
-          - text: Blog
-          - href: posts/index.qmd
     right:
       - icon: github
         href: https://github.com/tseringlsherpa
