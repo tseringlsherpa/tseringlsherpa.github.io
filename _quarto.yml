@@ -39,15 +39,12 @@ website:
           - text: "Dawgs"
             href: dogs.qmd
     right:
-      - icon: github
-        href: https://github.com/tseringlsherpa
-        target: _blank
-      - icon: linkedin
-        href: https://www.linkedin.com/in/tseringlsherpa/
-        target: _blank
-      - text: ORCID
-        href: https://orcid.org/0009-0000-5484-803X
-        target: _blank
+  - icon: github
+    href: https://github.com/tseringlsherpa
+    target: _blank
+  - icon: linkedin
+    href: https://www.linkedin.com/in/tseringlsherpa/
+    target: _blank
 
   page-footer:
     center: 
@@ -64,4 +61,3 @@ format:
       dark: darkly
       light: flatly
     toc: true
-
