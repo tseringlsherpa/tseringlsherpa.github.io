@@ -11,20 +11,15 @@ Below are tools and guides I recommend for getting started:
 - [Learn to use Overleaf](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 - [How to make a website with Quarto](https://quarto.org/docs/websites/)
 
-## Readings & Podcasts I Recommend
+## Readings & Podcasts I Like
 
-- [NPR Planet Money](https://www.npr.org/podcasts/510289/planet-money/)  
-  A fun, accessible economics podcast covering current issues with a storytelling approach.
+- [Agricultural Economics - Without Apology ](https://marcfbellemare.com/wordpress/14585)
 
-- [Developing Economics](https://developingeconomics.org/)  
-  A critical perspective on development economics from a heterodox lens.
+- [World Bank Blogs: Development Impact](https://blogs.worldbank.org/en/impactevaluations)  
 
 - [Confessions of a Supply-Side Liberal](https://blog.supplysideliberal.com/)  
-  Miles Kimball’s blog exploring macro, policy, and the philosophy of economics.
 
 - [Erik's Blog](https://erik-t-andersen.com/blog/blog)  
-  Erik Andersen’s posts on economics
-  
+
 - [Practical Stoicism](https://stoicismpod.com/)  
-  A podcast exploring Stoic philosophy and how it applies to modern life.
 
