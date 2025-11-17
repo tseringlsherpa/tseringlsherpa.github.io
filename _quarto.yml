@@ -20,16 +20,13 @@ website:
     background: light
     search: true
     left:
-      - text: Research
-        menu:
-          - text: "Motivation"
-            href: research.qmd
-          - text: "Work in Progress"
-            href: service.qmd
-          - text: ORCID
-            href: https://orcid.org/0009-0000-5484-803X
+      - text: Home
+        href: index.qmd
       - text: "CV"
         href: files/cv.pdf
+      - text: Research
+      - href: research.qmd
+            
       - text: "Teaching"
         href: teaching.qmd
       - text: Resources 
@@ -40,10 +37,10 @@ website:
             href: tools.qmd
       - text: "More"
         menu:
-          - text: Community Engagement
-            href: community.qmd
           - text: "Dawgs"
             href: dogs.qmd
+          - text: Blog
+          - href: posts/index.qmd
     right:
       - icon: github
         href: https://github.com/tseringlsherpa
@@ -51,6 +48,9 @@ website:
       - icon: linkedin
         href: https://www.linkedin.com/in/tseringlsherpa/
         target: _blank
+      - icon: ORCID
+      - href: https://orcid.org/0009-0000-5484-803X
+      - target: _blank
   page-footer:
     center: 
       - text: "tsherp@uw.edu"
