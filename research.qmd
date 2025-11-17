@@ -6,8 +6,7 @@ I am drawn to development economics because I care about how inequality persists
 
 My interests are rooted in the Himalayas, where families face constraints around education, gender roles, and access to opportunities. I wanted to develop the tools to analyze inequality, evaluate interventions, and inform better policy. If asked why, I would say it has become a goal of mine to bring something meaningful to that region, out of reverence for those who came before me and made it possible for me to pursue an academic path.
 
----
-title: "Work in Progress"
-toc: FALSE
----
+
+## Work in Progress
+
 How Does the Installation of School Computer Labs Affect Students’ Academic Achievement? Evidence from Rural Nepal
