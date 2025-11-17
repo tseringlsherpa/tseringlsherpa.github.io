@@ -45,7 +45,9 @@ website:
     - icon: linkedin
       href: https://www.linkedin.com/in/tseringlsherpa/
       target: _blank
-    
+    - icon: orcid
+      href: https://orcid.org/0009-0000-5484-803X
+      target: _blank
   page-footer:
     center: 
       - text: "tsherp@uw.edu"
