@@ -3,11 +3,13 @@ title: "Teaching"
 toc: TRUE
 ---
 This page is for current and past students. You can reach me at [tsherp@uw.edu](mailto:tsherp@uw.edu) with questions or to set up a meeting. Please refer to Canvas for current office hours.
-# Independent Instructor
+
+## Independent Instructor
 <u>ENGL 299: Intermediate Writing in the Natural Sciences</u>
 
 Spring 2026 
-# Teaching Assistant
+
+## Teaching Assistant
 
 <u>QSCI 381: Introduction to Probability and Statistics</u>
 
