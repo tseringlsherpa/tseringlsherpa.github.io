@@ -26,16 +26,13 @@ website:
         href: files/cv.pdf
       - text: "Research"
         href: res.qmd
-      - text: "Teaching"
+      - text: "Teaching, Resources & More"
         href: teaching.qmd
-      - text: Resources 
         menu:
           - text: "QSCI 381"
             href: qsci381-resources.qmd
-          - text: "Additional Tools"
+          - text: "Sources I Like"
             href: tools.qmd
-      - text: "More"
-        menu:
           - text: "Dawgs"
             href: dogs.qmd
     right:
@@ -45,7 +42,7 @@ website:
     - icon: linkedin
       href: https://www.linkedin.com/in/tseringlsherpa/
       target: _blank
-    - icon: orcid
+    - text: orcid
       href: https://orcid.org/0009-0000-5484-803X
       target: _blank
   page-footer:

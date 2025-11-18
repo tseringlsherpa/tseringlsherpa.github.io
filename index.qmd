@@ -17,7 +17,7 @@ about:
     - icon: mortarboard
       text: "UW Website"
       href: https://econ.washington.edu/people/tsering-sherpa
-    - icon: orcid
+    - text: orcid
       href: https://orcid.org/0009-0000-5484-803X
       target: _blank
     - icon: envelope
