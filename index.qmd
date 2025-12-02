@@ -21,10 +21,7 @@ about:
       text: "Email"
       href: "mailto:tsherp@uw.edu"
       target: _blank
-    - icon: orcid
-      text: ORCID
-      href: https://orcid.org/0009-0000-5484-803X
-      target: _blank
+    
     
 ---
 
