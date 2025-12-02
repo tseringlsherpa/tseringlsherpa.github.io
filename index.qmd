@@ -17,13 +17,14 @@ about:
     - icon: mortarboard
       text: "UW Website"
       href: https://econ.washington.edu/people/tsering-sherpa
-    - text: ORCID
-      href: https://orcid.org/0009-0000-5484-803X
-      target: _blank
     - icon: envelope
       text: "Email"
       href: "mailto:tsherp@uw.edu"
       target: _blank
+    - text: ORCID
+      href: https://orcid.org/0009-0000-5484-803X
+      target: _blank
+    
 ---
 
 I am a third year PhD student in the Department of Economics at the University of Washington. My research focuses on education and gender in Low to Middle Income Countries. I received my BA in Economics, Magna Cum Laude, and Mathematics from the University of Colorado Boulder, where I also spent most of my life.

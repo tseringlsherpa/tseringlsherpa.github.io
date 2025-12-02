@@ -2,11 +2,9 @@
 title: "Research"
 toc: FALSE
 ---
-I am drawn to development economics because I care about how inequality persists and how institutional and social structures shape people’s lives, especially in marginalized communities. At the core, I have always been motivated by understanding how people make decisions in constrained environments. Economic models are imperfect, but I value how they combine formal structure with data to uncover patterns and test ideas. This is what drew me to research.
+I study development economics with a focus on human capital formation, inequality, and how households make decisions under constraints. I am interested in how institutions, information, and local environments shape educational and economic trajectories. My work combines causal inference, original data collection, and field-based empirical methods.
 
-My interests are rooted in the Himalayas, where families face constraints around education, gender roles, and access to opportunities. I wanted to develop the tools to analyze inequality, evaluate interventions, and inform better policy. If asked why, I would say it has become a goal of mine to bring something meaningful to that region, out of reverence for those who came before me and made it possible for me to pursue an academic path.
-
+My research originates in the Himalayan region, where families navigate constraints in schooling, gender norms, access to opportunities, and growing climate risks. These conditions motivate my broader agenda on how interventions and institutions affect human capital investment in marginalized communities. A core goal of my work is to generate empirical evidence that can inform policy and contribute something meaningful to the region that made it possible for me to pursue an academic path.
 
 ## Work in Progress
-
-How Does the Installation of School Computer Labs Affect Students’ Academic Achievement? Evidence from Rural Nepal
+How Does the Installation of School Computer Labs Affect Students’ Academic Achievement? Evidence from the SHERPA Study in Southern Solukhumbu

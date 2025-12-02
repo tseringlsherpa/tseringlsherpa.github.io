@@ -30,12 +30,12 @@ website:
         href: teaching.qmd
       - text: "Other"
         menu:
-          - text: "Dawgs"
-            href: dogs.qmd
           - text: "QSCI 381"
             href: qsci381-resources.qmd
           - text: "Sources I Like"
             href: tools.qmd
+          - text: "Dawgs"
+            href: dogs.qmd
           
     right:
     - icon: github
