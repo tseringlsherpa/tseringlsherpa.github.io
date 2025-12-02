@@ -15,10 +15,12 @@ website:
   site-url: https://tseringlsherpa.github.io
   navbar:
     logo: "images/logo.png"
+    href: https://www.linkedin.com/in/tseringlsherpa/
     logo-alt: "Logo"
     collapse: true
     background: light
     search: true
+    
     left:
       - text: Home
         href: index.qmd
@@ -45,12 +47,6 @@ website:
             href: dogs.qmd
           
     right:
-    - icon: linkedin
-      href: https://www.linkedin.com/in/tseringlsherpa/
-      target: _blank
-    - icon: mortarboard
-      text: "UW Website"
-      href: https://econ.washington.edu/people/tsering-sherpa    
     - icon: github
       href: https://github.com/tseringlsherpa
       target: _blank
@@ -63,6 +59,9 @@ website:
       - icon: envelope
         text: "tsherp@uw.edu"
         href: "mailto:tsherp@uw.edu"
+      - icon: mortarboard
+        text: "UW Website"
+        href: https://econ.washington.edu/people/tsering-sherpa  
       - text: "319C Savery Hall, University of Washington, Seattle, WA"
 format:
   html:
