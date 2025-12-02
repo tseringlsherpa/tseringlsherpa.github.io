@@ -42,7 +42,7 @@ website:
             href: engl299.qmd
       - text: "Other"
         menu:
-          - text: "Sources I Like"
+          - text: "Suggested Sources"
             href: tools.qmd
           - text: "Dawgs"
             href: dogs.qmd
@@ -58,12 +58,14 @@ website:
         text: ORCID
         href: https://orcid.org/0009-0000-5484-803X
         target: _blank
-    page-footer: 
-      center: 
-        - icon: envelope 
-          text: "tsherp@uw.edu" 
-          href: "mailto:tsherp@uw.edu" 
-        - text: "319C Savery Hall, University of Washington, Seattle, WA"
+
+  page-footer:
+    center: 
+      - icon: envelope 
+        text: "tsherp@uw.edu" 
+        href: "mailto:tsherp@uw.edu"
+      - text: "319C Savery Hall, University of Washington, Seattle, WA"
+
 format:
   html:
     css: styles.css
