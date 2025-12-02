@@ -31,7 +31,7 @@ website:
         href: res.qmd
       - text: "Teaching"
         menu:
-          - text: "Teaching Experience"
+          - text: "Experience"
             href: teaching.qmd
           - text: "QSCI 381"
             href: qsci381-resources.qmd
