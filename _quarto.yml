@@ -30,9 +30,8 @@ website:
       - text: "Research"
         href: res.qmd
       - text: "Teaching"
-        href: teaching.qmd
         menu:
-          - text: "Teaching"
+          - text: "Teaching Experience"
             href: teaching.qmd
           - text: "QSCI 381"
             href: qsci381-resources.qmd
