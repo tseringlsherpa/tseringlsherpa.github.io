@@ -1,8 +1,7 @@
 ---
-title: "Teaching"
+title: "Teaching Experience"
 toc: TRUE
 ---
-This page is for current and past students. You can reach me at [tsherp@uw.edu](mailto:tsherp@uw.edu) with questions or to set up a meeting. Please refer to Canvas for current office hours.
 
 ## Independent Instructor
 <u>ENGL 299: Intermediate Writing in the Natural Sciences</u>
