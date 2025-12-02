@@ -54,7 +54,9 @@ website:
         icon: envelope
         href: "mailto:tsherp@uw.edu"
       - text: "319C Savery Hall, University of Washington, Seattle, WA"
-          
+      - icon: mortarboard
+        text: "UW Website"
+        href: https://econ.washington.edu/people/tsering-sherpa    
 format:
   html:
     css: styles.css
