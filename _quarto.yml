@@ -13,14 +13,15 @@ website:
   twitter-card: true
   open-graph: true
   site-url: https://tseringlsherpa.github.io
+
   navbar:
     logo: "images/logo.png"
-    href: https://www.linkedin.com/in/tseringlsherpa/
     logo-alt: "Logo"
+    logo-href: https://econ.washington.edu/people/tsering-sherpa
     collapse: true
     background: light
     search: true
-    
+
     left:
       - text: Home
         href: index.qmd
@@ -47,27 +48,22 @@ website:
             href: dogs.qmd
           
     right:
-    - icon: github
-      href: https://github.com/tseringlsherpa
-      target: _blank
-    - icon: orcid
-      text: ORCID
-      href: https://orcid.org/0009-0000-5484-803X
-      target: _blank
-  page-footer:
-    center: 
-      - icon: envelope
-        text: "tsherp@uw.edu"
-        href: "mailto:tsherp@uw.edu"
-      - icon: mortarboard
-        text: "UW Website"
-        href: https://econ.washington.edu/people/tsering-sherpa  
-      - text: "319C Savery Hall, University of Washington, Seattle, WA"
+      - icon: linkedin
+        href: https://www.linkedin.com/in/tseringlsherpa/
+        target: _blank
+      - icon: github
+        href: https://github.com/tseringlsherpa
+        target: _blank
+      - icon: orcid
+        text: ORCID
+        href: https://orcid.org/0009-0000-5484-803X
+        target: _blank
+
 format:
   html:
     css: styles.css
     anchor-sections: false
-    theme: 
+    theme:
       dark: darkly
       light: flatly
     toc: true
