@@ -6,23 +6,9 @@ about:
   image-shape: round
   image-width: 17em
   links:
-    - icon: github
-      text: "GitHub"
-      href: https://github.com/tseringlsherpa
-      target: _blank
-    - icon: linkedin
-      text: "LinkedIn"
-      href: https://www.linkedin.com/in/tseringlsherpa/
-      target: _blank
     - icon: mortarboard
       text: "UW Website"
       href: https://econ.washington.edu/people/tsering-sherpa
-    - icon: envelope
-      text: "Email"
-      href: "mailto:tsherp@uw.edu"
-      target: _blank
-    
-    
 ---
 
 I am a third year PhD student in the Department of Economics at the University of Washington. My research focuses on education and gender in Low to Middle Income Countries. I received my BA in Economics, Magna Cum Laude, and Mathematics from the University of Colorado Boulder, where I also spent most of my life.
