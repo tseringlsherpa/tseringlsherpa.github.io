@@ -28,10 +28,17 @@ website:
         href: res.qmd
       - text: "Teaching"
         href: teaching.qmd
-      - text: "Other"
         menu:
+          - text: "Teaching"
+            href: teaching.qmd
           - text: "QSCI 381"
             href: qsci381-resources.qmd
+          - text: "ECON 201"
+            href: econ201.qmd
+          - text: "ENGL 299"
+            href: engl299.qmd
+      - text: "Other"
+        menu:
           - text: "Sources I Like"
             href: tools.qmd
           - text: "Dawgs"
@@ -41,6 +48,9 @@ website:
     - icon: linkedin
       href: https://www.linkedin.com/in/tseringlsherpa/
       target: _blank
+    - icon: mortarboard
+      text: "UW Website"
+      href: https://econ.washington.edu/people/tsering-sherpa    
     - icon: github
       href: https://github.com/tseringlsherpa
       target: _blank
@@ -50,13 +60,10 @@ website:
       target: _blank
   page-footer:
     center: 
-      - text: "tsherp@uw.edu"
-        icon: envelope
+      - icon: envelope
+        text: "tsherp@uw.edu"
         href: "mailto:tsherp@uw.edu"
       - text: "319C Savery Hall, University of Washington, Seattle, WA"
-      - icon: mortarboard
-        text: "UW Website"
-        href: https://econ.washington.edu/people/tsering-sherpa    
 format:
   html:
     css: styles.css
