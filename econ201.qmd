@@ -1,6 +1,6 @@
 ---
-title: "ECON 201: Student Resources"
+title: "ECON 200/201: Student Resources"
 toc: FALSE
 ---
 
-This page is for current and past students. It includes materials from my time as a TA at UW, focused on introductory economicand applied statistics in natural resource management.
+This page is intended to provide upplementary materials on introductory microeconomics and macroeconomics for current and past students.
