@@ -5,8 +5,16 @@ about:
   template: solana
   image-shape: round
   image-width: 17em
+  links: 
+  - icon: linkedin
+    href: https://www.linkedin.com/in/tseringlsherpa/
+    target: _blank
+  - icon: github 
+    href: https://github.com/tseringlsherpa 
+    target: _blank
+  - icon: orcid 
+    text: ORCID 
+    href: https://orcid.org/0009-0000-5484-803X target: _blank
 ---
 
-I am a third year PhD student in the Department of Economics at the University of Washington. My research focuses on education and gender in Low to Middle Income Countries. I received my BA in Economics, Magna Cum Laude, and Mathematics from the University of Colorado Boulder, where I also spent most of my life.
-
-Outside of academics, I enjoy reading, writing, gardening, and spending time with friends, family, and dogs.
+I am a third-year PhD student in the Department of Economics at the University of Washington. My research focuses on education and gender in Low to Middle Income Countries. I received my BA in Economics, Magna Cum Laude, and Mathematics from the University of Colorado Boulder, where I also spent most of my life.Outside of academics, I enjoy reading, writing, gardening, and spending time with friends, family, and dogs.

@@ -47,18 +47,6 @@ website:
             href: tools.qmd
           - text: "Dawgs"
             href: dogs.qmd
-          
-    right:
-      - icon: linkedin
-        href: https://www.linkedin.com/in/tseringlsherpa/
-        target: _blank
-      - icon: github
-        href: https://github.com/tseringlsherpa
-        target: _blank
-      - icon: orcid
-        text: ORCID
-        href: https://orcid.org/0009-0000-5484-803X
-        target: _blank
 
   page-footer:
     center: 
