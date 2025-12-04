@@ -47,6 +47,13 @@ website:
             href: tools.qmd
           - text: "Dawgs"
             href: dogs.qmd
+    right:
+    - icon: github
+      href: https://github.com/tseringlsherpa
+      target: _blank
+    - icon: linkedin
+      href: https://www.linkedin.com/in/tseringlsherpa/
+      target: _blank
 
   page-footer:
     center: 
