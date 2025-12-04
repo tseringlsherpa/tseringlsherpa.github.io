@@ -1,0 +1,19 @@
+---
+title: "Ruminating Factos"
+author: "Tsering Sherpa"
+listing:
+  contents: "."
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  page-size: 10
+page-layout: full
+title-block-banner: true
+toc: FALSE
+---
+
+Ruminating Factors is a collection of short essays on development economics, education, and gender, with a focus on how incentives, institutions, and technology shape real outcomes. The posts draw on field contexts, NGO interventions, and applied empirical methods to think through mechanisms rather than just estimates. The goal is to think carefully, write clearly, and treat evidence as something to learn from rather than something to perform.
+
+## Posts

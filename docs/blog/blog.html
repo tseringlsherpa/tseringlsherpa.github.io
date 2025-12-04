@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Tsering Sherpa">
 
-<title>Additional Tools – Tsering Sherpa</title>
+<title>Ruminating Factos – Tsering Sherpa</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,25 +24,27 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./images/logo.png" rel="icon" type="image/png">
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-2fef5ea3f8957b3e4ecc936fc74692ca.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-483be5f0ce4ebe40221ec93ff248c0ed.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-c58ee17bb0feb64dd5f65cbbf799362c.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../images/logo.png" rel="icon" type="image/png">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-2fef5ea3f8957b3e4ecc936fc74692ca.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-483be5f0ce4ebe40221ec93ff248c0ed.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-c58ee17bb0feb64dd5f65cbbf799362c.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -69,16 +72,74 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
 
-<link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="Additional Tools – Tsering Sherpa">
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="../styles.css">
+<meta property="og:title" content="Ruminating Factos – Tsering Sherpa">
 <meta property="og:description" content="PhD Student at the University of Washington">
-<meta property="og:image" content="https://tseringlsherpa.github.io/images/profile.jpeg">
+<meta property="og:image" content="https://tseringlsherpa.github.io/blog/images/profile.jpeg">
 <meta property="og:site_name" content="Tsering Sherpa">
-<meta name="twitter:title" content="Additional Tools – Tsering Sherpa">
+<meta name="twitter:title" content="Ruminating Factos – Tsering Sherpa">
 <meta name="twitter:description" content="PhD Student at the University of Washington">
-<meta name="twitter:image" content="https://tseringlsherpa.github.io/images/profile.jpeg">
+<meta name="twitter:image" content="https://tseringlsherpa.github.io/blog/images/profile.jpeg">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -245,12 +306,12 @@ ul.task-list li input[type="checkbox"] {
   </script>
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="https://econ.washington.edu/people/tsering-sherpa" class="navbar-brand navbar-brand-logo">
-    <img src="./images/logo.png" alt="Logo" class="navbar-logo">
+    <img src="../images/logo.png" alt="Logo" class="navbar-logo">
     </a>
     <a class="navbar-brand" href="https://econ.washington.edu/people/tsering-sherpa">
     <span class="navbar-title">Tsering Sherpa</span>
@@ -263,15 +324,15 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./files/cv.pdf"> 
+    <a class="nav-link" href="../files/cv.pdf"> 
 <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./res.html"> 
+    <a class="nav-link" href="../res.html"> 
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -280,19 +341,19 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-teaching">    
         <li>
-    <a class="dropdown-item" href="./teaching.html">
+    <a class="dropdown-item" href="../teaching.html">
  <span class="dropdown-text">Experience</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./qsci381-resources.html">
+    <a class="dropdown-item" href="../qsci381-resources.html">
  <span class="dropdown-text">QSCI 381</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./econ201.html">
+    <a class="dropdown-item" href="../econ201.html">
  <span class="dropdown-text">ECON 201</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./engl299.html">
+    <a class="dropdown-item" href="../engl299.html">
  <span class="dropdown-text">ENGL 299</span></a>
   </li>  
     </ul>
@@ -303,15 +364,15 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-other">    
         <li>
-    <a class="dropdown-item" href="./blog/blog.html">
+    <a class="dropdown-item" href="../blog/blog.html">
  <span class="dropdown-text">Ruminating Factors</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./tools.html">
+    <a class="dropdown-item" href="../tools.html">
  <span class="dropdown-text">Suggested Sources</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./dogs.html">
+    <a class="dropdown-item" href="../dogs.html">
  <span class="dropdown-text">Dawgs</span></a>
   </li>  
     </ul>
@@ -342,67 +403,88 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-page-left">
+      <h1 class="title">Ruminating Factos</h1>
+                      </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta column-page-left">
+
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Tsering Sherpa </p>
+            </div>
+    </div>
+      
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#links" id="toc-links" class="nav-link active" data-scroll-target="#links">Links</a></li>
-  <li><a href="#readings-podcasts-i-like" id="toc-readings-podcasts-i-like" class="nav-link" data-scroll-target="#readings-podcasts-i-like">Readings &amp; Podcasts I Like</a></li>
-  </ul>
-</nav>
-    </div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RGV2ZWxvcG1lbnQ=">Development <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RWR1Y2F0aW9u">Education <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VGVjaG5vbG9neQ==">Technology <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Additional Tools</h1>
+
+
+
+
+<p>Ruminating Factors is a collection of short essays on development economics, education, and gender, with a focus on how incentives, institutions, and technology shape real outcomes. The posts draw on field contexts, NGO interventions, and applied empirical methods to think through mechanisms rather than just estimates. The goal is to think carefully, write clearly, and treat evidence as something to learn from rather than something to perform.</p>
+<section id="posts" class="level2">
+<h2 data-anchor-id="posts">Posts</h2>
+
+
+
+</section>
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="RGV2ZWxvcG1lbnQlMkNFZHVjYXRpb24lMkNUZWNobm9sb2d5" data-listing-date-sort="1764835200000" data-listing-file-modified-sort="1764841710490" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<div class="thumbnail"><a href="../blog/ICTs.html" class="no-external">
+
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../blog/ICTs.html" class="no-external">TBD</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('RGV2ZWxvcG1lbnQ='); return false;">Development</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('RWR1Y2F0aW9u'); return false;">Education</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('VGVjaG5vbG9neQ=='); return false;">Technology</div>
+
 </div>
-
-
-
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-<section id="links" class="level2">
-<h2 data-anchor-id="links">Links</h2>
-<p>Below are tools and guides I recommend for getting started:</p>
-<ul>
-<li><a href="https://happygitwithr.com/">Learn to use GitHub</a></li>
-<li><a href="https://education.rstudio.com/learn/beginner/">Learn to use RStudio</a></li>
-<li><a href="https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes">Learn to use Overleaf</a></li>
-<li><a href="https://quarto.org/docs/websites/">How to make a website with Quarto</a></li>
-</ul>
-</section>
-<section id="readings-podcasts-i-like" class="level2">
-<h2 data-anchor-id="readings-podcasts-i-like">Readings &amp; Podcasts I Like</h2>
-<ul>
-<li><p><a href="https://blogs.worldbank.org/en/impactevaluations">World Bank Blogs: Development Impact</a></p></li>
-<li><p><a href="https://www.cgdev.org/">Center for Global Development</a></p></li>
-<li><p><a href="https://marcfbellemare.com/wordpress/14585">Agricultural Economics - Without Apology</a></p></li>
-<li><p><a href="https://blog.supplysideliberal.com/">Confessions of a Supply-Side Liberal</a></p></li>
-<li><p><a href="https://erik-t-andersen.com/blog/blog">Erik’s Blog</a></p></li>
-<li><p><a href="https://stoicismpod.com/">Practical Stoicism</a></p></li>
-</ul>
-
-
-</section>
-
-</main> <!-- /main -->
+<div class="delink listing-description"><a href="../blog/ICTs.html" class="no-external">
+Forthcoming
+</a></div>
+</div>
+<div class="metadata">
+<a href="../blog/ICTs.html" class="no-external">
+<div class="listing-date">
+Dec 4, 2025
+</div>
+<div class="listing-author">
+Tsering Sherpa
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right

@@ -41,6 +41,8 @@ website:
             href: engl299.qmd
       - text: "Other"
         menu:
+          - text: "Ruminating Factors"
+            href: blog/blog.qmd
           - text: "Suggested Sources"
             href: tools.qmd
           - text: "Dawgs"
