@@ -1,3 +1,6 @@
+/* ===== FONT IMPORTS ===== */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&family=Libre+Baskerville:wght@400;700&family=Playfair+Display:wght@400;600&display=swap');
+
 /* NAVBAR LOGO SETTINGS */
 .navbar-brand img {
   height: 100px !important;
@@ -91,12 +94,11 @@
   width: auto !important;
   max-height: none !important;
 }
-
-/* ===== Ruminating Factors Editorial Banner ===== */
+/* ===== Ruminating Factors Editorial Banner (LIGHT, NOT DARK) ===== */
 
 .quarto-title-banner {
-  background-color: #697B72;  /* birch / light sage */
-  color: #FCFBF4;            /* warm black, not harsh */
+  background-color: #E6EDE6;   /* birch / light sage */
+  color: #2F2F2F;             /* warm black */
   border-bottom: 1px solid rgba(0, 0, 0, 0.06);
 }
 
@@ -107,11 +109,11 @@
   letter-spacing: 0.3px;
 }
 
-/* ===== Editorial Typography ===== */
+/* ===== Editorial Typography (LIGHT MODE SAFE) ===== */
 
 body {
   font-family: "Inter", "IBM Plex Sans", sans-serif;
-  color: #FCFBF4;
+  color: #2E2E2E;   /* restores readable dark text */
 }
 
 h2, h3, h4 {
