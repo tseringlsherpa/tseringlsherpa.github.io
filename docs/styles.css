@@ -91,3 +91,44 @@
   width: auto !important;
   max-height: none !important;
 }
+
+/* ===== Ruminating Factors Editorial Banner ===== */
+
+.quarto-title-banner {
+  background-color: #E6EDE6;  /* birch / light sage */
+  color: #2F2F2F;            /* warm black, not harsh */
+  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+/* Title */
+.quarto-title-banner h1 {
+  font-family: "Libre Baskerville", "Playfair Display", serif;
+  font-weight: 500;
+  letter-spacing: 0.3px;
+}
+
+/* Subtitle */
+.quarto-title-banner .subtitle,
+.quarto-title-banner p {
+  font-family: "Inter", "Source Sans 3", sans-serif;
+  font-weight: 400;
+  color: #444444;
+}
+
+/* Remove any default dark overlay */
+.quarto-title-banner::before {
+  background: none;
+}
+
+/* ===== Editorial Typography ===== */
+
+body {
+  font-family: "Inter", "IBM Plex Sans", sans-serif;
+  color: #2E2E2E;
+}
+
+h2, h3, h4 {
+  font-family: "Libre Baskerville", "Playfair Display", serif;
+  font-weight: 500;
+  letter-spacing: 0.2px;
+}
