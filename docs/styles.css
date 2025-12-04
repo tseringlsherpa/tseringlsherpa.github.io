@@ -14,7 +14,7 @@
 
 /* LIGHT MODE STYLING */
 .navbar {
-  background-color: #89a87d;
+  background-color: #A6B697;
   color: #111111;
 }
 
@@ -38,7 +38,7 @@
 /* DARK MODE OVERRIDES */
 @media (prefers-color-scheme: dark) {
   .navbar {
-    background-color: #89a87d;
+    background-color: #A6B697;
     color: #ffffff;
   }
 
@@ -95,8 +95,8 @@
 /* ===== Ruminating Factors Editorial Banner ===== */
 
 .quarto-title-banner {
-  background-color: #FCFBF4;  /* birch / light sage */
-  color: #2F2F2F;            /* warm black, not harsh */
+  background-color: #697B72;  /* birch / light sage */
+  color: #FCFBF4;            /* warm black, not harsh */
   border-bottom: 1px solid rgba(0, 0, 0, 0.06);
 }
 
