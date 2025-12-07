@@ -94,30 +94,26 @@
   width: auto !important;
   max-height: none !important;
 }
-/* ===== Ruminating Factors Editorial Banner (LIGHT, NOT DARK) ===== */
-
+/* ===== LIGHT MODE BANNER ===== */
 .quarto-title-banner {
-  background-color: #E6EDE6;   /* birch / light sage */
-  color: #2F2F2F;             /* warm black */
+  background-color: #E6EDE6;
+  color: #2F2F2F;
   border-bottom: 1px solid rgba(0, 0, 0, 0.06);
 }
 
-/* Title */
-.quarto-title-banner h1 {
-  font-family: "Libre Baskerville", "Playfair Display", serif;
-  font-weight: 500;
-  letter-spacing: 0.3px;
-}
+/* ===== DARK MODE BANNER FIX ===== */
+@media (prefers-color-scheme: dark) {
+  .quarto-title-banner {
+    background-color: #1E2621;
+    color: #EDEFEA;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  }
 
-/* ===== Editorial Typography (LIGHT MODE SAFE) ===== */
+  body {
+    color: #EDEFEA;
+  }
 
-body {
-  font-family: "Inter", "IBM Plex Sans", sans-serif;
-  color: #2E2E2E;   /* restores readable dark text */
-}
-
-h2, h3, h4 {
-  font-family: "Libre Baskerville", "Playfair Display", serif;
-  font-weight: 500;
-  letter-spacing: 0.2px;
+  h2, h3, h4 {
+    color: #EDEFEA;
+  }
 }
