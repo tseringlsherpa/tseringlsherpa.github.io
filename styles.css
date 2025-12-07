@@ -94,26 +94,3 @@
   width: auto !important;
   max-height: none !important;
 }
-/* ===== LIGHT MODE BANNER ===== */
-.quarto-title-banner {
-  background-color: #E6EDE6;
-  color: #2F2F2F;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
-}
-
-/* ===== DARK MODE BANNER FIX ===== */
-@media (prefers-color-scheme: dark) {
-  .quarto-title-banner {
-    background-color: #1E2621;
-    color: #EDEFEA;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
-  }
-
-  body {
-    color: #EDEFEA;
-  }
-
-  h2, h3, h4 {
-    color: #EDEFEA;
-  }
-}
