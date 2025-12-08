@@ -95,17 +95,18 @@
   max-height: none !important;
 }
 
-/* Sage divider under the Ruminating Factors title */
+/* Title strip behind "Ruminating Factors" */
 .quarto-title-banner {
-  border-bottom: 1px solid rgba(166, 182, 151, 0.7) !important;
+  background-color: #A6B697 !important;   /* sage, same family as navbar */
+  color: #f5f5f5 !important;              /* keep the title readable */
+  border-bottom: 1px solid #A6B697 !important;
   box-shadow: none !important;
 }
 
-/* Make sure dark mode also uses the sage border */
+/* Make sure dark mode doesn't turn it grey again */
 @media (prefers-color-scheme: dark) {
   .quarto-title-banner {
-    border-bottom: 1px solid rgba(166, 182, 151, 0.7) !important;
-    box-shadow: none !important;
+    background-color: #A6B697 !important;
+    border-bottom: 1px solid #A6B697 !important;
   }
 }
-
