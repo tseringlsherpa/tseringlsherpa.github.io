@@ -47,18 +47,16 @@ website:
             href: tools.qmd
           - text: "Dawgs"
             href: dogs.qmd
-    right:
-    - icon: github
-      href: https://github.com/tseringlsherpa
-      target: _blank
-    - icon: linkedin
-      href: https://www.linkedin.com/in/tseringlsherpa/
-      target: _blank
 
   page-footer:
-    center: 
-      - icon: envelope 
-        text: "tsherp@uw.edu" 
+    right:
+      - icon: github
+        href: https://github.com/tseringlsherpa
+      - icon: linkedin
+        href: https://www.linkedin.com/in/tseringlsherpa/
+    center:
+      - icon: envelope
+        text: "tsherp@uw.edu"
         href: "mailto:tsherp@uw.edu"
       - text: "319C Savery Hall, University of Washington, Seattle, WA"
 
@@ -70,3 +68,6 @@ format:
       dark: darkly
       light: flatly
     toc: true
+
+
+  
