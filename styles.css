@@ -95,8 +95,10 @@
   max-height: none !important;
 }
 
+/* Earthy sage divider under Ruminating Factors */
 .quarto-title-banner {
-  border-bottom: none !important;
+  border-bottom: 1px solid rgba(166, 182, 151, 0.6) !important;
   box-shadow: none !important;
 }
+
 
