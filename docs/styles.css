@@ -94,3 +94,9 @@
   width: auto !important;
   max-height: none !important;
 }
+
+.quarto-title-banner {
+  border-bottom: none !important;
+  box-shadow: none !important;
+}
+
