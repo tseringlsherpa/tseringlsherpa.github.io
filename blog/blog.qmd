@@ -1,5 +1,6 @@
 ---
-title: "Ruminating Factors ~ Notes on measurement, education, and gender in development"
+title: "Ruminating Factors"
+subtitle: "Your world, your pleasure, your expression through development, education, and data"
 author: "Tsering Sherpa"
 listing:
   contents: "."
