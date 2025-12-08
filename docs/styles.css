@@ -98,7 +98,7 @@
 /* Title strip behind "Ruminating Factors" */
 .quarto-title-banner {
   background-color: #97a6b6 !important;   /* sage, same family as navbar */
-  color: #c4ccd6 !important;              /* keep the title readable */
+  color: #f0f0f0 !important;              /* keep the title readable */
   border-bottom: 1px solid #97a6b6 !important;
   box-shadow: none !important;
 }
