@@ -97,16 +97,16 @@
 
 /* Title strip behind "Ruminating Factors" */
 .quarto-title-banner {
-  background-color: #A6B697 !important;   /* sage, same family as navbar */
-  color: #f5f5f5 !important;              /* keep the title readable */
-  border-bottom: 1px solid #A6B697 !important;
+  background-color: #97a6b6 !important;   /* sage, same family as navbar */
+  color: #c4ccd6 !important;              /* keep the title readable */
+  border-bottom: 1px solid #97a6b6 !important;
   box-shadow: none !important;
 }
 
 /* Make sure dark mode doesn't turn it grey again */
 @media (prefers-color-scheme: dark) {
   .quarto-title-banner {
-    background-color: #A6B697 !important;
-    border-bottom: 1px solid #A6B697 !important;
+    background-color: #97a6b6 !important;
+    border-bottom: 1px solid #97a6b6 !important;
   }
 }
