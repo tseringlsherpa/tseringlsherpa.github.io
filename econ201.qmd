@@ -1,6 +1,4 @@
 ---
-title: "ECON 200/201: Student Resources"
+title: "ECON 201: Introduction to Macroeconomics"
 toc: FALSE
 ---
-
-This page is intended to provide upplementary materials on introductory microeconomics and macroeconomics for current and past students.

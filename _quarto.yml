@@ -33,12 +33,12 @@ website:
         menu:
           - text: "Experience"
             href: teaching.qmd
-          - text: "QSCI 381"
-            href: qsci381-resources.qmd
-          - text: "ECON 200/201"
+          - text: "ECON 201"
             href: econ201.qmd
           - text: "ENGL 299"
             href: engl299.qmd
+          - text: "QSCI 381"
+            href: qsci381-resources.qmd
       - text: "Other"
         menu:
           - text: "Ruminating Factors"
