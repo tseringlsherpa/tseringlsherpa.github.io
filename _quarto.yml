@@ -41,7 +41,7 @@ website:
             href: qsci381-resources.qmd
       - text: "Other"
         menu:
-          - text: "Ruminating Factors"
+          - text: "Blog"
             href: blog/blog.qmd
           - text: "Suggested Sources"
             href: tools.qmd
