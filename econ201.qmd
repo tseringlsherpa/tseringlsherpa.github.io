@@ -7,9 +7,9 @@ toc: FALSE
 
 Before we begin, please take the time to read and familiarize yourself with the most recent version of the [syllabus](files/ECON201/ECON201_Syllabus.pdf). This course is **fully in person**, and most of your success will come from staying engaged during lecture, keeping up with the weekly homework, and asking questions early. The syllabus outlines exactly how the class is structured, what is expected of you, and how to prepare for each week.
 
-We will start with a brief review of material from ECON 200 (Introduction to Microeconomics). For many of you, this will feel familiar, but it provides important foundations for the macroeconomic concepts we will use throughout the quarter.
+We will begin with a brief review of supply and demand concepts from ECON 200. For many of you, this material will feel familiar, but it is essential groundwork for the macroeconomic tools we develop throughout the quarter.
 
-The remainder of the course focuses on **macroeconomics**, which studies the economy as a whole rather than individual decision-makers. While microeconomics examines the behavior of consumers and firms, macroeconomics asks broader questions:
+The focus of the course is **macroeconomics**, which studies the economy as a whole rather than individual decision-makers. While microeconomics examines how consumers and firms behave, macroeconomics asks broader questions about national and global economic conditions, such as:
 
 -   What causes economies to grow or fall into recession?
 
@@ -19,13 +19,9 @@ The remainder of the course focuses on **macroeconomics**, which studies the eco
 
 -   What role do banks, interest rates, and exchange rates play in shaping the economy?
 
-To answer these questions, we will study business cycles, GDP, labor markets, inflation, financial systems, monetary and fiscal policy, and international linkages. Throughout the quarter, we will connect these concepts to real-world events and policy decisions.
+Throughout the quarter, we will study GDP, labor markets, inflation, the financial sector, monetary and fiscal policy, and international linkages. These topics will be tied directly to current events and real-world policy debates. Weekly homework, in-class quizzes, writing assignments, and exams are designed to reinforce these concepts and help you practice applying them.
 
-Please make sure you can access our Canvas page, where weekly homework and readings will be posted. **Canvas homework is due every Sunday at 11:59pm**, and the lowest homework score is dropped automatically. If you have questions on the material or want clarification on a topic, come to office hours on Tuesdays or email me to schedule an appointment.
-
-You will complete **two in-person writing assignments** during class on Thursdays in the final hour. These are handwritten, prompt-based assessments designed to help you practice applying macroeconomic tools to real economic scenarios (without the need for laptops or outside assistance).
-
-There will also be two exams: a **midterm** and a **final exam**. The midterm covers the first half of the course, and the final exam focuses on the material learned after the midterm. Both exams will be held **in person at our regular class time**.
+Please make sure you can access Canvas, where weekly homework, readings, and announcements will be posted.
 
 ## **My Approach to Economic Reasoning**
 
@@ -43,13 +39,12 @@ Economic reasoning is not about memorizing definitions or formulas. It is the sk
 
 • **Learn to communicate in the language of economics.** Many students already think intuitively in terms of incentives and mechanisms; the goal of this course is to help you express that reasoning clearly and confidently.
 
-The purpose of this course is not only to teach macroeconomic tools, but to help you develop a durable way of thinking. If you approach the material with clarity, curiosity, and persistence, you will see steady growth in your analytical skills. Confidence comes from consistent effort, not from knowing everything immediately.
+The goal of ECON 201 is not just to teach macroeconomic tools, but to help you develop a durable way of thinking about the economy. Confidence comes from consistent engagement and the willingness to revisit ideas until they click. Economics is a skill you build through practice, not something you either understand immediately or never will.
 
-Economics is a skill you build, not something you either “get” or “don’t get.” Approach the material with patience and intention, and allow yourself the space to grow into this way of thinking.
+If anything in the syllabus is unclear or if you have concerns about your progress, please reach out early. I am here to support your learning.
 
-If anything in the syllabus is unclear, or if you have concerns about your progress, please reach out. I am here to support your learning, and early questions make a meaningful difference.
+I look forward to working with you this quarter.
 
-I look forward to learning and working with you this quarter.
+**Best,\
 
-**Best,**\
-Tsering Sherpa
+Tsering Sherpa**
