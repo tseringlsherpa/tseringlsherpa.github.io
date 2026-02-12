@@ -1,0 +1,41 @@
+---
+title: "RA_R"
+author: "Tsering Sherpa"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyr)
+library(dplyr)
+library(lubridate)
+library(fuzzyjoin)
+library(stringdist)
+library(data.table)
+library(stringr)
+library(purrr)
+library(uuid)
+library(pcaMethods)
+library(tibble)
+```
+Load in Data:
+```{r}
+#htn_schools <- read.csv("file_path_name/htn_schools.csv")
+```
+
+Summary Statistics Needed:
+Total Number of schools
+Total Number of Schools with a computer lab
+Average exam score (subject specific and cumulative) for schools with computer labs and schools without computer labs.
+Average exam score (subject specific and cumulative) for schools with computer labs and schools without computer labs by gender.
+Average exam score (subject specific and cumulative) for schools with computer labs and schools without computer labs by grade and year.
+Number of students per grade
+Number of students per grade in computer vs non computer lab schools
+Standard deviations
+
+
+
