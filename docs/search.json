@@ -7,144 +7,32 @@
     "text": "library(tidyr)\nlibrary(dplyr)\n\n\nAttaching package: 'dplyr'\n\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union\n\nlibrary(lubridate)\n\n\nAttaching package: 'lubridate'\n\n\nThe following objects are masked from 'package:base':\n\n    date, intersect, setdiff, union\n\nlibrary(fuzzyjoin)\nlibrary(stringdist)\n\n\nAttaching package: 'stringdist'\n\n\nThe following object is masked from 'package:tidyr':\n\n    extract\n\nlibrary(data.table)\n\n\nAttaching package: 'data.table'\n\n\nThe following objects are masked from 'package:lubridate':\n\n    hour, isoweek, mday, minute, month, quarter, second, wday, week,\n    yday, year\n\n\nThe following objects are masked from 'package:dplyr':\n\n    between, first, last\n\nlibrary(stringr)\nlibrary(purrr)\n\n\nAttaching package: 'purrr'\n\n\nThe following object is masked from 'package:data.table':\n\n    transpose\n\nlibrary(uuid)\nlibrary(pcaMethods)\n\nLoading required package: Biobase\n\n\nLoading required package: BiocGenerics\n\n\nLoading required package: generics\n\n\n\nAttaching package: 'generics'\n\n\nThe following object is masked from 'package:lubridate':\n\n    as.difftime\n\n\nThe following object is masked from 'package:dplyr':\n\n    explain\n\n\nThe following objects are masked from 'package:base':\n\n    as.difftime, as.factor, as.ordered, intersect, is.element, setdiff,\n    setequal, union\n\n\n\nAttaching package: 'BiocGenerics'\n\n\nThe following object is masked from 'package:dplyr':\n\n    combine\n\n\nThe following objects are masked from 'package:stats':\n\n    IQR, mad, sd, var, xtabs\n\n\nThe following objects are masked from 'package:base':\n\n    anyDuplicated, aperm, append, as.data.frame, basename, cbind,\n    colnames, dirname, do.call, duplicated, eval, evalq, Filter, Find,\n    get, grep, grepl, is.unsorted, lapply, Map, mapply, match, mget,\n    order, paste, pmax, pmax.int, pmin, pmin.int, Position, rank,\n    rbind, Reduce, rownames, sapply, saveRDS, table, tapply, unique,\n    unsplit, which.max, which.min\n\n\nWelcome to Bioconductor\n\n    Vignettes contain introductory material; view with\n    'browseVignettes()'. To cite Bioconductor, see\n    'citation(\"Biobase\")', and for packages 'citation(\"pkgname\")'.\n\n\n\nAttaching package: 'pcaMethods'\n\n\nThe following object is masked from 'package:stats':\n\n    loadings\n\nlibrary(tibble)\n\nLoad in Data:\n\n#htn_schools &lt;- read.csv(\"file_path_name/htn_schools.csv\")\n\nSummary Statistics Needed: Total Number of schools Total Number of Schools with a computer lab Average exam score (subject specific and cumulative) for schools with computer labs and schools without computer labs. Average exam score (subject specific and cumulative) for schools with computer labs and schools without computer labs by gender. Average exam score (subject specific and cumulative) for schools with computer labs and schools without computer labs by grade and year. Number of students per grade Number of students per grade in computer vs non computer lab schools Standard deviations"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
+    "objectID": "res.html",
+    "href": "res.html",
+    "title": "Research",
     "section": "",
-    "text": "I’m a third-year PhD student in economics at the University of Washington. I grew up in Boulder, Colorado, and earned my undergraduate degree in applied mathematics and economics from the University of Colorado in May 2023. My undergraduate honors thesis, advised by Professor Taylor Jaworski, examined the effect of wildfires on U.S. county-level house prices.\nIn the summer of 2022, I studied abroad at the London School of Economics, where I took a course on Management Analytics in the Age of Big Data, which introduced me to the applications of statistical and causal inference in decision-making under uncertainty.\nMy interest in economics began in high school after watching a documentary in my AP economics class. It revealed the unintended consequences of global consumption, how well-meaning interventions in lower-income countries can end up undermining local economies and harming the environment. That experience pushed me to study economic structures and externalities more seriously, and it’s stayed with me as a central motivation.\nI’ve always wanted to understand the decisions people make and the systems they navigate. While economic models aren’t perfect, I appreciate their ability to combine theory with empirical evidence to analyze real-world problems. That’s what drew me to research: I wanted to develop the skills to study pressing issues using data and to contribute ideas that could reduce harm or inform better policy. Over time, that interest has evolved into a broader commitment to studying inequality, structural constraints, and the effects of interventions, especially in contexts I have personal ties to, such as Sherpa communities.\nAfter completing my PhD, I hope to pursue a research-oriented position where I can continue working on these questions. I’m also deeply interested in mentoring and teaching, especially supporting students from underrepresented backgrounds, including women, and first-generation students in navigating economics as a field."
+    "text": "I study development economics, with a focus on human capital formation, the role of technology in education, and how households and institutions make decisions under constraints. My work combines causal inference with field-based empirical research.\nMy research originates in the Himalayan region, where families navigate constraints in schooling, gender norms, access to opportunities, and growing climate risks. A core goal of my work is to generate empirical evidence that can inform policy and contribute something meaningful to the region that made it possible for me to pursue an academic path.\nMy dissertation committee at the University of Washington is chaired by Rachel Heath and includes Alan Griffith, Isabelle Cohen, and André Punt."
   },
   {
-    "objectID": "blog/blog.html",
-    "href": "blog/blog.html",
-    "title": "Working Through Mechanisms",
+    "objectID": "res.html#research-in-progress",
+    "href": "res.html#research-in-progress",
+    "title": "Research",
+    "section": "Research in Progress",
+    "text": "Research in Progress\nSHERPA: Solukhumbu Himalayan Education & Research on Pathways and Assessment\nAn independent, field-based research project examining the impacts of NGO-provided educational programs on educational trajectories and vocational aspirations among Sherpa youth in Nepal. The first paper from the project asks how the installation of school computer labs in Solukhumbu affects students’ academic achievement, exploiting the staggered rollout of labs across schools in partnership with the Himalayan Trust Network’s Quality Education Programme. I conducted dissertation fieldwork at sites in the Khumbu and Junbesi clusters in March 2026 — see the Fieldwork page."
+  },
+  {
+    "objectID": "res.html#other-experience",
+    "href": "res.html#other-experience",
+    "title": "Research",
+    "section": "Other Experience",
+    "text": "Other Experience\nIn addition to dissertation research, I have worked as an applied policy consultant with Delphy AgAdvisory on regional economic impact analysis (2026), as a research assistant with Northwest Economics LLC in Seattle on payroll and wage-and-hour litigation (Summer 2025), and as an undergraduate research assistant in the University of Colorado Department of Economics on subjective well-being measurement (2022)."
+  },
+  {
+    "objectID": "qsci381-resources.html",
+    "href": "qsci381-resources.html",
+    "title": "QSCI 381: Student Resources",
     "section": "",
-    "text": "I am a PhD student in economics at UW Seattle focusing on applied micro and development. My writing explores mechanisms, evidence, and measurement in education, gender, and institutions.\nThis blog serves as a collection of short essays on development economics, education, and gender, with a focus on how incentives, institutions, and technology shape real outcomes. The posts draw on field contexts, education interventions, and applied empirical methods to think through mechanisms rather than just estimates. The goal is to think carefully, write clearly, and treat evidence as something to learn from rather than something to perform."
-  },
-  {
-    "objectID": "blog/blog.html#posts",
-    "href": "blog/blog.html#posts",
-    "title": "Working Through Mechanisms",
-    "section": "Posts",
-    "text": "Posts"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Tsering Sherpa",
-    "section": "",
-    "text": "I am a third-year PhD student in the Department of Economics at the University of Washington. My research focuses on education and gender in Low to Middle Income Countries. I received my BA in Economics (Magna Cum Laude), and Mathematics from the University of Colorado Boulder, where I also spent most of my life.Outside of academics, I enjoy reading, writing, gardening, and spending time with friends, family, and dogs."
-  },
-  {
-    "objectID": "econ201.html",
-    "href": "econ201.html",
-    "title": "ECON 201: Introduction to Macroeconomics",
-    "section": "",
-    "text": "Before we begin, please take the time to read and familiarize yourself with the most recent version of the syllabus. This course is fully in person, and most of your success will come from staying engaged during lecture, keeping up with the weekly homework, and asking questions early. The syllabus outlines exactly how the class is structured, what is expected of you, and how to prepare for each week.\nWe will begin with a brief review of supply and demand concepts from ECON 200. For many of you, this material will feel familiar, but it is essential groundwork for the macroeconomic tools we develop throughout the quarter.\nThe focus of the course is macroeconomics, which studies the economy as a whole rather than individual decision-makers. While microeconomics examines how consumers and firms behave, macroeconomics asks broader questions about national and global economic conditions, such as:\n\nWhat causes economies to grow or fall into recession?\nWhy do inflation and unemployment occur?\nHow do fiscal and monetary policy influence economic outcomes\nWhat role do banks, interest rates, and exchange rates play in shaping the economy?\n\nThroughout the quarter, we will study GDP, labor markets, inflation, the financial sector, monetary and fiscal policy, and international linkages. These topics will be tied directly to current events and real-world policy debates. Weekly homework, in-class quizzes, writing assignments, and exams are designed to reinforce these concepts and help you practice applying them.\nPlease make sure you can access Canvas, where weekly homework, readings, and announcements will be posted."
-  },
-  {
-    "objectID": "econ201.html#welcome-message-for-students",
-    "href": "econ201.html#welcome-message-for-students",
-    "title": "ECON 201: Introduction to Macroeconomics",
-    "section": "",
-    "text": "Before we begin, please take the time to read and familiarize yourself with the most recent version of the syllabus. This course is fully in person, and most of your success will come from staying engaged during lecture, keeping up with the weekly homework, and asking questions early. The syllabus outlines exactly how the class is structured, what is expected of you, and how to prepare for each week.\nWe will begin with a brief review of supply and demand concepts from ECON 200. For many of you, this material will feel familiar, but it is essential groundwork for the macroeconomic tools we develop throughout the quarter.\nThe focus of the course is macroeconomics, which studies the economy as a whole rather than individual decision-makers. While microeconomics examines how consumers and firms behave, macroeconomics asks broader questions about national and global economic conditions, such as:\n\nWhat causes economies to grow or fall into recession?\nWhy do inflation and unemployment occur?\nHow do fiscal and monetary policy influence economic outcomes\nWhat role do banks, interest rates, and exchange rates play in shaping the economy?\n\nThroughout the quarter, we will study GDP, labor markets, inflation, the financial sector, monetary and fiscal policy, and international linkages. These topics will be tied directly to current events and real-world policy debates. Weekly homework, in-class quizzes, writing assignments, and exams are designed to reinforce these concepts and help you practice applying them.\nPlease make sure you can access Canvas, where weekly homework, readings, and announcements will be posted."
-  },
-  {
-    "objectID": "econ201.html#my-approach-to-economic-reasoning",
-    "href": "econ201.html#my-approach-to-economic-reasoning",
-    "title": "ECON 201: Introduction to Macroeconomics",
-    "section": "My Approach to Economic Reasoning",
-    "text": "My Approach to Economic Reasoning\nEconomic reasoning is not about memorizing definitions or formulas. It is the skill of taking a real-world question, breaking it into its essential components, and using evidence, models, and logic to understand what is happening. This is a way of thinking that anyone can learn with deliberate practice.\n• Economics is a discipline of clarity. A well-reasoned explanation is more valuable than a complicated one. When you can articulate why something happens using the basic tools of the course, you are thinking like an economist.\n• Mistakes are informative, not failures. Misinterpreting a graph or misapplying a concept is part of the learning process. These moments reveal where your reasoning can be strengthened, not your limits.\n• Deep understanding comes from revisiting ideas. Macroeconomic concepts connect to one another: GDP, unemployment, inflation, interest rates, and policy decisions are interdependent. Repetition builds intuition.\n• Think in mechanisms, not labels. Rather than remembering that “AD shifts left,” focus on why households or firms change their decisions, or how interest rates affect investment. Mechanisms allow you to apply your knowledge well beyond textbook examples.\n• Focus on questions, not shortcuts. Strong economic reasoning comes from consistently asking: What changed? Who is affected? Through what channel? What are the tradeoffs?\n• Learn to communicate in the language of economics. Many students already think intuitively in terms of incentives and mechanisms; the goal of this course is to help you express that reasoning clearly and confidently.\nThe goal of ECON 201 is not just to teach macroeconomic tools, but to help you develop a durable way of thinking about the economy. Confidence comes from consistent engagement and the willingness to revisit ideas until they click. Economics is a skill you build through practice, not something you either understand immediately or never will.\nIf anything in the syllabus is unclear or if you have concerns about your progress, please reach out early. I am here to support your learning.\nI look forward to working with you this quarter.\n\nBest,\nTsering Sherpa"
-  },
-  {
-    "objectID": "engl299.html",
-    "href": "engl299.html",
-    "title": "ENGL 299: Intermediate Writing in the Natural Sciences",
-    "section": "",
-    "text": "This page is for students enrolled in Intermediate Writing in the Natural Sciences (ENGL 299) during Spring Quarter 2026.\nThis intermediate writing course is linked with Nutrition for Today (NUTR 200), with the details available on myplan.\nENGL 299 Syllabus"
-  },
-  {
-    "objectID": "engl299.html#links-to-readings",
-    "href": "engl299.html#links-to-readings",
-    "title": "ENGL 299: Intermediate Writing in the Natural Sciences",
-    "section": "Links to Readings”",
-    "text": "Links to Readings”\nE"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching Experience",
-    "section": "",
-    "text": "EC 201: Introduction to Macroeconomics\nWinter 2026\nENGL 299: Intermediate Writing in the Natural Sciences\nSpring 2026"
-  },
-  {
-    "objectID": "teaching.html#independent-instructor",
-    "href": "teaching.html#independent-instructor",
-    "title": "Teaching Experience",
-    "section": "",
-    "text": "EC 201: Introduction to Macroeconomics\nWinter 2026\nENGL 299: Intermediate Writing in the Natural Sciences\nSpring 2026"
-  },
-  {
-    "objectID": "teaching.html#teaching-assistant",
-    "href": "teaching.html#teaching-assistant",
-    "title": "Teaching Experience",
-    "section": "Teaching Assistant",
-    "text": "Teaching Assistant\nQSCI 381: Introduction to Probability and Statistics\nAutumn 2024 and 2025, Winter 2025, Spring 2025\nEC 201: Introduction to Macroeconomics\nSpring 2024, Summer 2024\nEC 200: Introduction to Microeconomics\nWinter 2024, Summer 2024"
-  },
-  {
-    "objectID": "community.html",
-    "href": "community.html",
-    "title": "Community Engagement",
-    "section": "",
-    "text": "At the University of Washington, I stay engaged through both departmental service and community-building initiatives. I currently serve as Vice President of the Economics Graduate Student Committee, where I’ve advocated for more equitable and transparent funding practices.\nI’m also an active member of UW’s Women in Economics (WiE), with a focus on increasing undergraduate engagement and strengthening board collaboration to support events and outreach. In the 2024–25 academic year, I served as a mentor for first-year PhD students through a department-led initiative, co-leading quarterly check-ins with a faculty advisor to support student well-being, academic progress, and professional development.\nAs an undergraduate at CU Boulder, I was involved in several student organizations, including the American Marketing Association, the Finance Board (where I served as a voting member), and CU Women in Economics. I worked as a learning assistant and tutor for Calculus II and III, and on the Finance Board, I helped evaluate student fee allocations during a period of post-COVID budget restructuring. That experience taught me how to navigate institutional trade-offs and advocate effectively for student needs.\nI also volunteered as a reading tutor for elementary students whose early literacy development had been disrupted by COVID. That experience sparked a deeper interest in education equity and continues to shape how I think about access, learning, and support across developmental stages."
-  },
-  {
-    "objectID": "tools.html",
-    "href": "tools.html",
-    "title": "Additional Tools",
-    "section": "",
-    "text": "Below are tools and guides I recommend for getting started:\n\nLearn to use GitHub\nLearn to use RStudio\nLearn to use Overleaf\nHow to make a website with Quarto"
-  },
-  {
-    "objectID": "tools.html#links",
-    "href": "tools.html#links",
-    "title": "Additional Tools",
-    "section": "",
-    "text": "Below are tools and guides I recommend for getting started:\n\nLearn to use GitHub\nLearn to use RStudio\nLearn to use Overleaf\nHow to make a website with Quarto"
-  },
-  {
-    "objectID": "tools.html#readings-podcasts-i-like",
-    "href": "tools.html#readings-podcasts-i-like",
-    "title": "Additional Tools",
-    "section": "Readings & Podcasts I Like",
-    "text": "Readings & Podcasts I Like\n\nWorld Bank Blogs: Development Impact\nCenter for Global Development\nAgricultural Economics - Without Apology\nConfessions of a Supply-Side Liberal\nErik’s Blog\nPractical Stoicism"
-  },
-  {
-    "objectID": "dogs.html",
-    "href": "dogs.html",
-    "title": "Loyal Company",
-    "section": "",
-    "text": "These dogs have, each in their own way, shaped my sense of care, patience, and presence."
-  },
-  {
-    "objectID": "dogs.html#cody-sherpa",
-    "href": "dogs.html#cody-sherpa",
-    "title": "Loyal Company",
-    "section": "Cody Sherpa",
-    "text": "Cody Sherpa\n\nCody was our family’s chihuahua mix and my childhood pet. We adopted him in 2012, and we got to spend nearly 13 years with him. We also have another family dog named Daisy."
-  },
-  {
-    "objectID": "dogs.html#foster-dogs-in-seattle",
-    "href": "dogs.html#foster-dogs-in-seattle",
-    "title": "Loyal Company",
-    "section": "Foster Dogs in Seattle",
-    "text": "Foster Dogs in Seattle\nBelow are some of the puppies and dogs I’ve fostered through Resilient Hearts Animal Sanctuary in Seattle.\nIf you’re in Seattle and interested in fostering, I highly recommend getting involved. Fostering allows shelters to make space for unhoused dogs, helping reduce overcrowding and minimizing the risk of euthanasia due to lack of resources.\n\n\n\n\nMushu\n\n\n\n\n\nRoo\n\n\n\n\n\n\n\nYuki\n\n\n\n\n\nPingu\n\n\n\n\n\n\nCharlie Jr."
-  },
-  {
-    "objectID": "dogs.html#go-dawgs",
-    "href": "dogs.html#go-dawgs",
-    "title": "Loyal Company",
-    "section": "Go Dawgs!",
-    "text": "Go Dawgs!\nFeatured below is a photo I got with Dubs the II, the mascot of the University of Washington Huskies."
+    "text": "This page is for current and past students. It includes materials from my time as a TA at UW, focused on data analysis in R and applied statistics in natural resource management.\nYou can reach me at tsherp@uw.edu with questions or to set up a meeting. Please refer to Canvas for current office hours.\n\nHow to Set Up R\nR Markdown and Assignment Info\nBasic R Examples with Code\nEquation Sheet\nCLT and Normal Approximation\nTypes of Tests and Hypotheses\nF-Tests, ANOVA, Regressions\nNot Required but Useful: TinyTex"
   },
   {
     "objectID": "blog/institutionsSherpas.html",
@@ -203,24 +91,262 @@
     "text": "Research Motivation\nAs a Sherpa and an economist, my goal is not to romanticize tradition or resist change. Rather, it is to understand how households navigate constrained choice sets, how informal institutions shape responses to education and technology, and how development interventions interact with identity and long-run welfare.\nThis historical and institutional context motivates my research on education, technology, and household decision-making in Sherpa communities. Through a Sherpa Window has been a useful starting point for framing these questions, particularly as I prepare for future fieldwork and (potential) language study.\nTogether, this context motivates an empirical focus on how households respond to education and technology interventions under binding geographic, institutional, and cultural constraints. In ongoing work, I study how variation in access to schooling inputs and educational technology shapes enrollment, learning outcomes, and aspirations among Sherpa youth, with particular attention to heterogeneous effects across households facing different tradeoffs between economic opportunity and cultural continuity. The aim is to identify mechanisms rather than narratives, and to understand when external interventions complement, rather than undermine, locally sustaining institutions."
   },
   {
-    "objectID": "qsci381-resources.html",
-    "href": "qsci381-resources.html",
-    "title": "QSCI 381: Student Resources",
+    "objectID": "dogs.html",
+    "href": "dogs.html",
+    "title": "Loyal Company",
     "section": "",
-    "text": "This page is for current and past students. It includes materials from my time as a TA at UW, focused on data analysis in R and applied statistics in natural resource management.\nYou can reach me at tsherp@uw.edu with questions or to set up a meeting. Please refer to Canvas for current office hours.\n\nHow to Set Up R\nR Markdown and Assignment Info\nBasic R Examples with Code\nEquation Sheet\nCLT and Normal Approximation\nTypes of Tests and Hypotheses\nF-Tests, ANOVA, Regressions\nNot Required but Useful: TinyTex"
+    "text": "These dogs have, each in their own way, shaped my sense of care, patience, and presence."
   },
   {
-    "objectID": "res.html",
-    "href": "res.html",
-    "title": "Research",
-    "section": "",
-    "text": "I study development economics with a focus on human capital formation, inequality, and how households make decisions under constraints. I am interested in how institutions, information, and local environments shape educational and economic trajectories. My work combines causal inference, original data collection, and field-based empirical methods.\nMy research originates in the Himalayan region, where families navigate constraints in schooling, gender norms, access to opportunities, and growing climate risks. These conditions motivate my broader agenda on how interventions and institutions affect human capital investment in marginalized communities. A core goal of my work is to generate empirical evidence that can inform policy and contribute something meaningful to the region that made it possible for me to pursue an academic path."
+    "objectID": "dogs.html#cody-sherpa",
+    "href": "dogs.html#cody-sherpa",
+    "title": "Loyal Company",
+    "section": "Cody Sherpa",
+    "text": "Cody Sherpa\n\nCody was our family’s chihuahua mix and my childhood pet. We adopted him in 2012, and we got to spend nearly 13 years with him. We also have another family dog named Daisy."
   },
   {
-    "objectID": "res.html#work-in-progress",
-    "href": "res.html#work-in-progress",
-    "title": "Research",
-    "section": "Work in Progress",
-    "text": "Work in Progress\nHow Does the Installation of School Computer Labs Affect Students’ Academic Achievement? Evidence from the SHERPA Study in Southern Solukhumbu"
+    "objectID": "dogs.html#foster-dogs-in-seattle",
+    "href": "dogs.html#foster-dogs-in-seattle",
+    "title": "Loyal Company",
+    "section": "Foster Dogs in Seattle",
+    "text": "Foster Dogs in Seattle\nBelow are some of the puppies and dogs I’ve fostered through Resilient Hearts Animal Sanctuary in Seattle.\nIf you’re in Seattle and interested in fostering, I highly recommend getting involved. Fostering allows shelters to make space for unhoused dogs, helping reduce overcrowding and minimizing the risk of euthanasia due to lack of resources.\n\n\n\n\nMushu\n\n\n\n\n\nRoo\n\n\n\n\n\n\n\nYuki\n\n\n\n\n\nPingu\n\n\n\n\n\n\nCharlie Jr."
+  },
+  {
+    "objectID": "dogs.html#go-dawgs",
+    "href": "dogs.html#go-dawgs",
+    "title": "Loyal Company",
+    "section": "Go Dawgs!",
+    "text": "Go Dawgs!\nFeatured below is a photo I got with Dubs the II, the mascot of the University of Washington Huskies."
+  },
+  {
+    "objectID": "tools.html",
+    "href": "tools.html",
+    "title": "Additional Tools",
+    "section": "",
+    "text": "Below are tools and guides I recommend for getting started:\n\nLearn to use GitHub\nLearn to use RStudio\nLearn to use Overleaf\nHow to make a website with Quarto"
+  },
+  {
+    "objectID": "tools.html#links",
+    "href": "tools.html#links",
+    "title": "Additional Tools",
+    "section": "",
+    "text": "Below are tools and guides I recommend for getting started:\n\nLearn to use GitHub\nLearn to use RStudio\nLearn to use Overleaf\nHow to make a website with Quarto"
+  },
+  {
+    "objectID": "tools.html#readings-podcasts-i-like",
+    "href": "tools.html#readings-podcasts-i-like",
+    "title": "Additional Tools",
+    "section": "Readings & Podcasts I Like",
+    "text": "Readings & Podcasts I Like\n\nWorld Bank Blogs: Development Impact\nCenter for Global Development\nAgricultural Economics - Without Apology\nConfessions of a Supply-Side Liberal\nErik’s Blog\nPractical Stoicism"
+  },
+  {
+    "objectID": "fieldwork.html",
+    "href": "fieldwork.html",
+    "title": "Fieldwork",
+    "section": "",
+    "text": "In March 2026 I conducted dissertation fieldwork in Solukhumbu District, Nepal, visiting four schools across the Khumbu and Junbesi clusters. The visit informs both Phase I (computer lab effects on student learning) and Phase II (the design of an AI teacher-training RCT) of the SHERPA Project.\nThe schools I visited were:\n\nShree Yuba Barsha Basic School (Khumbu Pasanghamu RM-3)\nShree Pema Chholing Basic School\nJanasewa Basic School\nMahendra Jyoti Secondary School\n\nAt each site I observed computer lab use, interviewed teachers, conducted focus group discussions with students, and documented student work and exam materials. I also catalogued the HTN Quality Education Programme record-keeping system and collected term exam papers across grades 4–7.\n\n\n\n\n\n\nArriving in Solukhumbu by Tara Air.\n\n\n\n\n\n\n\nOn the trail above the Dudh Koshi.\n\n\n\n\n\n\n\n\n\nA school in the Junbesi cluster — the Himalayan backdrop and isolation that define educational delivery in Solukhumbu.\n\n\n\n\n\n\n\nShree Pema Chholing Basic School — “Every Day is a Chance to Learn.”\n\n\n\n\n\n\n\n\n\nComputer Lab plaque at Shree Mahendra Jyoti Secondary School, installed by EduTech Nepal in partnership with the Himalayan Trust.\n\n\n\n\n\n\n\nInside one of the computer labs.\n\n\n\n\n\n\n\n\n\nJBD Computer Concepts, Grade 6 — the textbook in use, with review exercises on hardware, storage, and CPU operations.\n\n\n\n\n\n\n\nDaily routine and exam schedules posted at Janasewa Basic School.\n\n\n\n\n\n\n\n\n\nKopan Monastery, Kathmandu — context for Chapter 3 of the dissertation, which examines monastic institutions as a precursor to formal schooling in Sherpa society."
+  },
+  {
+    "objectID": "fieldwork.html#solukhumbu-nepal-march-2026",
+    "href": "fieldwork.html#solukhumbu-nepal-march-2026",
+    "title": "Fieldwork",
+    "section": "",
+    "text": "In March 2026 I conducted dissertation fieldwork in Solukhumbu District, Nepal, visiting four schools across the Khumbu and Junbesi clusters. The visit informs both Phase I (computer lab effects on student learning) and Phase II (the design of an AI teacher-training RCT) of the SHERPA Project.\nThe schools I visited were:\n\nShree Yuba Barsha Basic School (Khumbu Pasanghamu RM-3)\nShree Pema Chholing Basic School\nJanasewa Basic School\nMahendra Jyoti Secondary School\n\nAt each site I observed computer lab use, interviewed teachers, conducted focus group discussions with students, and documented student work and exam materials. I also catalogued the HTN Quality Education Programme record-keeping system and collected term exam papers across grades 4–7.\n\n\n\n\n\n\nArriving in Solukhumbu by Tara Air.\n\n\n\n\n\n\n\nOn the trail above the Dudh Koshi.\n\n\n\n\n\n\n\n\n\nA school in the Junbesi cluster — the Himalayan backdrop and isolation that define educational delivery in Solukhumbu.\n\n\n\n\n\n\n\nShree Pema Chholing Basic School — “Every Day is a Chance to Learn.”\n\n\n\n\n\n\n\n\n\nComputer Lab plaque at Shree Mahendra Jyoti Secondary School, installed by EduTech Nepal in partnership with the Himalayan Trust.\n\n\n\n\n\n\n\nInside one of the computer labs.\n\n\n\n\n\n\n\n\n\nJBD Computer Concepts, Grade 6 — the textbook in use, with review exercises on hardware, storage, and CPU operations.\n\n\n\n\n\n\n\nDaily routine and exam schedules posted at Janasewa Basic School.\n\n\n\n\n\n\n\n\n\nKopan Monastery, Kathmandu — context for Chapter 3 of the dissertation, which examines monastic institutions as a precursor to formal schooling in Sherpa society."
+  },
+  {
+    "objectID": "fieldwork.html#what-the-fieldwork-sharpened",
+    "href": "fieldwork.html#what-the-fieldwork-sharpened",
+    "title": "Fieldwork",
+    "section": "What the fieldwork sharpened",
+    "text": "What the fieldwork sharpened\nAcross the four sites, the binding constraint on the educational value of the computer labs was rarely the hardware. Schools where teachers had self-taught computer skills produced creative, diverse student output — student-made PowerPoint presentations, drawings, and short essays. Schools without that human capital used identical labs largely for rote typing.\nThis finding motivates Phase II of the dissertation: a randomized evaluation of an AI-based teacher professional development tool, designed to substitute for the in-person coaching that is logistically difficult to deliver at scale in remote Solukhumbu schools.\nA second observation, drawn from the term exam papers, is that computer knowledge in the Nepali curriculum is embedded inside the Science & Technology subject rather than tested as a standalone competency. This means that effects of teacher training on computer pedagogy should be visible in students’ Science scores, and no new test instrument is required for the primary outcome measure of the Phase II RCT."
+  },
+  {
+    "objectID": "fieldwork.html#acknowledgments",
+    "href": "fieldwork.html#acknowledgments",
+    "title": "Fieldwork",
+    "section": "Acknowledgments",
+    "text": "Acknowledgments\nThe fieldwork was conducted in partnership with the Himalayan Trust Network’s Quality Education Programme and was approved under UW IRB STUDY00024333. Photographs are shared with the permission of the Himalayan Trust Network and the participating schools. I am grateful to the school principals, teachers, students, and HTN staff in Solukhumbu for their generosity and time."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching Experience",
+    "section": "",
+    "text": "ECON 201: Introduction to Macroeconomics\nUniversity of Washington, Winter 2026.\nENGL 299: Intermediate Writing in the Natural Sciences\nUniversity of Washington, Spring 2026. Sole instructor of record for a 5-credit writing course in UW’s Program for Writing Across Campus, linked to NUTR 200."
+  },
+  {
+    "objectID": "teaching.html#independent-instructor",
+    "href": "teaching.html#independent-instructor",
+    "title": "Teaching Experience",
+    "section": "",
+    "text": "ECON 201: Introduction to Macroeconomics\nUniversity of Washington, Winter 2026.\nENGL 299: Intermediate Writing in the Natural Sciences\nUniversity of Washington, Spring 2026. Sole instructor of record for a 5-credit writing course in UW’s Program for Writing Across Campus, linked to NUTR 200."
+  },
+  {
+    "objectID": "teaching.html#teaching-assistant",
+    "href": "teaching.html#teaching-assistant",
+    "title": "Teaching Experience",
+    "section": "Teaching Assistant",
+    "text": "Teaching Assistant\nQSCI 381: Introduction to Probability and Statistics\nUniversity of Washington, Fall 2024 – Fall 2025. Center for Quantitative Science.\nECON 201: Introduction to Macroeconomics\nUniversity of Washington, Spring 2024.\nECON 200: Introduction to Microeconomics\nUniversity of Washington, Winter 2024."
+  },
+  {
+    "objectID": "teaching.html#grader",
+    "href": "teaching.html#grader",
+    "title": "Teaching Experience",
+    "section": "Grader",
+    "text": "Grader\nReading Comprehension, Critical Thinking, & Writing Skills (RTW) Exam\nUniversity of Washington, Department of Economics. Fall 2023 – Present.\nECON 422: Investment, Capital, and Finance\nUniversity of Washington, Fall 2025.\nECON 423: Topics in Financial Economics\nUniversity of Washington, Spring 2025."
+  },
+  {
+    "objectID": "teaching.html#prior-teaching",
+    "href": "teaching.html#prior-teaching",
+    "title": "Teaching Experience",
+    "section": "Prior Teaching",
+    "text": "Prior Teaching\nMath Tutor and Learning Assistant\nUniversity of Colorado Boulder, Department of Mathematics. January 2022 – August 2023. Provided academic support in calculus and linear algebra, with emphasis on proof techniques and conceptual reasoning."
+  },
+  {
+    "objectID": "community.html",
+    "href": "community.html",
+    "title": "Community Engagement",
+    "section": "",
+    "text": "At the University of Washington, I stay engaged through both departmental service and community-building initiatives. I currently serve as Vice President of the Economics Graduate Student Committee, where I’ve advocated for more equitable and transparent funding practices.\nI’m also an active member of UW’s Women in Economics (WiE), with a focus on increasing undergraduate engagement and strengthening board collaboration to support events and outreach. In the 2024–25 academic year, I served as a mentor for first-year PhD students through a department-led initiative, co-leading quarterly check-ins with a faculty advisor to support student well-being, academic progress, and professional development.\nAs an undergraduate at CU Boulder, I was involved in several student organizations, including the American Marketing Association, the Finance Board (where I served as a voting member), and CU Women in Economics. I worked as a learning assistant and tutor for Calculus II and III, and on the Finance Board, I helped evaluate student fee allocations during a period of post-COVID budget restructuring. That experience taught me how to navigate institutional trade-offs and advocate effectively for student needs.\nI also volunteered as a reading tutor for elementary students whose early literacy development had been disrupted by COVID. That experience sparked a deeper interest in education equity and continues to shape how I think about access, learning, and support across developmental stages."
+  },
+  {
+    "objectID": "engl299.html",
+    "href": "engl299.html",
+    "title": "ENGL 299: Intermediate Writing in the Natural Sciences",
+    "section": "",
+    "text": "This page is for students enrolled in Intermediate Writing in the Natural Sciences (ENGL 299) during Spring Quarter 2026.\nThis intermediate writing course is linked with Nutrition for Today (NUTR 200), with the details available on myplan.\nENGL 299 Syllabus"
+  },
+  {
+    "objectID": "engl299.html#links-to-readings",
+    "href": "engl299.html#links-to-readings",
+    "title": "ENGL 299: Intermediate Writing in the Natural Sciences",
+    "section": "Links to Readings”",
+    "text": "Links to Readings”\nE"
+  },
+  {
+    "objectID": "econ201.html",
+    "href": "econ201.html",
+    "title": "ECON 201: Introduction to Macroeconomics",
+    "section": "",
+    "text": "Before we begin, please take the time to read and familiarize yourself with the most recent version of the syllabus. This course is fully in person, and most of your success will come from staying engaged during lecture, keeping up with the weekly homework, and asking questions early. The syllabus outlines exactly how the class is structured, what is expected of you, and how to prepare for each week.\nWe will begin with a brief review of supply and demand concepts from ECON 200. For many of you, this material will feel familiar, but it is essential groundwork for the macroeconomic tools we develop throughout the quarter.\nThe focus of the course is macroeconomics, which studies the economy as a whole rather than individual decision-makers. While microeconomics examines how consumers and firms behave, macroeconomics asks broader questions about national and global economic conditions, such as:\n\nWhat causes economies to grow or fall into recession?\nWhy do inflation and unemployment occur?\nHow do fiscal and monetary policy influence economic outcomes\nWhat role do banks, interest rates, and exchange rates play in shaping the economy?\n\nThroughout the quarter, we will study GDP, labor markets, inflation, the financial sector, monetary and fiscal policy, and international linkages. These topics will be tied directly to current events and real-world policy debates. Weekly homework, in-class quizzes, writing assignments, and exams are designed to reinforce these concepts and help you practice applying them.\nPlease make sure you can access Canvas, where weekly homework, readings, and announcements will be posted."
+  },
+  {
+    "objectID": "econ201.html#welcome-message-for-students",
+    "href": "econ201.html#welcome-message-for-students",
+    "title": "ECON 201: Introduction to Macroeconomics",
+    "section": "",
+    "text": "Before we begin, please take the time to read and familiarize yourself with the most recent version of the syllabus. This course is fully in person, and most of your success will come from staying engaged during lecture, keeping up with the weekly homework, and asking questions early. The syllabus outlines exactly how the class is structured, what is expected of you, and how to prepare for each week.\nWe will begin with a brief review of supply and demand concepts from ECON 200. For many of you, this material will feel familiar, but it is essential groundwork for the macroeconomic tools we develop throughout the quarter.\nThe focus of the course is macroeconomics, which studies the economy as a whole rather than individual decision-makers. While microeconomics examines how consumers and firms behave, macroeconomics asks broader questions about national and global economic conditions, such as:\n\nWhat causes economies to grow or fall into recession?\nWhy do inflation and unemployment occur?\nHow do fiscal and monetary policy influence economic outcomes\nWhat role do banks, interest rates, and exchange rates play in shaping the economy?\n\nThroughout the quarter, we will study GDP, labor markets, inflation, the financial sector, monetary and fiscal policy, and international linkages. These topics will be tied directly to current events and real-world policy debates. Weekly homework, in-class quizzes, writing assignments, and exams are designed to reinforce these concepts and help you practice applying them.\nPlease make sure you can access Canvas, where weekly homework, readings, and announcements will be posted."
+  },
+  {
+    "objectID": "econ201.html#my-approach-to-economic-reasoning",
+    "href": "econ201.html#my-approach-to-economic-reasoning",
+    "title": "ECON 201: Introduction to Macroeconomics",
+    "section": "My Approach to Economic Reasoning",
+    "text": "My Approach to Economic Reasoning\nEconomic reasoning is not about memorizing definitions or formulas. It is the skill of taking a real-world question, breaking it into its essential components, and using evidence, models, and logic to understand what is happening. This is a way of thinking that anyone can learn with deliberate practice.\n• Economics is a discipline of clarity. A well-reasoned explanation is more valuable than a complicated one. When you can articulate why something happens using the basic tools of the course, you are thinking like an economist.\n• Mistakes are informative, not failures. Misinterpreting a graph or misapplying a concept is part of the learning process. These moments reveal where your reasoning can be strengthened, not your limits.\n• Deep understanding comes from revisiting ideas. Macroeconomic concepts connect to one another: GDP, unemployment, inflation, interest rates, and policy decisions are interdependent. Repetition builds intuition.\n• Think in mechanisms, not labels. Rather than remembering that “AD shifts left,” focus on why households or firms change their decisions, or how interest rates affect investment. Mechanisms allow you to apply your knowledge well beyond textbook examples.\n• Focus on questions, not shortcuts. Strong economic reasoning comes from consistently asking: What changed? Who is affected? Through what channel? What are the tradeoffs?\n• Learn to communicate in the language of economics. Many students already think intuitively in terms of incentives and mechanisms; the goal of this course is to help you express that reasoning clearly and confidently.\nThe goal of ECON 201 is not just to teach macroeconomic tools, but to help you develop a durable way of thinking about the economy. Confidence comes from consistent engagement and the willingness to revisit ideas until they click. Economics is a skill you build through practice, not something you either understand immediately or never will.\nIf anything in the syllabus is unclear or if you have concerns about your progress, please reach out early. I am here to support your learning.\nI look forward to working with you this quarter.\n\nBest,\nTsering Sherpa"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tsering Sherpa",
+    "section": "",
+    "text": "I am a third-year PhD student in the Department of Economics at the University of Washington, working with Rachel Heath (chair), Alan Griffith, Isabelle Cohen, and André Punt. My research is in development economics, with a focus on how technology, information, and educational institutions shape human capital formation in underserved communities.\nMy current research, the SHERPA Project (Solukhumbu Himalayan Education & Research on Pathways and Assessment), studies the effect of NGO-installed school computer labs on student learning in rural Nepal. I conducted fieldwork in Solukhumbu in March 2026.\nI am also pursuing a Graduate Certificate in Ethics at UW. Outside of my dissertation, I have worked as an applied policy consultant with Delphy AgAdvisory, as a research assistant on wage-and-hour litigation with Northwest Economics LLC in Seattle, and as an undergraduate research assistant in subjective well-being measurement at CU Boulder.\nI received my BA in Economics (Magna Cum Laude) and Mathematics from the University of Colorado Boulder. Outside of academics, I enjoy reading, writing, gardening, and spending time with friends, family, and dogs."
+  },
+  {
+    "objectID": "blog/blog.html",
+    "href": "blog/blog.html",
+    "title": "Working Through Mechanisms",
+    "section": "",
+    "text": "I am a PhD student in economics at UW Seattle focusing on applied micro and development. My writing explores mechanisms, evidence, and measurement in education, gender, and institutions.\nThis blog serves as a collection of short essays on development economics, education, and gender, with a focus on how incentives, institutions, and technology shape real outcomes. The posts draw on field contexts, education interventions, and applied empirical methods to think through mechanisms rather than just estimates. The goal is to think carefully, write clearly, and treat evidence as something to learn from rather than something to perform."
+  },
+  {
+    "objectID": "blog/blog.html#posts",
+    "href": "blog/blog.html#posts",
+    "title": "Working Through Mechanisms",
+    "section": "Posts",
+    "text": "Posts"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m a third-year PhD student in economics at the University of Washington. I grew up in Boulder, Colorado, and earned my undergraduate degree in applied mathematics and economics from the University of Colorado in May 2023. My undergraduate honors thesis, advised by Professor Taylor Jaworski, examined the effect of wildfires on U.S. county-level house prices.\nIn the summer of 2022, I studied abroad at the London School of Economics, where I took a course on Management Analytics in the Age of Big Data, which introduced me to the applications of statistical and causal inference in decision-making under uncertainty.\nMy interest in economics began in high school after watching a documentary in my AP economics class. It revealed the unintended consequences of global consumption, how well-meaning interventions in lower-income countries can end up undermining local economies and harming the environment. That experience pushed me to study economic structures and externalities more seriously, and it’s stayed with me as a central motivation.\nI’ve always wanted to understand the decisions people make and the systems they navigate. While economic models aren’t perfect, I appreciate their ability to combine theory with empirical evidence to analyze real-world problems. That’s what drew me to research: I wanted to develop the skills to study pressing issues using data and to contribute ideas that could reduce harm or inform better policy. Over time, that interest has evolved into a broader commitment to studying inequality, structural constraints, and the effects of interventions, especially in contexts I have personal ties to, such as Sherpa communities.\nAfter completing my PhD, I hope to pursue a research-oriented position where I can continue working on these questions. I’m also deeply interested in mentoring and teaching, especially supporting students from underrepresented backgrounds, including women, and first-generation students in navigating economics as a field."
+  },
+  {
+    "objectID": "files/Sherpa_CV_2026.html",
+    "href": "files/Sherpa_CV_2026.html",
+    "title": "TSERING SHERPA",
+    "section": "",
+    "text": "tsherp@uw.edu | 720-651-2913 | github.com/tseringlsherpa | orcid.org/0009-0000-5484-803X | linkedin.com/in/tsering-sherpa-a7393a1ba\n\n\n\nUniversity of Washington, Seattle, WA Ph.D. in Economics (STEM Designated) | Expected 2028 - Dissertation Committee: Rachel Heath (Chair), Alan Griffith, Isabelle Cohen, Andre Punt (Fisheries) - Fields: Development Economics, Applied Microeconomics, Economics of Education - James K. & Viola M. Hall Fellowship - Graduate Certificate in Ethics (in progress; Advisor: Sarah Goering)\nUniversity of Colorado Boulder, Boulder, CO B.A. in Economics and Mathematics | May 2023 - Magna Cum Laude in Economics - Honors Thesis: What is the Effect of Wildfires on House Prices at the County Level?\nLondon School of Economics, London, UK Summer Study Abroad | July 2022 - Management Analytics in the Age of Big Data (Grade: A+)\n\n\n\n\n\n\nChapter 1: Computer Labs and Student Outcomes in Rural Nepal (in progress) - Exploits staggered rollout of NGO-provided computer labs across 51 schools in Solukhumbu District, Nepal, to estimate the effect of educational technology on student exam scores using difference-in-differences - Implementing Callaway-Sant’Anna and Sun-Abraham estimators; wild cluster bootstrap inference with 23 treated schools - Conducted primary fieldwork in Solukhumbu, Nepal (March 2026): visited 4 schools, led focus group discussions with students and teachers, compiled photographic documentation of lab use and student work\nChapter 2: AI-Based Teacher Training RCT (design stage) - Designing a 60-school RCT to test whether AI-based teacher professional development improves student learning in computer-lab schools - Pre-analysis plan in development; stratified randomization on cluster, enrollment, lab vintage, and baseline scores - Minimum detectable effect of 0.20-0.29 SD; powered for policy-relevant magnitudes per Evans & Yuan (2022) benchmarks - Applying for NSF DDRIG, Weiss Fund, and J-PAL/IPA funding (Summer 2026) - IRB approved (STUDY00024333)\nChapter 3: Cultural Moderators of Technology Effects (working paper stage) - Culture, Clans, and Computer Labs: Sherpa Social Structure and the Adoption of Educational Technology in Solukhumbu (April 2026 working draft) - Integrates ethnographic evidence on Sherpa clan structure (ru system), monastic education traditions, gendered labor allocation, and the Khadeu-Khamendeu social hierarchy with development economics frameworks (Banerjee & Duflo, Kremer, Oster, Heath) - Argues cultural institutions are active determinants of heterogeneous treatment effects, not merely contextual background\n\n\n\nDelphy AgAdvisory & Peterson Solutions | Subcontractor | 2025-2026 - Co-authored Rooted in American Commerce: The U.S. Economic Footprint of Chilean Fresh Fruit Imports for Frutas de Chile - Quantified U.S. economic contribution of Chilean fresh fruit imports across seven supply-chain segments and two port corridors using BEA RIMS II Type II multipliers - Built data pipeline for USDA trade data, FOB-to-CIF conversion, commodity mapping, and regional impact modeling\nWell-Being Measurement Initiative | RA for Dr. Miles Kimball, CU Boulder | May-December 2022 - Analyzed survey data on subjective well-being measurement for a research initiative studying how respondents interpret happiness questions - Evaluated and coded individual survey responses for research usability\nUndergraduate Honors Thesis | CU Boulder | 2022-2023 - What is the Effect of Wildfires on House Prices at the County Level? - Used Zillow housing data and wildfire incidence records; estimated county-level effects with fixed-effects regressions in Stata\n\n\n\n\n\nInstructor of Record, University of Washington\n\n\n\n\n\n\n\nCourse\nQuarter\n\n\n\n\nENGL 299: Intermediate Writing in the Natural Sciences (Program for Writing Across Campus; linked to NUTR 200)\nSpring 2026\n\n\n\n\nSole instructor for a 5-credit writing course satisfying UW’s “W” requirement; designed syllabus, assignments, and assessment scheme\nCurriculum spans personal narrative, analytical essay, policy memo, and presentation genres, framed around nutrition and global development topics\nHold one-on-one student conferences and lead in-class workshops on argument structure, evidence use, and revision\n\nTeaching Assistant, University of Washington\n\n\n\n\n\n\n\nCourse\nQuarter(s)\n\n\n\n\nQSCI 381: Introduction to Probability and Statistics (Center for Quantitative Science; Instructor: Andre Punt)\nFall 2024, Winter 2025, Spring 2025, Fall 2025\n\n\nECON 201: Principles of Macroeconomics\nSpring 2024, Winter 2026\n\n\nECON 200: Principles of Microeconomics\nWinter 2024\n\n\nECON 422: Applied Econometrics (grader)\nFall 2025\n\n\n\n\nLed lab sections in R for probability and statistics; facilitated office hours; graded assignments and exams\nTaught across in-person, hybrid, and asynchronous formats\n\nRTW Grader, Department of Economics, University of Washington | September 2023-Present - Evaluated incoming PhD student writing samples for departmental admissions decisions\nLearning Assistant, Department of Mathematics, CU Boulder | August 2021-May 2022 - Calculus II and III; facilitated weekly group problem-solving sessions for classes of 3-6 students\nMathematics Tutor, CU Boulder Mathematics Academic Resource Center | June 2022-August 2023\n\n\n\n\nMicroeconomics: Advanced Microeconomic Theory I & II (ECON 500/501) Macroeconomics: Advanced Macroeconomic Theory I & II (ECON 502/503) Econometrics: Econometric Theory I & II (ECON 581/583), Applied Micro-Econometrics (ECON 587) Field Courses: Development Economics (ECON 590), Topics in Applied Micro (ECON 591/593), Contract Theory, Time Series for Macro and Finance Machine Learning: CSE 546 (Machine Learning) Ethics: CSE 581 (Computing Ethics), ETH 511 Other: ENGL 592 (Graduate Writing)\n\n\n\n\n\nSherpa, T. (2026). “Culture, Clans, and Computer Labs: Sherpa Social Structure and the Adoption of Educational Technology in Solukhumbu.” Working draft.\nSherpa, T. (2026). “AI-Based Teacher Training in Nepal’s Computer-Lab Schools: Literature, Gaps, and a Design for 60 Schools.” Working draft.\nSherpa, T. (2026). “Religion, Monasteries, and Human Capital: Nunn’s Missionary Framework Applied to Sherpa Buddhism.” Working draft.\n\n\n\n\n\nSolukhumbu District, Nepal | March 2026 - Visited 4 schools across the Khumbu cluster to observe computer lab use, interview teachers, and conduct focus group discussions with students - Documented lab infrastructure, student work output, and teacher training practices - Collected qualitative evidence on the binding constraint of teacher human capital vs. hardware provision\n\n\n\n\n\nJames K. & Viola M. Hall Fellowship, University of Washington (2023-present)\n\n\n\n\n\nCo-President, UW Economics Graduate Student Committee | September 2023-Present - Organized department events, conducted student surveys, and represented PhD cohort in quarterly forums with department leadership\nUW Women in Economics | September 2023-Present - Organized events, mentorship programs, and panel discussions with faculty and industry professionals\nPhD Mentor, UW Economics | October 2023-Present - Mentored first-year PhD students; led quarterly check-in meetings with faculty\nVoting Member, CU Boulder Finance Board | September 2020-August 2022 - Voted on allocation of student fee budgets; served on the finance committee; drafted legislation on tiered funding for student organizations\nColorado Reading Partners, Volunteer | January-May 2023 - Tutored K-3 students at Title I schools who were 6+ months below expected reading level\n\n\n\n\nProgramming: Stata, R, Python (NumPy, Pandas), MATLAB Other Technical: LaTeX, Git/GitHub, Microsoft Excel Languages: English (native), Nepali (basic), Sherpa (basic)\n\n\n\n\n\n\n\n\n\n\n\nRachel Heath (Chair)\nAlan Griffith\n\n\nAssociate Professor, Economics\nAssistant Professor, Economics\n\n\nUniversity of Washington\nUniversity of Washington\n\n\n\n\n\n\nIsabelle Cohen\nAndre Punt\n\n\nAssistant Professor, Economics\nProfessor, School of Aquatic and Fishery Sciences\n\n\nUniversity of Washington\nUniversity of Washington"
+  },
+  {
+    "objectID": "files/Sherpa_CV_2026.html#education",
+    "href": "files/Sherpa_CV_2026.html#education",
+    "title": "TSERING SHERPA",
+    "section": "",
+    "text": "University of Washington, Seattle, WA Ph.D. in Economics (STEM Designated) | Expected 2028 - Dissertation Committee: Rachel Heath (Chair), Alan Griffith, Isabelle Cohen, Andre Punt (Fisheries) - Fields: Development Economics, Applied Microeconomics, Economics of Education - James K. & Viola M. Hall Fellowship - Graduate Certificate in Ethics (in progress; Advisor: Sarah Goering)\nUniversity of Colorado Boulder, Boulder, CO B.A. in Economics and Mathematics | May 2023 - Magna Cum Laude in Economics - Honors Thesis: What is the Effect of Wildfires on House Prices at the County Level?\nLondon School of Economics, London, UK Summer Study Abroad | July 2022 - Management Analytics in the Age of Big Data (Grade: A+)"
+  },
+  {
+    "objectID": "files/Sherpa_CV_2026.html#research",
+    "href": "files/Sherpa_CV_2026.html#research",
+    "title": "TSERING SHERPA",
+    "section": "",
+    "text": "Chapter 1: Computer Labs and Student Outcomes in Rural Nepal (in progress) - Exploits staggered rollout of NGO-provided computer labs across 51 schools in Solukhumbu District, Nepal, to estimate the effect of educational technology on student exam scores using difference-in-differences - Implementing Callaway-Sant’Anna and Sun-Abraham estimators; wild cluster bootstrap inference with 23 treated schools - Conducted primary fieldwork in Solukhumbu, Nepal (March 2026): visited 4 schools, led focus group discussions with students and teachers, compiled photographic documentation of lab use and student work\nChapter 2: AI-Based Teacher Training RCT (design stage) - Designing a 60-school RCT to test whether AI-based teacher professional development improves student learning in computer-lab schools - Pre-analysis plan in development; stratified randomization on cluster, enrollment, lab vintage, and baseline scores - Minimum detectable effect of 0.20-0.29 SD; powered for policy-relevant magnitudes per Evans & Yuan (2022) benchmarks - Applying for NSF DDRIG, Weiss Fund, and J-PAL/IPA funding (Summer 2026) - IRB approved (STUDY00024333)\nChapter 3: Cultural Moderators of Technology Effects (working paper stage) - Culture, Clans, and Computer Labs: Sherpa Social Structure and the Adoption of Educational Technology in Solukhumbu (April 2026 working draft) - Integrates ethnographic evidence on Sherpa clan structure (ru system), monastic education traditions, gendered labor allocation, and the Khadeu-Khamendeu social hierarchy with development economics frameworks (Banerjee & Duflo, Kremer, Oster, Heath) - Argues cultural institutions are active determinants of heterogeneous treatment effects, not merely contextual background\n\n\n\nDelphy AgAdvisory & Peterson Solutions | Subcontractor | 2025-2026 - Co-authored Rooted in American Commerce: The U.S. Economic Footprint of Chilean Fresh Fruit Imports for Frutas de Chile - Quantified U.S. economic contribution of Chilean fresh fruit imports across seven supply-chain segments and two port corridors using BEA RIMS II Type II multipliers - Built data pipeline for USDA trade data, FOB-to-CIF conversion, commodity mapping, and regional impact modeling\nWell-Being Measurement Initiative | RA for Dr. Miles Kimball, CU Boulder | May-December 2022 - Analyzed survey data on subjective well-being measurement for a research initiative studying how respondents interpret happiness questions - Evaluated and coded individual survey responses for research usability\nUndergraduate Honors Thesis | CU Boulder | 2022-2023 - What is the Effect of Wildfires on House Prices at the County Level? - Used Zillow housing data and wildfire incidence records; estimated county-level effects with fixed-effects regressions in Stata"
+  },
+  {
+    "objectID": "files/Sherpa_CV_2026.html#teaching-experience",
+    "href": "files/Sherpa_CV_2026.html#teaching-experience",
+    "title": "TSERING SHERPA",
+    "section": "",
+    "text": "Instructor of Record, University of Washington\n\n\n\n\n\n\n\nCourse\nQuarter\n\n\n\n\nENGL 299: Intermediate Writing in the Natural Sciences (Program for Writing Across Campus; linked to NUTR 200)\nSpring 2026\n\n\n\n\nSole instructor for a 5-credit writing course satisfying UW’s “W” requirement; designed syllabus, assignments, and assessment scheme\nCurriculum spans personal narrative, analytical essay, policy memo, and presentation genres, framed around nutrition and global development topics\nHold one-on-one student conferences and lead in-class workshops on argument structure, evidence use, and revision\n\nTeaching Assistant, University of Washington\n\n\n\n\n\n\n\nCourse\nQuarter(s)\n\n\n\n\nQSCI 381: Introduction to Probability and Statistics (Center for Quantitative Science; Instructor: Andre Punt)\nFall 2024, Winter 2025, Spring 2025, Fall 2025\n\n\nECON 201: Principles of Macroeconomics\nSpring 2024, Winter 2026\n\n\nECON 200: Principles of Microeconomics\nWinter 2024\n\n\nECON 422: Applied Econometrics (grader)\nFall 2025\n\n\n\n\nLed lab sections in R for probability and statistics; facilitated office hours; graded assignments and exams\nTaught across in-person, hybrid, and asynchronous formats\n\nRTW Grader, Department of Economics, University of Washington | September 2023-Present - Evaluated incoming PhD student writing samples for departmental admissions decisions\nLearning Assistant, Department of Mathematics, CU Boulder | August 2021-May 2022 - Calculus II and III; facilitated weekly group problem-solving sessions for classes of 3-6 students\nMathematics Tutor, CU Boulder Mathematics Academic Resource Center | June 2022-August 2023"
+  },
+  {
+    "objectID": "files/Sherpa_CV_2026.html#graduate-coursework",
+    "href": "files/Sherpa_CV_2026.html#graduate-coursework",
+    "title": "TSERING SHERPA",
+    "section": "",
+    "text": "Microeconomics: Advanced Microeconomic Theory I & II (ECON 500/501) Macroeconomics: Advanced Macroeconomic Theory I & II (ECON 502/503) Econometrics: Econometric Theory I & II (ECON 581/583), Applied Micro-Econometrics (ECON 587) Field Courses: Development Economics (ECON 590), Topics in Applied Micro (ECON 591/593), Contract Theory, Time Series for Macro and Finance Machine Learning: CSE 546 (Machine Learning) Ethics: CSE 581 (Computing Ethics), ETH 511 Other: ENGL 592 (Graduate Writing)"
+  },
+  {
+    "objectID": "files/Sherpa_CV_2026.html#working-papers-reports",
+    "href": "files/Sherpa_CV_2026.html#working-papers-reports",
+    "title": "TSERING SHERPA",
+    "section": "",
+    "text": "Sherpa, T. (2026). “Culture, Clans, and Computer Labs: Sherpa Social Structure and the Adoption of Educational Technology in Solukhumbu.” Working draft.\nSherpa, T. (2026). “AI-Based Teacher Training in Nepal’s Computer-Lab Schools: Literature, Gaps, and a Design for 60 Schools.” Working draft.\nSherpa, T. (2026). “Religion, Monasteries, and Human Capital: Nunn’s Missionary Framework Applied to Sherpa Buddhism.” Working draft."
+  },
+  {
+    "objectID": "files/Sherpa_CV_2026.html#fieldwork",
+    "href": "files/Sherpa_CV_2026.html#fieldwork",
+    "title": "TSERING SHERPA",
+    "section": "",
+    "text": "Solukhumbu District, Nepal | March 2026 - Visited 4 schools across the Khumbu cluster to observe computer lab use, interview teachers, and conduct focus group discussions with students - Documented lab infrastructure, student work output, and teacher training practices - Collected qualitative evidence on the binding constraint of teacher human capital vs. hardware provision"
+  },
+  {
+    "objectID": "files/Sherpa_CV_2026.html#grants-fellowships",
+    "href": "files/Sherpa_CV_2026.html#grants-fellowships",
+    "title": "TSERING SHERPA",
+    "section": "",
+    "text": "James K. & Viola M. Hall Fellowship, University of Washington (2023-present)"
+  },
+  {
+    "objectID": "files/Sherpa_CV_2026.html#service-leadership",
+    "href": "files/Sherpa_CV_2026.html#service-leadership",
+    "title": "TSERING SHERPA",
+    "section": "",
+    "text": "Co-President, UW Economics Graduate Student Committee | September 2023-Present - Organized department events, conducted student surveys, and represented PhD cohort in quarterly forums with department leadership\nUW Women in Economics | September 2023-Present - Organized events, mentorship programs, and panel discussions with faculty and industry professionals\nPhD Mentor, UW Economics | October 2023-Present - Mentored first-year PhD students; led quarterly check-in meetings with faculty\nVoting Member, CU Boulder Finance Board | September 2020-August 2022 - Voted on allocation of student fee budgets; served on the finance committee; drafted legislation on tiered funding for student organizations\nColorado Reading Partners, Volunteer | January-May 2023 - Tutored K-3 students at Title I schools who were 6+ months below expected reading level"
+  },
+  {
+    "objectID": "files/Sherpa_CV_2026.html#skills",
+    "href": "files/Sherpa_CV_2026.html#skills",
+    "title": "TSERING SHERPA",
+    "section": "",
+    "text": "Programming: Stata, R, Python (NumPy, Pandas), MATLAB Other Technical: LaTeX, Git/GitHub, Microsoft Excel Languages: English (native), Nepali (basic), Sherpa (basic)"
+  },
+  {
+    "objectID": "files/Sherpa_CV_2026.html#references",
+    "href": "files/Sherpa_CV_2026.html#references",
+    "title": "TSERING SHERPA",
+    "section": "",
+    "text": "Rachel Heath (Chair)\nAlan Griffith\n\n\nAssociate Professor, Economics\nAssistant Professor, Economics\n\n\nUniversity of Washington\nUniversity of Washington\n\n\n\n\n\n\nIsabelle Cohen\nAndre Punt\n\n\nAssistant Professor, Economics\nProfessor, School of Aquatic and Fishery Sciences\n\n\nUniversity of Washington\nUniversity of Washington"
   }
 ]

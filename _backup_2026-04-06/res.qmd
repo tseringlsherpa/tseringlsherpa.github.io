@@ -1,0 +1,10 @@
+---
+title: "Research"
+toc: FALSE
+---
+I study development economics with a focus on human capital formation, inequality, and how households make decisions under constraints. I am interested in how institutions, information, and local environments shape educational and economic trajectories. My work combines causal inference, original data collection, and field-based empirical methods.
+
+My research originates in the Himalayan region, where families navigate constraints in schooling, gender norms, access to opportunities, and growing climate risks. These conditions motivate my broader agenda on how interventions and institutions affect human capital investment in marginalized communities. A core goal of my work is to generate empirical evidence that can inform policy and contribute something meaningful to the region that made it possible for me to pursue an academic path.
+
+## Work in Progress
+How Does the Installation of School Computer Labs Affect Students’ Academic Achievement? Evidence from the SHERPA Study in Southern Solukhumbu

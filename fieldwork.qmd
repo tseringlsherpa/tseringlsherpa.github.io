@@ -1,0 +1,49 @@
+---
+title: "Fieldwork"
+toc: TRUE
+---
+
+## Solukhumbu, Nepal — March 2026
+
+In March 2026 I conducted dissertation fieldwork in Solukhumbu District, Nepal, visiting four schools across the Khumbu and Junbesi clusters. The visit informs both Phase I (computer lab effects on student learning) and Phase II (the design of an AI teacher-training RCT) of the [SHERPA Project](res.qmd).
+
+The schools I visited were:
+
+- **Shree Yuba Barsha Basic School** (Khumbu Pasanghamu RM-3)
+- **Shree Pema Chholing Basic School**
+- **Janasewa Basic School**
+- **Mahendra Jyoti Secondary School**
+
+At each site I observed computer lab use, interviewed teachers, conducted focus group discussions with students, and documented student work and exam materials. I also catalogued the HTN Quality Education Programme record-keeping system and collected term exam papers across grades 4–7.
+
+::: {layout-ncol=2}
+![Arriving in Solukhumbu by Tara Air.](images/fieldwork/IMG_0599.jpg)
+
+![On the trail above the Dudh Koshi.](images/fieldwork/IMG_0712.jpg)
+
+![A school in the Junbesi cluster — the Himalayan backdrop and isolation that define educational delivery in Solukhumbu.](images/fieldwork/IMG_9132.jpg)
+
+![Shree Pema Chholing Basic School — *"Every Day is a Chance to Learn."*](images/fieldwork/IMG_8950.jpg)
+
+![Computer Lab plaque at Shree Mahendra Jyoti Secondary School, installed by EduTech Nepal in partnership with the Himalayan Trust.](images/fieldwork/IMG_8867.jpg)
+
+![Inside one of the computer labs.](images/fieldwork/IMG_8965.jpg)
+
+![*JBD Computer Concepts*, Grade 6 — the textbook in use, with review exercises on hardware, storage, and CPU operations.](images/fieldwork/IMG_8866.jpg)
+
+![Daily routine and exam schedules posted at Janasewa Basic School.](images/fieldwork/IMG_9135.jpg)
+
+![Kopan Monastery, Kathmandu — context for Chapter 3 of the dissertation, which examines monastic institutions as a precursor to formal schooling in Sherpa society.](images/fieldwork/IMG_9262.jpg)
+:::
+
+## What the fieldwork sharpened
+
+Across the four sites, the binding constraint on the educational value of the computer labs was rarely the hardware. Schools where teachers had self-taught computer skills produced creative, diverse student output — student-made PowerPoint presentations, drawings, and short essays. Schools without that human capital used identical labs largely for rote typing.
+
+This finding motivates Phase II of the dissertation: a randomized evaluation of an AI-based teacher professional development tool, designed to substitute for the in-person coaching that is logistically difficult to deliver at scale in remote Solukhumbu schools.
+
+A second observation, drawn from the term exam papers, is that computer knowledge in the Nepali curriculum is **embedded inside the Science & Technology subject** rather than tested as a standalone competency. This means that effects of teacher training on computer pedagogy should be visible in students' Science scores, and no new test instrument is required for the primary outcome measure of the Phase II RCT.
+
+## Acknowledgments
+
+The fieldwork was conducted in partnership with the Himalayan Trust Network's Quality Education Programme and was approved under UW IRB STUDY00024333. Photographs are shared with the permission of the Himalayan Trust Network and the participating schools. I am grateful to the school principals, teachers, students, and HTN staff in Solukhumbu for their generosity and time.

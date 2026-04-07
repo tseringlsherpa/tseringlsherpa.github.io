@@ -29,8 +29,6 @@ website:
         href: files/cv.pdf
       - text: "Research"
         href: res.qmd
-      - text: "Fieldwork"
-        href: fieldwork.qmd
       - text: "Teaching"
         menu:
           - text: "Experience"

@@ -1,10 +1,20 @@
 ---
 title: "Research"
-toc: FALSE
+toc: TRUE
 ---
-I study development economics with a focus on human capital formation, inequality, and how households make decisions under constraints. I am interested in how institutions, information, and local environments shape educational and economic trajectories. My work combines causal inference, original data collection, and field-based empirical methods.
 
-My research originates in the Himalayan region, where families navigate constraints in schooling, gender norms, access to opportunities, and growing climate risks. These conditions motivate my broader agenda on how interventions and institutions affect human capital investment in marginalized communities. A core goal of my work is to generate empirical evidence that can inform policy and contribute something meaningful to the region that made it possible for me to pursue an academic path.
+I study development economics, with a focus on human capital formation, the role of technology in education, and how households and institutions make decisions under constraints. My work combines causal inference with field-based empirical research.
 
-## Work in Progress
-How Does the Installation of School Computer Labs Affect Students’ Academic Achievement? Evidence from the SHERPA Study in Southern Solukhumbu
+My research originates in the Himalayan region, where families navigate constraints in schooling, gender norms, access to opportunities, and growing climate risks. A core goal of my work is to generate empirical evidence that can inform policy and contribute something meaningful to the region that made it possible for me to pursue an academic path.
+
+My dissertation committee at the University of Washington is chaired by [Rachel Heath](https://faculty.washington.edu/rmheath/) and includes [Alan Griffith](https://sites.google.com/site/alangriffithecon/), [Isabelle Cohen](https://www.isabellemcohen.com/), and [André Punt](https://puntlab.washington.edu/).
+
+## Research in Progress
+
+**SHERPA: Solukhumbu Himalayan Education & Research on Pathways and Assessment**
+
+An independent, field-based research project examining the impacts of NGO-provided educational programs on educational trajectories and vocational aspirations among Sherpa youth in Nepal. The first paper from the project asks how the installation of school computer labs in Solukhumbu affects students' academic achievement, exploiting the staggered rollout of labs across schools in partnership with the Himalayan Trust Network's Quality Education Programme. I conducted dissertation fieldwork at sites in the Khumbu and Junbesi clusters in March 2026 — see the [Fieldwork](fieldwork.qmd) page.
+
+## Other Experience
+
+In addition to dissertation research, I have worked as an applied policy consultant with **Delphy AgAdvisory** on regional economic impact analysis (2026), as a research assistant with **Northwest Economics LLC** in Seattle on payroll and wage-and-hour litigation (Summer 2025), and as an undergraduate research assistant in the **University of Colorado Department of Economics** on subjective well-being measurement (2022).
