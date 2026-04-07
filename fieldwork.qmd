@@ -3,9 +3,9 @@ title: "Fieldwork"
 toc: TRUE
 ---
 
-## Solukhumbu, Nepal — March 2026
+## Solukhumbu, Nepal- March 2026
 
-In March 2026 I conducted dissertation fieldwork in Solukhumbu District, Nepal, visiting four schools across the Khumbu and Junbesi clusters. The visit informs both Phase I (computer lab effects on student learning) and Phase II (the design of an AI teacher-training RCT) of the [SHERPA Project](res.qmd).
+In March 2026 I conducted dissertation fieldwork in Solukhumbu District, Nepal, visiting four schools across the Khumbu and Junbesi clusters. The visit informs both Phase I (computer lab effects on student learning) and Phase II (designing an AI teacher-training RCT) of the [SHERPA Project](res.qmd).
 
 The schools I visited were:
 
@@ -21,24 +21,24 @@ At each site I observed computer lab use, interviewed teachers, conducted focus 
 
 ![On the trail above the Dudh Koshi.](images/fieldwork/IMG_0712.jpg)
 
-![A school in the Junbesi cluster — the Himalayan backdrop and isolation that define educational delivery in Solukhumbu.](images/fieldwork/IMG_9132.jpg)
+![A school in the Junbesi cluster: The Himalayan backdrop and isolation that define educational delivery in Solukhumbu.](images/fieldwork/IMG_9132.jpg)
 
-![Shree Pema Chholing Basic School — *"Every Day is a Chance to Learn."*](images/fieldwork/IMG_8950.jpg)
+![Shree Pema Chholing Basic School: *"Every Day is a Chance to Learn."*](images/fieldwork/IMG_8950.jpg)
 
 ![Computer Lab plaque at Shree Mahendra Jyoti Secondary School, installed by EduTech Nepal in partnership with the Himalayan Trust.](images/fieldwork/IMG_8867.jpg)
 
 ![Inside one of the computer labs.](images/fieldwork/IMG_8965.jpg)
 
-![*JBD Computer Concepts*, Grade 6 — the textbook in use, with review exercises on hardware, storage, and CPU operations.](images/fieldwork/IMG_8866.jpg)
+![*JBD Computer Concepts*, Grade 6: The textbook in use, with review exercises on hardware, storage, and CPU operations.](images/fieldwork/IMG_8866.jpg)
 
 ![Daily routine and exam schedules posted at Janasewa Basic School.](images/fieldwork/IMG_9135.jpg)
 
-![Kopan Monastery, Kathmandu — context for Chapter 3 of the dissertation, which examines monastic institutions as a precursor to formal schooling in Sherpa society.](images/fieldwork/IMG_9262.jpg)
+![Kopan Monastery, Kathmandu: Context for Chapter 3 of the dissertation, which examines monastic institutions as a precursor to formal schooling in Sherpa society.](images/fieldwork/IMG_9262.jpg)
 :::
 
 ## What the fieldwork sharpened
 
-Across the four sites, the binding constraint on the educational value of the computer labs was rarely the hardware. Schools where teachers had self-taught computer skills produced creative, diverse student output — student-made PowerPoint presentations, drawings, and short essays. Schools without that human capital used identical labs largely for rote typing.
+Across the four sites, the binding constraint on the educational value of the computer labs was rarely the hardware. Schools where teachers had self-taught computer skills produced creative, diverse student output: Student-made PowerPoint presentations, drawings, and short essays. Schools without that human capital used identical labs largely for rote typing.
 
 This finding motivates Phase II of the dissertation: a randomized evaluation of an AI-based teacher professional development tool, designed to substitute for the in-person coaching that is logistically difficult to deliver at scale in remote Solukhumbu schools.
 
