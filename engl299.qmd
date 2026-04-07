@@ -1,13 +1,49 @@
 ---
 title: "ENGL 299: Intermediate Writing in the Natural Sciences"
-toc: FALSE
+toc: TRUE
 ---
 
-This page is for students enrolled in Intermediate Writing in the Natural Sciences (ENGL 299) during Spring Quarter 2026. 
+This page is for students enrolled in Intermediate Writing in the Natural Sciences (ENGL 299) during Spring Quarter 2026.
 
 This intermediate writing course is linked with Nutrition for Today (NUTR 200), with the details available on [myplan](https://myplan.uw.edu/course/#/courses/NUTR200).
 
 [ENGL 299 Syllabus](files/ENGL299/ENGL299_SYLLABUS.pdf)
 
-## Links to Readings"
+## Readings
 
+Readings are listed in the order they appear on the course schedule. PDFs and links below are publicly available copies; for course discussion, please refer to the version posted on Canvas.
+
+### Week 1 — Understanding Global Nutrition Issues
+
+- Banerjee, Abhijit, and Esther Duflo. "[The Economic Lives of the Poor](https://economics.mit.edu/sites/default/files/publications/The%20Economic%20Lives%20of%20the%20Poor.pdf)." *Journal of Economic Perspectives*, vol. 21, no. 1, 2007, pp. 141–167.
+
+### Week 2 — Personal Narrative
+
+- Roach Smith, Marion. "[Three Big Tips for Writing a Personal Essay](https://marionroach.com/2018/09/writing-a-personal-essay/)." *MarionRoach.com*, 13 Sept. 2018.
+- Lamott, Anne. "[Shitty First Drafts](https://wrd.as.uky.edu/sites/default/files/1-Shitty%20First%20Drafts.pdf)." *Bird by Bird: Some Instructions on Writing and Life.* Anchor, 1994.
+
+### Week 3 — Analytical Essay: Introduction and Evidence
+
+- Graduate Studies. *Writing an Analytical Essay.* 2023. (Posted on Canvas.)
+- Short texts on U.S. nutrition issues. (Posted on Canvas.)
+- Short texts on nutrition in developing countries. (Posted on Canvas.)
+
+### Week 4 — Analytical Essay: Structure and Revision
+
+- Harvard College Writing Center. "[Strategies for Essay Writing](https://writingcenter.fas.harvard.edu/sites/g/files/omnuum451/files/2024-03/Strategies%20for%20Essay%20Writing--Complete_0.pdf)." 2024.
+
+### Week 6 — Policy Memo Presentations
+
+- Duke Thompson Writing Program. "[Policy Memo Guidelines](https://twp.duke.edu/sites/twp.duke.edu/files/file-attachments/Writing%20Studio%20Policy%20Memo%20Handout_final%202020.pdf)."
+- Stanford Law School. "[Policy Memo Guidelines](https://law.stanford.edu/wp-content/uploads/2015/04/Policy-Memo-Guidelines-2.pdf)" (Luciana Herman).
+
+### Week 7 — Written Policy Memo
+
+- Harvard Kennedy School Communications Program. "[How to Write a Policy Memo](https://www.hks.harvard.edu/sites/default/files/Academic%20Dean%27s%20Office/communications_program/digital_resources/lb_revised_1_31_18_lb_how_to_pol_mem.pdf)" (Lauren Brodsky). 2018.
+- University of Chicago Harris School. "[How to Write a Policy Memo That Matters](https://harris.uchicago.edu/files/how_to_write_a_policy_memo_that_matters_0.pdf)."
+
+## Additional Writing Resources
+
+- [Odegaard Writing and Research Center (OWRC)](https://depts.washington.edu/owrc/) — free one-on-one tutoring sessions for writers in all fields.
+- [CLUE Writing Center](https://academicsupport.uw.edu/clue/) — online writing support for undergraduates at any stage of the writing process.
+- [UW Libraries](https://www.lib.washington.edu/) — databases, e-journals, and 24/7 research help.

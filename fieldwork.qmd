@@ -3,7 +3,7 @@ title: "Fieldwork"
 toc: TRUE
 ---
 
-## Solukhumbu, Nepal- March 2026
+## Solukhumbu, Nepal (March 2026)
 
 In March 2026 I conducted dissertation fieldwork in Solukhumbu District, Nepal, visiting four schools across the Khumbu and Junbesi clusters. The visit informs both Phase I (computer lab effects on student learning) and Phase II (designing an AI teacher-training RCT) of the [SHERPA Project](res.qmd).
 

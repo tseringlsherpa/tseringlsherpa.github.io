@@ -25,38 +25,61 @@ Below are some of the puppies and dogs I've fostered through [Resilient Hearts A
 If you're in Seattle and interested in fostering, I highly recommend getting involved. Fostering allows shelters to make space for unhoused dogs, helping reduce overcrowding and minimizing the risk of euthanasia due to lack of resources.
 
 
-<table style="border: none; background: none;">
-  <tr>
-    <td style="text-align: center; border: none; padding: 10px;">
-      <h4>Mushu</h4>
-      <img src="images/mushu.jpeg" alt="Mushu" width="350px">
-    </td>
-    <td style="text-align: center; border: none; padding: 10px;">
-      <h4>Roo</h4>
-      <img src="images/roo.jpeg" alt="Roo" width="350px">
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align: center; border: none; padding: 10px;">
-      <h4>Yuki</h4>
-      <img src="images/yuki.jpeg" alt="Yuki" width="300px">
-    </td>
-    <td style="text-align: center; border: none; padding: 10px;">
-      <h4>Pingu</h4>
-      <img src="images/pingu.jpeg" alt="Pingu" width="350px">
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align: center; border: none; padding: 10px;">
-      <h4>Charlie Jr.</h4>
-      <img src="images/charlie.jpeg" alt="Charlie Jr." width="350px">
-    </td>
-    <td style="text-align: center; border: none; padding: 10px;">
-      <h4>Mira</h4>
-      <img src="images/mira.jpeg" alt="Mira" width="350px">
-    </td>
-  </tr>
-</table>
+<style>
+.foster-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  max-width: 760px;
+  margin: 0 auto;
+}
+.foster-grid figure {
+  margin: 0;
+  text-align: center;
+}
+.foster-grid figcaption {
+  font-size: 1.1em;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+.foster-grid img {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 8px;
+  display: block;
+}
+@media (max-width: 600px) {
+  .foster-grid { grid-template-columns: 1fr; }
+}
+</style>
+
+<div class="foster-grid">
+  <figure>
+    <figcaption>Mushu</figcaption>
+    <img src="images/mushu.jpeg" alt="Mushu">
+  </figure>
+  <figure>
+    <figcaption>Roo</figcaption>
+    <img src="images/roo.jpeg" alt="Roo">
+  </figure>
+  <figure>
+    <figcaption>Yuki</figcaption>
+    <img src="images/yuki.jpeg" alt="Yuki">
+  </figure>
+  <figure>
+    <figcaption>Pingu</figcaption>
+    <img src="images/pingu.jpeg" alt="Pingu">
+  </figure>
+  <figure>
+    <figcaption>Charlie Jr.</figcaption>
+    <img src="images/charlie.jpeg" alt="Charlie Jr.">
+  </figure>
+  <figure>
+    <figcaption>Mira</figcaption>
+    <img src="images/mira.jpeg" alt="Mira">
+  </figure>
+</div>
 
 ## Go Dawgs!
 
