@@ -7,7 +7,7 @@ project:
 
 website:
   title: "Tsering Sherpa"
-  description: "PhD Student at the University of Washington"
+  description: "Development economist studying education, technology, and human capital in underserved communities. PhD Student, University of Washington."
   image: "images/profile.jpeg"
   favicon: "images/logo.png"
   twitter-card: true
