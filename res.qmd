@@ -13,10 +13,9 @@ My dissertation committee at the University of Washington is chaired by [Rachel 
 
 **SHERPA: Solukhumbu Himalayan Education & Research on Pathways and Assessment**
 
-An independent, field-based research project examining the impacts of NGO-provided educational programs on educational trajectories and vocational aspirations among Sherpa youth in Nepal. The first paper from the project asks how the installation of school computer labs in Solukhumbu affects students' academic achievement, exploiting the staggered rollout of labs across schools in partnership with the Himalayan Trust Network's Quality Education Programme. I conducted dissertation fieldwork at sites in the Khumbu and Junbesi clusters in March 2026. See the [Fieldwork](fieldwork.qmd) page.
+An independent, field-based research program examining how NGO-supported educational programs shape learning and vocational pathways for Sherpa youth in Solukhumbu, Nepal. The project is anchored to the multi-year computer-lab and teacher-training rollout led by the **Himalayan Trust Nepal (HTN)** and **EduTech Nepal**, and is organized around three papers.
 
-Sherpa, T. (2026). "Hardware Without Pedagogy: Computer Labs and Student Learning in Remote Nepal Schools." *Working draft available upon request.*
+*Paper 1 — Hardware Without Pedagogy.* Exploits the staggered rollout of HTN computer labs to estimate the effect of lab installation on student academic achievement, using a 22-school observational panel from HTN's Quality Education Programme and dissertation fieldwork in the Khumbu and Junbesi clusters in March 2026. See the [Fieldwork](fieldwork.qmd) page.
 
-## Other Experience
 
-In addition to dissertation research, I have worked as an applied policy consultant with **Delphy AgAdvisory** on regional economic impact analysis (2026), as a research assistant with **Northwest Economics LLC** in Seattle on payroll and wage-and-hour litigation (Summer 2025), and as an undergraduate research assistant in the **University of Colorado Department of Economics** on subjective well-being measurement (2022).
+
