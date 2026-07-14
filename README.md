@@ -9,7 +9,7 @@ This site serves as a central hub for my academic and professional work. It incl
 - **CV**: A downloadable version of my curriculum vitae
 - **Research**: Current and past research projects
 - **Teaching**: Teaching materials, course info, and student resources
-- **Service**: Academic service and involvement (e.g., Women in Economics)
+- **Service**: Academic service and involvement 
 
 ## 🛠️ Tech Stack
 
@@ -25,6 +25,3 @@ This site serves as a central hub for my academic and professional work. It incl
    ```bash
    git clone https://github.com/tseringlsherpa/tseringlsherpa.github.io.git
    cd tseringlsherpa.github.io
-   
-
-

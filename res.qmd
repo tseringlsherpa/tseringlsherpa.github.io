@@ -13,9 +13,8 @@ My dissertation committee at the University of Washington is chaired by [Rachel 
 
 **SHERPA: Solukhumbu Himalayan Education & Research on Pathways and Assessment**
 
-An independent, field-based research program examining how NGO-supported educational programs shape learning and vocational pathways for Sherpa youth in Solukhumbu, Nepal. The project is anchored to the multi-year computer-lab and teacher-training rollout led by the **Himalayan Trust Nepal (HTN)** and **EduTech Nepal**, and is organized around three papers.
+An independent, field-based research program examining how NGO-supported educational programs shape learning and vocational pathways for Sherpa youth in Solukhumbu, Nepal. The project is anchored to the multi-year computer-lab and teacher-training rollout led by the **Himalayan Trust Nepal (HTN)** and **EduTech Nepal**.
 
-*Paper 1 — Hardware Without Pedagogy.* Exploits the staggered rollout of HTN computer labs to estimate the effect of lab installation on student academic achievement, using a 22-school observational panel from HTN's Quality Education Programme and dissertation fieldwork in the Khumbu and Junbesi clusters in March 2026. See the [Fieldwork](fieldwork.qmd) page.
-
+*Working Draft — Hardware Without Pedagogy.* Exploits the staggered rollout of HTN computer labs to estimate the effect of lab installation on student academic achievement, using a 22-school observational panel from HTN's Quality Education Programme and dissertation fieldwork in the Khumbu and Junbesi clusters in March 2026. See the [Fieldwork](fieldwork.qmd) page.
 
 

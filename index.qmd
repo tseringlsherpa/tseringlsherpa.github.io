@@ -18,9 +18,10 @@ about:
     target: _blank
 ---
 
-I am a third-year PhD student in the Department of Economics at the University of Washington, working with [Rachel Heath](https://faculty.washington.edu/rmheath/) (chair), [Alan Griffith](https://sites.google.com/site/alangriffithecon/), [Isabelle Cohen](https://www.isabellemcohen.com/), and [André Punt](https://puntlab.washington.edu/). My research is in **development economics**, with a focus on how technology, information, and educational institutions shape human capital formation in Nepal. 
+I am a fourth-year PhD student in the Department of Economics at the University of Washington, working with [Rachel Heath](https://faculty.washington.edu/rmheath/) (chair), [Alan Griffith](https://sites.google.com/site/alangriffithecon/), [Isabelle Cohen](https://www.isabellemcohen.com/), and [André Punt](https://puntlab.washington.edu/). My research is in **development economics**, with a focus on how technology, information, and educational institutions shape human capital formation in Nepal. 
 
-My current research, the [**SHERPA Project**](res.qmd) (Solukhumbu Himalayan Education & Research on Pathways and Assessment), examines how NGO-installed school computer labs affect student learning in rural Nepal. I conducted [fieldwork](fieldwork.qmd) in Solukhumbu in March 2026. I am now partnering with the Himalayan Trust Nepal, EduTech Nepal, and HimalayaAI Labs on a feasibility pilot of DeepGyan AI, an offline Nepali-language K-12 teaching assistant, in HTN-supported schools in 2026, and a planned cluster-randomized evaluation of the same teacher-PD package across 45–50 schools in 2027–28.
+My current research, the [**SHERPA Project**](res.qmd) (Solukhumbu Himalayan Education & Research on Pathways and Assessment), examines how NGO-installed school computer labs affect student learning in rural Nepal. I conducted [fieldwork](fieldwork.qmd) in Solukhumbu in March 2026. 
 
+I am now partnering with the Himalayan Trust Nepal, EduTech Nepal, and HimalayaAI Labs on a feasibility pilot of DeepGyan AI, an offline Nepali-language teaching assistant, in HTN-supported schools in the 2026-27 academic year.
 
-Beyond academics, I do contract work in economic consulting. For more on my experience, see my CV. Outside of work, I enjoy reading, writing, gardening, and spending time with friends, family, and dogs.
+For more on my experience, see my CV. Outside of work, I enjoy reading, writing, gardening, and spending time with friends, family, and dogs.

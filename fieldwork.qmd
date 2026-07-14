@@ -5,7 +5,7 @@ toc: TRUE
 
 ## Solukhumbu, Nepal (March 2026)
 
-In March 2026 I conducted dissertation fieldwork in Solukhumbu District, Nepal, visiting four schools across the Khumbu and Junbesi clusters. The visit informs both Phase I (computer lab effects on student learning) and Phase II (designing an AI teacher-training RCT) of the [SHERPA Project](res.qmd).
+In March 2026 I conducted dissertation fieldwork in Solukhumbu District, Nepal, visiting four schools across the Khumbu and Junbesi clusters. The visit informs the computer lab effects on student learning [SHERPA Project](res.qmd).
 
 The schools I visited were:
 
@@ -28,12 +28,6 @@ At each site I observed computer lab use, interviewed teachers, conducted focus 
 ![Computer Lab plaque at Shree Mahendra Jyoti Secondary School, installed by EduTech Nepal in partnership with the Himalayan Trust.](images/fieldwork/IMG_8867.jpg)
 
 ![Inside one of the computer labs.](images/fieldwork/IMG_8965.jpg)
-
-![*JBD Computer Concepts*, Grade 6: The textbook in use, with review exercises on hardware, storage, and CPU operations.](images/fieldwork/IMG_8866.jpg)
-
-![Daily routine and exam schedules posted at Janasewa Basic School.](images/fieldwork/IMG_9135.jpg)
-
-![Kopan Monastery, Kathmandu: Context for Chapter 3 of the dissertation, which examines monastic institutions as a precursor to formal schooling in Sherpa society.](images/fieldwork/IMG_9262.jpg)
 :::
 
 ## What the fieldwork sharpened
