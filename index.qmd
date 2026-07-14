@@ -18,7 +18,7 @@ about:
     target: _blank
 ---
 
-I am a fourth-year PhD student in the Department of Economics at the University of Washington, working with [Rachel Heath](https://faculty.washington.edu/rmheath/) (chair), [Alan Griffith](https://sites.google.com/site/alangriffithecon/), [Isabelle Cohen](https://www.isabellemcohen.com/), and [André Punt](https://puntlab.washington.edu/). My research is in **development economics**, with a focus on how technology, information, and educational institutions shape human capital formation in Nepal. 
+I am a fourth-year PhD student in the Department of Economics at the University of Washington, advised by [Rachel Heath](https://faculty.washington.edu/rmheath/) (chair), [Alan Griffith](https://sites.google.com/site/alangriffithecon/), and [Isabelle Cohen](https://www.isabellemcohen.com/). My research is in **development economics**, with a focus on how technology, information, and educational institutions shape human capital formation in Nepal. 
 
 My current research, the [**SHERPA Project**](res.qmd) (Solukhumbu Himalayan Education & Research on Pathways and Assessment), examines how NGO-installed school computer labs affect student learning in rural Nepal. I conducted [fieldwork](fieldwork.qmd) in Solukhumbu in March 2026. 
 
