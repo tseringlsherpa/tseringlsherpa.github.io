@@ -79,6 +79,10 @@ If you're in Seattle and interested in fostering, I highly recommend getting inv
     <figcaption>Mira</figcaption>
     <img src="images/mira.jpeg" alt="Mira">
   </figure>
+   <figure>
+    <figcaption>Nibble</figcaption>
+    <img src="images/nibble.jpeg" alt="Nibble">
+  </figure>
 </div>
 
 ## Go Dawgs!
