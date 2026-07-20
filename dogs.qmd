@@ -83,6 +83,10 @@ If you're in Seattle and interested in fostering, I highly recommend getting inv
     <figcaption>Nibble</figcaption>
     <img src="images/nibble.jpeg" alt="Nibble">
   </figure>
+  <figure>
+    <figcaption>Pineapple</figcaption>
+    <img src="images/pineapple.jpeg" alt="Pineapple">
+  </figure>
 </div>
 
 ## Go Dawgs!
