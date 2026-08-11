@@ -4,7 +4,7 @@ toc: FALSE
 ---
 This page is for current and past students. It includes materials from my time as a TA at UW, focused on data analysis in R and applied statistics in natural resource management.
 
-You can reach me at [tsherp@uw.edu](mailto:tsherp@uw.edu) with questions or to set up a meeting. Please refer to Canvas for current office hours.
+You can reach me by messaging me on Canvas with questions or to set up a meeting. Please refer to Canvas for current office hours.
 
 - [How to Set Up R](files/QSCI381/Rsetup.pdf)
 - [R Markdown and Assignment Info](files/QSCI381/AssignmentsRTips.pdf)
