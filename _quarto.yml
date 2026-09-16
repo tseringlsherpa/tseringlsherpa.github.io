@@ -6,7 +6,7 @@ project:
     - "images/"
 
 website:
-  title: "Tsering Sherpa"
+  title: "Tsering L. Sherpa"
   description: "Development economist studying education, technology, and human capital in underserved communities. PhD Student, University of Washington."
   image: "images/profile.jpeg"
   favicon: "images/logo.png"
