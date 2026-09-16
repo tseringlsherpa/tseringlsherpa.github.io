@@ -5,8 +5,6 @@ toc: FALSE
 
 ## Welcome Message for Students
 
-Before we begin, please take the time to read and familiarize yourself with the most recent version of the [syllabus](files/ECON201/ECON201_Syllabus.pdf). This course is **fully in person**, and most of your success will come from staying engaged during lecture, keeping up with the weekly homework, and asking questions early. The syllabus outlines exactly how the class is structured, what is expected of you, and how to prepare for each week.
-
 We will begin with a brief review of supply and demand concepts from ECON 200. For many of you, this material will feel familiar, but it is essential groundwork for the macroeconomic tools we develop throughout the quarter.
 
 The focus of the course is **macroeconomics**, which studies the economy as a whole rather than individual decision-makers. While microeconomics examines how consumers and firms behave, macroeconomics asks broader questions about national and global economic conditions, such as:

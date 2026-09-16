@@ -77,81 +77,60 @@
     "text": "Research Motivation\nAs a Sherpa and an economist, my goal is not to romanticize tradition or resist change. Rather, it is to understand how households navigate constrained choice sets, how informal institutions shape responses to education and technology, and how development interventions interact with identity and long-run welfare.\nThis historical and institutional context motivates my research on education, technology, and household decision-making in Sherpa communities. Through a Sherpa Window has been a useful starting point for framing these questions, particularly as I prepare for future fieldwork and (potential) language study.\nTogether, this context motivates an empirical focus on how households respond to education and technology interventions under binding geographic, institutional, and cultural constraints. In ongoing work, I study how variation in access to schooling inputs and educational technology shapes enrollment, learning outcomes, and aspirations among Sherpa youth, with particular attention to heterogeneous effects across households facing different tradeoffs between economic opportunity and cultural continuity. The aim is to identify mechanisms rather than narratives, and to understand when external interventions complement, rather than undermine, locally sustaining institutions."
   },
   {
-    "objectID": "dogs.html",
-    "href": "dogs.html",
-    "title": "Loyal Company",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tsering Sherpa",
     "section": "",
-    "text": "These dogs have, each in their own way, shaped my sense of care, patience, and presence."
+    "text": "I am a fourth-year PhD student in the Department of Economics at the University of Washington, advised by Rachel Heath (chair), Alan Griffith, and Isabelle Cohen. My research is in development economics, with a focus on how technology, information, and educational institutions shape human capital formation in Nepal.\nMy current research, the SHERPA Project (Southern Himalaya Education & Research on Pathways and Assessment), examines how NGO-installed school computer labs affect student learning in rural Nepal. I conducted fieldwork in Solukhumbu in March 2026.\nFor more on my experience, see my CV. Outside of work, I enjoy reading, writing, gardening, and spending time with friends, family, and dogs."
   },
   {
-    "objectID": "dogs.html#cody-sherpa",
-    "href": "dogs.html#cody-sherpa",
-    "title": "Loyal Company",
-    "section": "Cody Sherpa",
-    "text": "Cody Sherpa\n\nCody was our family’s chihuahua mix and my childhood pet. We adopted him in 2012, and we got to spend nearly 13 years with him. We also have another family dog named Daisy."
-  },
-  {
-    "objectID": "dogs.html#foster-dogs-in-seattle",
-    "href": "dogs.html#foster-dogs-in-seattle",
-    "title": "Loyal Company",
-    "section": "Foster Dogs in Seattle",
-    "text": "Foster Dogs in Seattle\nBelow are some of the puppies and dogs I’ve fostered through Resilient Hearts Animal Sanctuary in Seattle.\nIf you’re in Seattle and interested in fostering, I highly recommend getting involved. Fostering allows shelters to make space for unhoused dogs, helping reduce overcrowding and minimizing the risk of euthanasia due to lack of resources.\n\n\n\n\nMushu\n\n\n\n\n\nRoo\n\n\n\n\n\nYuki\n\n\n\n\n\nPingu\n\n\n\n\n\nCharlie Jr.\n\n\n\n\n\nMira\n\n\n\n\n\nNibble\n\n\n\n\n\nPineapple"
-  },
-  {
-    "objectID": "dogs.html#go-dawgs",
-    "href": "dogs.html#go-dawgs",
-    "title": "Loyal Company",
-    "section": "Go Dawgs!",
-    "text": "Go Dawgs!\nFeatured below is a photo I got with Dubs the II, the mascot of the University of Washington Huskies."
-  },
-  {
-    "objectID": "tools.html",
-    "href": "tools.html",
-    "title": "Additional Tools",
+    "objectID": "econ201.html",
+    "href": "econ201.html",
+    "title": "ECON 201: Introduction to Macroeconomics",
     "section": "",
-    "text": "Below are tools and guides I recommend for getting started:\n\nLearn to use GitHub\nLearn to use RStudio\nLearn to use Overleaf\nHow to make a website with Quarto"
+    "text": "We will begin with a brief review of supply and demand concepts from ECON 200. For many of you, this material will feel familiar, but it is essential groundwork for the macroeconomic tools we develop throughout the quarter.\nThe focus of the course is macroeconomics, which studies the economy as a whole rather than individual decision-makers. While microeconomics examines how consumers and firms behave, macroeconomics asks broader questions about national and global economic conditions, such as:\n\nWhat causes economies to grow or fall into recession?\nWhy do inflation and unemployment occur?\nHow do fiscal and monetary policy influence economic outcomes\nWhat role do banks, interest rates, and exchange rates play in shaping the economy?\n\nThroughout the quarter, we will study GDP, labor markets, inflation, the financial sector, monetary and fiscal policy, and international linkages. These topics will be tied directly to current events and real-world policy debates. Weekly homework, in-class quizzes, writing assignments, and exams are designed to reinforce these concepts and help you practice applying them.\nPlease make sure you can access Canvas, where weekly homework, readings, and announcements will be posted."
   },
   {
-    "objectID": "tools.html#links",
-    "href": "tools.html#links",
-    "title": "Additional Tools",
+    "objectID": "econ201.html#welcome-message-for-students",
+    "href": "econ201.html#welcome-message-for-students",
+    "title": "ECON 201: Introduction to Macroeconomics",
     "section": "",
-    "text": "Below are tools and guides I recommend for getting started:\n\nLearn to use GitHub\nLearn to use RStudio\nLearn to use Overleaf\nHow to make a website with Quarto"
+    "text": "We will begin with a brief review of supply and demand concepts from ECON 200. For many of you, this material will feel familiar, but it is essential groundwork for the macroeconomic tools we develop throughout the quarter.\nThe focus of the course is macroeconomics, which studies the economy as a whole rather than individual decision-makers. While microeconomics examines how consumers and firms behave, macroeconomics asks broader questions about national and global economic conditions, such as:\n\nWhat causes economies to grow or fall into recession?\nWhy do inflation and unemployment occur?\nHow do fiscal and monetary policy influence economic outcomes\nWhat role do banks, interest rates, and exchange rates play in shaping the economy?\n\nThroughout the quarter, we will study GDP, labor markets, inflation, the financial sector, monetary and fiscal policy, and international linkages. These topics will be tied directly to current events and real-world policy debates. Weekly homework, in-class quizzes, writing assignments, and exams are designed to reinforce these concepts and help you practice applying them.\nPlease make sure you can access Canvas, where weekly homework, readings, and announcements will be posted."
   },
   {
-    "objectID": "tools.html#readings-podcasts-i-like",
-    "href": "tools.html#readings-podcasts-i-like",
-    "title": "Additional Tools",
-    "section": "Readings & Podcasts I Like",
-    "text": "Readings & Podcasts I Like\n\nWorld Bank Blogs: Development Impact\nCenter for Global Development\nAgricultural Economics - Without Apology\nConfessions of a Supply-Side Liberal\nErik’s Blog\nPractical Stoicism"
+    "objectID": "econ201.html#my-approach-to-economic-reasoning",
+    "href": "econ201.html#my-approach-to-economic-reasoning",
+    "title": "ECON 201: Introduction to Macroeconomics",
+    "section": "My Approach to Economic Reasoning",
+    "text": "My Approach to Economic Reasoning\nEconomic reasoning is not about memorizing definitions or formulas. It is the skill of taking a real-world question, breaking it into its essential components, and using evidence, models, and logic to understand what is happening. This is a way of thinking that anyone can learn with deliberate practice.\n• Economics is a discipline of clarity. A well-reasoned explanation is more valuable than a complicated one. When you can articulate why something happens using the basic tools of the course, you are thinking like an economist.\n• Mistakes are informative, not failures. Misinterpreting a graph or misapplying a concept is part of the learning process. These moments reveal where your reasoning can be strengthened, not your limits.\n• Deep understanding comes from revisiting ideas. Macroeconomic concepts connect to one another: GDP, unemployment, inflation, interest rates, and policy decisions are interdependent. Repetition builds intuition.\n• Think in mechanisms, not labels. Rather than remembering that “AD shifts left,” focus on why households or firms change their decisions, or how interest rates affect investment. Mechanisms allow you to apply your knowledge well beyond textbook examples.\n• Focus on questions, not shortcuts. Strong economic reasoning comes from consistently asking: What changed? Who is affected? Through what channel? What are the tradeoffs?\n• Learn to communicate in the language of economics. Many students already think intuitively in terms of incentives and mechanisms; the goal of this course is to help you express that reasoning clearly and confidently.\nThe goal of ECON 201 is not just to teach macroeconomic tools, but to help you develop a durable way of thinking about the economy. Confidence comes from consistent engagement and the willingness to revisit ideas until they click. Economics is a skill you build through practice, not something you either understand immediately or never will.\nIf anything in the syllabus is unclear or if you have concerns about your progress, please reach out early. I am here to support your learning.\nI look forward to working with you this quarter.\n\nBest,\nTsering Sherpa"
   },
   {
-    "objectID": "fieldwork.html",
-    "href": "fieldwork.html",
-    "title": "Fieldwork",
+    "objectID": "engl299.html",
+    "href": "engl299.html",
+    "title": "ENGL 299: Intermediate Writing in the Natural Sciences",
     "section": "",
-    "text": "In March 2026 I conducted dissertation fieldwork in Solukhumbu District, Nepal, visiting four schools across the Khumbu and Junbesi clusters. The visit informs the computer lab effects on student learning SHERPA Project.\nThe schools I visited were:\n\nShree Yuba Barsha Basic School (Khumbu Pasanghamu RM-3)\nShree Pema Chholing Basic School\nJanasewa Basic School\nMahendra Jyoti Secondary School\n\nAt each site I observed computer lab use, interviewed teachers, conducted focus group discussions with students, and documented student work and exam materials. I also catalogued the HTN Quality Education Programme record-keeping system and collected term exam papers across grades 4–7.\n\n\n\n\n\n\nArriving in Solukhumbu by Tara Air.\n\n\n\n\n\n\n\nOn the trail above the Dudh Koshi.\n\n\n\n\n\n\n\n\n\nA school in the Junbesi cluster: The Himalayan backdrop and isolation that define educational delivery in Solukhumbu.\n\n\n\n\n\n\n\nShree Pema Chholing Basic School: “Every Day is a Chance to Learn.”\n\n\n\n\n\n\n\n\n\nComputer Lab plaque at Shree Mahendra Jyoti Secondary School, installed by EduTech Nepal in partnership with the Himalayan Trust.\n\n\n\n\n\n\n\nInside one of the computer labs."
+    "text": "This page is for students enrolled in Intermediate Writing in the Natural Sciences (ENGL 299) during Spring Quarter 2026.\nThis intermediate writing course is linked with Nutrition for Today (NUTR 200), with the details available on myplan.\nENGL 299 Syllabus"
   },
   {
-    "objectID": "fieldwork.html#solukhumbu-nepal-march-2026",
-    "href": "fieldwork.html#solukhumbu-nepal-march-2026",
-    "title": "Fieldwork",
+    "objectID": "engl299.html#readings",
+    "href": "engl299.html#readings",
+    "title": "ENGL 299: Intermediate Writing in the Natural Sciences",
+    "section": "Readings",
+    "text": "Readings\nReadings are listed in the order they appear on the course schedule. PDFs and links below are publicly available copies; for course discussion, please refer to the version posted on Canvas.\n\nWeek 1 — Understanding Global Nutrition Issues\n\nBanerjee, Abhijit, and Esther Duflo. “The Economic Lives of the Poor.” Journal of Economic Perspectives, vol. 21, no. 1, 2007, pp. 141–167.\n\n\n\nWeek 2 — Personal Narrative\n\nRoach Smith, Marion. “Three Big Tips for Writing a Personal Essay.” MarionRoach.com, 13 Sept. 2018.\nLamott, Anne. “Shitty First Drafts.” Bird by Bird: Some Instructions on Writing and Life. Anchor, 1994.\n\n\n\nWeek 3 — Analytical Essay: Introduction and Evidence\n\nGraduate Studies. Writing an Analytical Essay. 2023. (Posted on Canvas.)\nShort texts on U.S. nutrition issues. (Posted on Canvas.)\nShort texts on nutrition in developing countries. (Posted on Canvas.)\n\n\n\nWeek 4 — Analytical Essay: Structure and Revision\n\nHarvard College Writing Center. “Strategies for Essay Writing.” 2024.\n\n\n\nWeek 6 — Policy Memo Presentations\n\nDuke Thompson Writing Program. “Policy Memo Guidelines.”\nStanford Law School. “Policy Memo Guidelines” (Luciana Herman).\n\n\n\nWeek 7 — Written Policy Memo\n\nHarvard Kennedy School Communications Program. “How to Write a Policy Memo” (Lauren Brodsky). 2018.\nUniversity of Chicago Harris School. “How to Write a Policy Memo That Matters.”"
+  },
+  {
+    "objectID": "engl299.html#additional-writing-resources",
+    "href": "engl299.html#additional-writing-resources",
+    "title": "ENGL 299: Intermediate Writing in the Natural Sciences",
+    "section": "Additional Writing Resources",
+    "text": "Additional Writing Resources\n\nOdegaard Writing and Research Center (OWRC) — free one-on-one tutoring sessions for writers in all fields.\nCLUE Writing Center — online writing support for undergraduates at any stage of the writing process.\nUW Libraries — databases, e-journals, and 24/7 research help."
+  },
+  {
+    "objectID": "community.html",
+    "href": "community.html",
+    "title": "Community Engagement",
     "section": "",
-    "text": "In March 2026 I conducted dissertation fieldwork in Solukhumbu District, Nepal, visiting four schools across the Khumbu and Junbesi clusters. The visit informs the computer lab effects on student learning SHERPA Project.\nThe schools I visited were:\n\nShree Yuba Barsha Basic School (Khumbu Pasanghamu RM-3)\nShree Pema Chholing Basic School\nJanasewa Basic School\nMahendra Jyoti Secondary School\n\nAt each site I observed computer lab use, interviewed teachers, conducted focus group discussions with students, and documented student work and exam materials. I also catalogued the HTN Quality Education Programme record-keeping system and collected term exam papers across grades 4–7.\n\n\n\n\n\n\nArriving in Solukhumbu by Tara Air.\n\n\n\n\n\n\n\nOn the trail above the Dudh Koshi.\n\n\n\n\n\n\n\n\n\nA school in the Junbesi cluster: The Himalayan backdrop and isolation that define educational delivery in Solukhumbu.\n\n\n\n\n\n\n\nShree Pema Chholing Basic School: “Every Day is a Chance to Learn.”\n\n\n\n\n\n\n\n\n\nComputer Lab plaque at Shree Mahendra Jyoti Secondary School, installed by EduTech Nepal in partnership with the Himalayan Trust.\n\n\n\n\n\n\n\nInside one of the computer labs."
-  },
-  {
-    "objectID": "fieldwork.html#what-the-fieldwork-sharpened",
-    "href": "fieldwork.html#what-the-fieldwork-sharpened",
-    "title": "Fieldwork",
-    "section": "What the fieldwork sharpened",
-    "text": "What the fieldwork sharpened\nAcross the four sites, the binding constraint on the educational value of the computer labs was rarely the hardware. Schools where teachers had self-taught computer skills produced creative, diverse student output: Student-made PowerPoint presentations, drawings, and short essays. Schools without that human capital used identical labs largely for rote typing.\nThis finding motivates the next stage of the SHERPA Project: A feasibility pilot in 2026 in partnership with HimalayaAI Labs (HAL) and the Himalayan Trust Nepal, deploying HAL’s offline Nepali-language teaching assistant, DeepGyan AI, on teacher workstations in one to two HTN-supported schools to estimate teacher take-up and validate the deployment workflow."
-  },
-  {
-    "objectID": "fieldwork.html#acknowledgments",
-    "href": "fieldwork.html#acknowledgments",
-    "title": "Fieldwork",
-    "section": "Acknowledgments",
-    "text": "Acknowledgments\nThe fieldwork was conducted in partnership with the Himalayan Trust Network’s Quality Education Programme and was approved under UW IRB STUDY00024333. Photographs are shared with the permission of the Himalayan Trust Network and the participating schools. I am grateful to the school principals, teachers, students, and HTN staff in Solukhumbu for their generosity and time."
+    "text": "At the University of Washington, I stay engaged through both departmental service and community-building initiatives. I currently serve as the President of the Economics Graduate Student Committee, where I’ve advocated for more equitable and transparent funding practices.\nI’m also an active member of UW’s Women in Economics (WiE), with a focus on increasing undergraduate engagement and strengthening board collaboration to support events and outreach."
   },
   {
     "objectID": "teaching.html",
@@ -182,67 +161,95 @@
     "text": "Grader\nReading Comprehension, Critical Thinking, & Writing Skills (RTW) Exam\nUniversity of Washington, Department of Economics. Fall 2023 – Present.\nECON 422: Investment, Capital, and Finance\nUniversity of Washington, Fall 2025.\nECON 423: Topics in Financial Economics\nUniversity of Washington, Spring 2025."
   },
   {
-    "objectID": "teaching.html#prior-teaching",
-    "href": "teaching.html#prior-teaching",
-    "title": "Teaching Experience",
-    "section": "Prior Teaching",
-    "text": "Prior Teaching\nMath Tutor and Learning Assistant\nUniversity of Colorado Boulder, Department of Mathematics. January 2022 – August 2023. Provided academic support in calculus and linear algebra, with emphasis on proof techniques and conceptual reasoning."
-  },
-  {
-    "objectID": "community.html",
-    "href": "community.html",
-    "title": "Community Engagement",
+    "objectID": "fieldwork.html",
+    "href": "fieldwork.html",
+    "title": "Fieldwork",
     "section": "",
-    "text": "At the University of Washington, I stay engaged through both departmental service and community-building initiatives. I currently serve as the President of the Economics Graduate Student Committee, where I’ve advocated for more equitable and transparent funding practices.\nI’m also an active member of UW’s Women in Economics (WiE), with a focus on increasing undergraduate engagement and strengthening board collaboration to support events and outreach.\nAs an undergraduate at CU Boulder, I was involved in several student organizations, including the American Marketing Association, the Finance Board (where I served as a voting member), and CU Women in Economics. I worked as a learning assistant and tutor for Calculus II and III, and on the Finance Board, I helped evaluate student fee allocations during a period of post-COVID budget restructuring. That experience taught me how to navigate institutional trade-offs and advocate effectively for student needs.\nI also volunteered as a reading tutor for elementary students whose early literacy development had been disrupted by COVID. That experience sparked a deeper interest in education equity and continues to shape how I think about access, learning, and support across developmental stages."
+    "text": "In March 2026 I conducted dissertation fieldwork in Solukhumbu District, Nepal, visiting four schools across the Khumbu and Junbesi clusters. The visit informs the computer lab effects on student learning SHERPA Project.\nThe schools I visited were:\n\nShree Yuba Barsha Basic School (Khumbu Pasanghamu RM-3)\nShree Pema Chholing Basic School\nJanasewa Basic School\nMahendra Jyoti Secondary School\n\nAt each site I observed computer lab use, interviewed teachers, conducted focus group discussions with students, and documented student work and exam materials. I also catalogued the HTN Quality Education Programme record-keeping system and collected term exam papers across grades 4–7.\n\n\n\n\n\n\nArriving in Solukhumbu by Tara Air.\n\n\n\n\n\n\n\nOn the trail above the Dudh Koshi.\n\n\n\n\n\n\n\n\n\nA school in the Junbesi cluster: The Himalayan backdrop and isolation that define educational delivery in Solukhumbu.\n\n\n\n\n\n\n\nShree Pema Chholing Basic School: “Every Day is a Chance to Learn.”\n\n\n\n\n\n\n\n\n\nComputer Lab plaque at Shree Mahendra Jyoti Secondary School, installed by EduTech Nepal in partnership with the Himalayan Trust.\n\n\n\n\n\n\n\nInside one of the computer labs."
   },
   {
-    "objectID": "engl299.html",
-    "href": "engl299.html",
-    "title": "ENGL 299: Intermediate Writing in the Natural Sciences",
+    "objectID": "fieldwork.html#solukhumbu-nepal-march-2026",
+    "href": "fieldwork.html#solukhumbu-nepal-march-2026",
+    "title": "Fieldwork",
     "section": "",
-    "text": "This page is for students enrolled in Intermediate Writing in the Natural Sciences (ENGL 299) during Spring Quarter 2026.\nThis intermediate writing course is linked with Nutrition for Today (NUTR 200), with the details available on myplan.\nENGL 299 Syllabus"
+    "text": "In March 2026 I conducted dissertation fieldwork in Solukhumbu District, Nepal, visiting four schools across the Khumbu and Junbesi clusters. The visit informs the computer lab effects on student learning SHERPA Project.\nThe schools I visited were:\n\nShree Yuba Barsha Basic School (Khumbu Pasanghamu RM-3)\nShree Pema Chholing Basic School\nJanasewa Basic School\nMahendra Jyoti Secondary School\n\nAt each site I observed computer lab use, interviewed teachers, conducted focus group discussions with students, and documented student work and exam materials. I also catalogued the HTN Quality Education Programme record-keeping system and collected term exam papers across grades 4–7.\n\n\n\n\n\n\nArriving in Solukhumbu by Tara Air.\n\n\n\n\n\n\n\nOn the trail above the Dudh Koshi.\n\n\n\n\n\n\n\n\n\nA school in the Junbesi cluster: The Himalayan backdrop and isolation that define educational delivery in Solukhumbu.\n\n\n\n\n\n\n\nShree Pema Chholing Basic School: “Every Day is a Chance to Learn.”\n\n\n\n\n\n\n\n\n\nComputer Lab plaque at Shree Mahendra Jyoti Secondary School, installed by EduTech Nepal in partnership with the Himalayan Trust.\n\n\n\n\n\n\n\nInside one of the computer labs."
   },
   {
-    "objectID": "engl299.html#readings",
-    "href": "engl299.html#readings",
-    "title": "ENGL 299: Intermediate Writing in the Natural Sciences",
-    "section": "Readings",
-    "text": "Readings\nReadings are listed in the order they appear on the course schedule. PDFs and links below are publicly available copies; for course discussion, please refer to the version posted on Canvas.\n\nWeek 1 — Understanding Global Nutrition Issues\n\nBanerjee, Abhijit, and Esther Duflo. “The Economic Lives of the Poor.” Journal of Economic Perspectives, vol. 21, no. 1, 2007, pp. 141–167.\n\n\n\nWeek 2 — Personal Narrative\n\nRoach Smith, Marion. “Three Big Tips for Writing a Personal Essay.” MarionRoach.com, 13 Sept. 2018.\nLamott, Anne. “Shitty First Drafts.” Bird by Bird: Some Instructions on Writing and Life. Anchor, 1994.\n\n\n\nWeek 3 — Analytical Essay: Introduction and Evidence\n\nGraduate Studies. Writing an Analytical Essay. 2023. (Posted on Canvas.)\nShort texts on U.S. nutrition issues. (Posted on Canvas.)\nShort texts on nutrition in developing countries. (Posted on Canvas.)\n\n\n\nWeek 4 — Analytical Essay: Structure and Revision\n\nHarvard College Writing Center. “Strategies for Essay Writing.” 2024.\n\n\n\nWeek 6 — Policy Memo Presentations\n\nDuke Thompson Writing Program. “Policy Memo Guidelines.”\nStanford Law School. “Policy Memo Guidelines” (Luciana Herman).\n\n\n\nWeek 7 — Written Policy Memo\n\nHarvard Kennedy School Communications Program. “How to Write a Policy Memo” (Lauren Brodsky). 2018.\nUniversity of Chicago Harris School. “How to Write a Policy Memo That Matters.”"
+    "objectID": "fieldwork.html#what-the-fieldwork-sharpened",
+    "href": "fieldwork.html#what-the-fieldwork-sharpened",
+    "title": "Fieldwork",
+    "section": "What the fieldwork sharpened",
+    "text": "What the fieldwork sharpened\nAcross the four sites, the binding constraint on the educational value of the computer labs was rarely the hardware. Schools where teachers had self-taught computer skills produced creative, diverse student output: Student-made PowerPoint presentations, drawings, and short essays. Schools without that human capital used identical labs largely for rote typing."
   },
   {
-    "objectID": "engl299.html#additional-writing-resources",
-    "href": "engl299.html#additional-writing-resources",
-    "title": "ENGL 299: Intermediate Writing in the Natural Sciences",
-    "section": "Additional Writing Resources",
-    "text": "Additional Writing Resources\n\nOdegaard Writing and Research Center (OWRC) — free one-on-one tutoring sessions for writers in all fields.\nCLUE Writing Center — online writing support for undergraduates at any stage of the writing process.\nUW Libraries — databases, e-journals, and 24/7 research help."
+    "objectID": "fieldwork.html#acknowledgments",
+    "href": "fieldwork.html#acknowledgments",
+    "title": "Fieldwork",
+    "section": "Acknowledgments",
+    "text": "Acknowledgments\nThe fieldwork was conducted in partnership with the Himalayan Trust Network’s Quality Education Programme and was approved under UW IRB STUDY00024333. Photographs are shared with the permission of the Himalayan Trust Network and the participating schools. I am grateful to the school principals, teachers, students, and HTN staff in Solukhumbu for their generosity and time."
   },
   {
-    "objectID": "econ201.html",
-    "href": "econ201.html",
-    "title": "ECON 201: Introduction to Macroeconomics",
+    "objectID": "tools.html",
+    "href": "tools.html",
+    "title": "Additional Tools",
     "section": "",
-    "text": "Before we begin, please take the time to read and familiarize yourself with the most recent version of the syllabus. This course is fully in person, and most of your success will come from staying engaged during lecture, keeping up with the weekly homework, and asking questions early. The syllabus outlines exactly how the class is structured, what is expected of you, and how to prepare for each week.\nWe will begin with a brief review of supply and demand concepts from ECON 200. For many of you, this material will feel familiar, but it is essential groundwork for the macroeconomic tools we develop throughout the quarter.\nThe focus of the course is macroeconomics, which studies the economy as a whole rather than individual decision-makers. While microeconomics examines how consumers and firms behave, macroeconomics asks broader questions about national and global economic conditions, such as:\n\nWhat causes economies to grow or fall into recession?\nWhy do inflation and unemployment occur?\nHow do fiscal and monetary policy influence economic outcomes\nWhat role do banks, interest rates, and exchange rates play in shaping the economy?\n\nThroughout the quarter, we will study GDP, labor markets, inflation, the financial sector, monetary and fiscal policy, and international linkages. These topics will be tied directly to current events and real-world policy debates. Weekly homework, in-class quizzes, writing assignments, and exams are designed to reinforce these concepts and help you practice applying them.\nPlease make sure you can access Canvas, where weekly homework, readings, and announcements will be posted."
+    "text": "Below are tools and guides I recommend for getting started:\n\nLearn to use GitHub\nLearn to use RStudio\nLearn to use Overleaf\nHow to make a website with Quarto"
   },
   {
-    "objectID": "econ201.html#welcome-message-for-students",
-    "href": "econ201.html#welcome-message-for-students",
-    "title": "ECON 201: Introduction to Macroeconomics",
+    "objectID": "tools.html#links",
+    "href": "tools.html#links",
+    "title": "Additional Tools",
     "section": "",
-    "text": "Before we begin, please take the time to read and familiarize yourself with the most recent version of the syllabus. This course is fully in person, and most of your success will come from staying engaged during lecture, keeping up with the weekly homework, and asking questions early. The syllabus outlines exactly how the class is structured, what is expected of you, and how to prepare for each week.\nWe will begin with a brief review of supply and demand concepts from ECON 200. For many of you, this material will feel familiar, but it is essential groundwork for the macroeconomic tools we develop throughout the quarter.\nThe focus of the course is macroeconomics, which studies the economy as a whole rather than individual decision-makers. While microeconomics examines how consumers and firms behave, macroeconomics asks broader questions about national and global economic conditions, such as:\n\nWhat causes economies to grow or fall into recession?\nWhy do inflation and unemployment occur?\nHow do fiscal and monetary policy influence economic outcomes\nWhat role do banks, interest rates, and exchange rates play in shaping the economy?\n\nThroughout the quarter, we will study GDP, labor markets, inflation, the financial sector, monetary and fiscal policy, and international linkages. These topics will be tied directly to current events and real-world policy debates. Weekly homework, in-class quizzes, writing assignments, and exams are designed to reinforce these concepts and help you practice applying them.\nPlease make sure you can access Canvas, where weekly homework, readings, and announcements will be posted."
+    "text": "Below are tools and guides I recommend for getting started:\n\nLearn to use GitHub\nLearn to use RStudio\nLearn to use Overleaf\nHow to make a website with Quarto"
   },
   {
-    "objectID": "econ201.html#my-approach-to-economic-reasoning",
-    "href": "econ201.html#my-approach-to-economic-reasoning",
-    "title": "ECON 201: Introduction to Macroeconomics",
-    "section": "My Approach to Economic Reasoning",
-    "text": "My Approach to Economic Reasoning\nEconomic reasoning is not about memorizing definitions or formulas. It is the skill of taking a real-world question, breaking it into its essential components, and using evidence, models, and logic to understand what is happening. This is a way of thinking that anyone can learn with deliberate practice.\n• Economics is a discipline of clarity. A well-reasoned explanation is more valuable than a complicated one. When you can articulate why something happens using the basic tools of the course, you are thinking like an economist.\n• Mistakes are informative, not failures. Misinterpreting a graph or misapplying a concept is part of the learning process. These moments reveal where your reasoning can be strengthened, not your limits.\n• Deep understanding comes from revisiting ideas. Macroeconomic concepts connect to one another: GDP, unemployment, inflation, interest rates, and policy decisions are interdependent. Repetition builds intuition.\n• Think in mechanisms, not labels. Rather than remembering that “AD shifts left,” focus on why households or firms change their decisions, or how interest rates affect investment. Mechanisms allow you to apply your knowledge well beyond textbook examples.\n• Focus on questions, not shortcuts. Strong economic reasoning comes from consistently asking: What changed? Who is affected? Through what channel? What are the tradeoffs?\n• Learn to communicate in the language of economics. Many students already think intuitively in terms of incentives and mechanisms; the goal of this course is to help you express that reasoning clearly and confidently.\nThe goal of ECON 201 is not just to teach macroeconomic tools, but to help you develop a durable way of thinking about the economy. Confidence comes from consistent engagement and the willingness to revisit ideas until they click. Economics is a skill you build through practice, not something you either understand immediately or never will.\nIf anything in the syllabus is unclear or if you have concerns about your progress, please reach out early. I am here to support your learning.\nI look forward to working with you this quarter.\n\nBest,\nTsering Sherpa"
+    "objectID": "tools.html#readings-podcasts-i-like",
+    "href": "tools.html#readings-podcasts-i-like",
+    "title": "Additional Tools",
+    "section": "Readings & Podcasts I Like",
+    "text": "Readings & Podcasts I Like\n\nWorld Bank Blogs: Development Impact\nCenter for Global Development\nAgricultural Economics - Without Apology\nConfessions of a Supply-Side Liberal\nErik’s Blog\nPractical Stoicism"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Tsering Sherpa",
+    "objectID": "dogs.html",
+    "href": "dogs.html",
+    "title": "Loyal Company",
     "section": "",
-    "text": "I am a fourth-year PhD student in the Department of Economics at the University of Washington, advised by Rachel Heath (chair), Alan Griffith, and Isabelle Cohen. My research is in development economics, with a focus on how technology, information, and educational institutions shape human capital formation in Nepal.\nMy current research, the SHERPA Project (Solukhumbu Himalayan Education & Research on Pathways and Assessment), examines how NGO-installed school computer labs affect student learning in rural Nepal. I conducted fieldwork in Solukhumbu in March 2026.\nFor more on my experience, see my CV. Outside of work, I enjoy reading, writing, gardening, and spending time with friends, family, and dogs."
+    "text": "These dogs have, each in their own way, shaped my sense of care, patience, and presence."
+  },
+  {
+    "objectID": "dogs.html#cody-sherpa",
+    "href": "dogs.html#cody-sherpa",
+    "title": "Loyal Company",
+    "section": "Cody Sherpa",
+    "text": "Cody Sherpa\n\nCody was our family’s chihuahua mix and my childhood pet, who taught me so much about caring for dogs."
+  },
+  {
+    "objectID": "dogs.html#foster-dogs-in-seattle",
+    "href": "dogs.html#foster-dogs-in-seattle",
+    "title": "Loyal Company",
+    "section": "Foster Dogs in Seattle",
+    "text": "Foster Dogs in Seattle\nI highly recommend getting involved with fostering if you’re a dog lover who can handle a little unpredictability in life.\n\n\n\n\nMushu\n\n\n\n\n\nRoo\n\n\n\n\n\nYuki\n\n\n\n\n\nPingu\n\n\n\n\n\nCharlie Jr.\n\n\n\n\n\nMira\n\n\n\n\n\nNibble\n\n\n\n\n\nPineapple\n\n\n\n\n\nToby"
+  },
+  {
+    "objectID": "dogs.html#go-dawgs",
+    "href": "dogs.html#go-dawgs",
+    "title": "Loyal Company",
+    "section": "Go Dawgs!",
+    "text": "Go Dawgs!\nFeatured below is a photo I got with Dubs the II, the mascot of the University of Washington Huskies."
+  },
+  {
+    "objectID": "blog/merit.html",
+    "href": "blog/merit.html",
+    "title": "Merit and Meritocracy in the Age of AI",
+    "section": "",
+    "text": "Merit is the quality of being good or worthy. Gyume Khensur (Lobsang Tenzin) Rinpoche, in a 2006 teaching, describes merit as, generally, “everything that is virtuous”. Virtue meaning behavior that shows high moral standards.1 That is where my grip on the word first slips, because moral standards vary from person to person.\nI cannot claim to understand what “accumulating merit” means inside Buddhist philosophy. But filtered through my own lens, from what I heard from monks, it is roughly this: you accumulate merit when you do things that are good for yourself while generating positive externalities for others, consciously or not. If you exist as yourself and act in line with your values, merit follows. Teaching sits high in this scheme and I think, so does showing up with an authentic desire to learn.\nMeritocracy sounds like it ought to mean the government of the meritorious: the good, the virtuous. It doesn’t. The Oxford definition is “government or the holding of power by people selected on the basis of their ability.” Somewhere between merit and meritocracy, virtue quietly became ability. The word was coined in 1958 by Michael Young, and coined as a warning, not a compliment.2\nI didn’t know that when I first met the idea. In an undergraduate economics class I was assigned Daniel Markovits’s The Meritocracy Trap, and it upended a belief I had held without ever examining it: that people who failed simply hadn’t worked hard enough. Markovits argues that elite advantage is no longer transmitted mainly through inherited property but through education, a top preschool, a private secondary school, an elite university, graduate school which converts into an elite job. He calculates, something on the order of $10 million in lifetime earnings. Education has become the way the advantaged pass advantage to their children, and it pays better than any inheritance.\nThe cruelest part is what this does to how we explain failure. Meritocracy, Markovits writes, “frames disadvantage in terms of individual defects of skill and effort.” If the system is fair, then not getting the job, not making the rent, must be your fault. He calls the result a politics of humiliation.\nEverything I have said so far is American: Markovits’s world and, until recently, the furniture of my own. I have been reading Sienna Craig’s The Ends of Kinship, which follows people from Mustang, in the Nepali Himalaya, to New York. This is a route I have some stake in, since I was born in New York and my parents in the Himalaya.3 I expected a book about a faraway place. I kept finding the same machine.\nTake credentials. In Mustang, a farmer tells Craig that education is good, but “if they don’t have ideas, capacity, and motivation but they have a [certificate], BA, Master, then this means nothing” (Craig 2020, 79). A subsistence farmer in the Himalaya and a Yale law professor, arriving at the same complaint from opposite ends of the earth. What the farmer is naming is the oldest question in the economics of education: whether schooling builds capacity (human capital) or merely sorts and certifies it, a signal.4 His worry is that the credential has floated free of the capacity it was supposed to stand for. Or take the way the system quietly reproduces itself. Craig visits a village that has built its own school, and the man running it explains who actually attends: “people with money and power still send their kids away. We take care of the ones with less. So, it is same same, different different” (Craig 2020, 86). The wealthy buy their children out to become educated: Kathmandu, to Pokhara, eventually to New York; everyone else takes what is local. It is the Ivy-League-versus-public-school split at twelve thousand feet, and no one had to import it.\nThat is what convinced me the trap is structural, not national. It appears wherever we decide that ability, measured by schooling, is what makes a person deserving.\nWhich brings me to the thing that made me want to write this down. Every version of the story so far: Markovits’s, Craig’s, mine, rests on one assumption: that cognitive ability is scarce, and that credentials are how we ration and reward it. Artificial intelligence puts that assumption under pressure. A machine can now produce, on demand and at almost no cost, a great deal of the credentialed cognitive output that an elite education used to be the most reliable source of. If that holds (and it is a conjecture about the labor market, and a contested one) then the scarcity rents on a certain kind of thinking begin to erode, and Markovits’s $10 million was, underneath, a bet on that scarcity. So what happens to a hierarchy built on rationing knowledge when knowledge becomes cheap?\nThe farmer in Mustang, it turns out, was ahead of all of us. A degree “means nothing,” he said, without ideas, capacity, and motivation. For as long as the degree reliably signaled those things, we could pretend the distinction didn’t matter. AI makes it hard to keep pretending, because it mostly cheapens the signal, not the capacity underneath. When the credentialed output is cheap, the scarce thing left is the part the farmer named and the part Rinpoche named. Judgment. Care. The authentic desire to learn. Virtue, if you like.\nIt would be tidy to stop there, with ability automated and virtue restored to the throne. I don’t believe it for a second. Nothing about cheap machine cognition makes the world start rewarding care over credentials; it is at least as likely to hand a sharper lever to whoever already holds the advantage.\nFor someone with a surface understanding of Buddhism, it is easy to look at all of this and think: that is their karma. The people born into hard circumstances who overcome every obstacle… didn’t they simply work hard enough? And if you were born with resources and information that someone just as capable was denied, there must be some reason you deserve more… because if there isn’t, do you deserve what you have at all? Do you deserve your place in the hierarchy?\nThe deepest version of the question is not about schooling at all; it runs before anyone has done anything to earn or fail. Angus Deaton opens The Great Escape with the brute arithmetic of the birth lottery: whether you arrive in a place with clean water and a clinic, or with neither, is settled for you before your first breath, and it shapes your life more than almost anything you will later choose.5 And the lottery is not only material; it is informational. Craig sits with a new mother who wipes away her colostrum, the first milk, because she has been told the yellow liquid is impure and that she should wait for the white milk to come, when in fact it is among the most protective things a newborn can receive. “We live the knowledge we are given,” Craig writes (Craig 2020, 55). Some infants get antibodies in their first hour of life; others have them wiped away. None of them earned the difference.\nI don’t think meritocracy ever really answered that question; it just made the question feel rude to ask. What it did was borrow the moral authority of merit (you deserve this) while doing the opposite work, sorting people by an ability that was mostly inherited to begin with. Intergenerational mobility is sticky at both ends: the children of the rich tend to stay rich, and the children of the poor, poor. The more unequal a society, the stickier it tends to be.6 AI could make that stickiness worse, or it could loosen it. That is the whole question, and it is not yet decided.\nThis is not idle speculation; it is roughly where a generation of randomized trials has already landed. Education technology, when it is tested carefully, tends to produce modest average gains with enormous dispersion around them: largest where the tool is adaptive and paired with a capable teacher, smallest, and sometimes negative, where it is hardware is underutilized in a school.7 In my own work evaluating a computer-lab rollout across schools in Solukhumbu, the same program raised learning in some schools and lowered it in others; the average was near zero, but the average was never the interesting part. The labs helped where teachers could already fold them into their teaching and hurt where they could not: uniform hardware, non-uniform capacity, divergent returns. The gap between advantaged and disadvantaged schools did not close. If anything, it widened.\nThis is the desert question answered with data instead of philosophy. The same program, meeting the same effort, went opposite ways depending on where a child happened to be born. Not karma. Not grit. Starting conditions, wearing the mask of merit. A well-meaning intervention can deepen the divide as easily as close it.\nThis is not an abstract question for me. It is the intervention at the center of my dissertation: DeepGyan AI, built with Himalaya AI Labs. Gyan (ज्ञान) is knowledge; I like that deep carries both depth and दीप, the small lamp you light. It is a teacher-facing, offline-first, Nepali-language tool that runs on a phone the teacher already owns: it lets them find where each young child actually is with spoken English (a diagnosis otherwise too costly to produce child by child) and hands back curriculum-aligned activities to close the specific gaps it finds. The theory of change is deliberately modest. Not a device that has to arrive at the school, but a tool that runs on one already in the teacher’s pocket; something that can be dropped into a place and used with little scaffolding, and that keeps developing in use: improved by, and generating research for, the communities using it, built with people from those places rather than delivered to them. The point of studying it, rather than simply building it, is that I do not get to assume the answer. The question the dissertation actually asks is whether a phone-delivered tool like this works as a leveler (best precisely where capacity and infrastructure are scarcest) or as a gap-widener that, like the many hardware interventions before it, needs those very inputs to work at all. Which one it turns out to be is an empirical question, and my wager is that the outcome is a design choice, not a law of nature. In the frame I began with, testing that wager honestly is itself a kind of merit-making: work that is good for me while, I hope, throwing off positive externalities for the people who were told, wrongly, that they simply hadn’t worked hard enough.\nThis essay was written in collaboration with an AI assistant (Claude): I brought the argument, the fieldwork, and the sources; it helped me structure and tighten the prose. The argument, the research, and any errors are my own."
+  },
+  {
+    "objectID": "blog/merit.html#footnotes",
+    "href": "blog/merit.html#footnotes",
+    "title": "Merit and Meritocracy in the Age of AI",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nhttps://fpmt.org/mandala/archives/mandala-issues-for-2007/august/ask-a-lama-what-is-merit/↩︎\nhttps://blogs.lse.ac.uk/lsereviewofbooks/2020/03/30/book-review-the-meritocracy-trap-by-daniel-markovits/↩︎\nSienna R. Craig, The Ends of Kinship: Connecting Himalayan Lives Between Nepal and New York (University of Washington Press, 2020).↩︎\nMichael Spence, “Job Market Signaling,” Quarterly Journal of Economics 87, no. 3 (1973): 355–74. For the strong-form version, Bryan Caplan, The Case Against Education (Princeton University Press, 2018).↩︎\nAngus Deaton, The Great Escape: Health, Wealth, and the Origins of Inequality (Princeton University Press, 2013).↩︎\nOn persistence and the “Great Gatsby curve,” see Miles Corak, “Income Inequality, Equality of Opportunity, and Intergenerational Mobility,” Journal of Economic Perspectives 27, no. 3 (2013): 79–102; and Raj Chetty, Nathaniel Hendren, Patrick Kline, and Emmanuel Saez, “Where Is the Land of Opportunity? The Geography of Intergenerational Mobility in the United States,” Quarterly Journal of Economics 129, no. 4 (2014): 1553–1623.↩︎\nMaya Escueta, André Joshua Nickow, Philip Oreopoulos, and Vincent Quan, “Upgrading Education with Technology: Insights from Experimental Research,” Journal of Economic Literature 58, no. 4 (2020): 897–996; Karthik Muralidharan, Abhijeet Singh, and Alejandro J. Ganimian, “Disrupting Education? Experimental Evidence on Technology-Aided Instruction in India,” American Economic Review 109, no. 4 (2019): 1426–60; and J-PAL, “Leveraging Mobile Phones for Learning,” Abdul Latif Jameel Poverty Action Lab, 2026.↩︎"
   },
   {
     "objectID": "blog/blog.html",
@@ -263,6 +270,6 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "I’m a fourth-year PhD student in economics at the University of Washington. I grew up in Boulder, Colorado, and earned my undergraduate degree in applied mathematics and economics from the University of Colorado in May 2023.\nIn the summer of 2022, I studied abroad at the London School of Economics, where I took a course on Management Analytics in the Age of Big Data, which introduced me to the applications of statistical and causal inference in decision-making under uncertainty.\nMy interest in economics began in high school after watching a documentary in my AP economics class. It revealed the unintended consequences of global consumption, how well-meaning interventions in lower-income countries can end up undermining local economies and harming the environment. That experience pushed me to study economic structures and externalities more seriously, and it’s stayed with me as a central motivation.\nI’ve always wanted to understand the decisions people make and the systems they navigate. While economic models aren’t perfect, I appreciate their ability to combine theory with empirical evidence to analyze real-world problems. That’s what drew me to research: I wanted to develop the skills to study pressing issues using data and to contribute ideas that could reduce harm or inform better policy. Over time, that interest has evolved into a broader commitment to studying inequality, structural constraints, and the effects of interventions, especially in contexts I have personal ties to, such as Sherpa communities.\nAfter completing my PhD, I hope to pursue a research-oriented position where I can continue working on these questions. I’m also deeply interested in mentoring and teaching, especially supporting students from underrepresented backgrounds, including women, and first-generation students in navigating economics as a field."
+    "text": "I’m a fourth-year PhD student in economics at the University of Washington. I earned my undergraduate degree in economics and math from the University of Colorado, Boulder, which is also where I am from.\nI chose to study economics to understand the decisions people make and the systems they navigate. While economic models aren’t perfect, I appreciate their ability to combine theory with empirical evidence to analyze real-world problems. That is what drew me to research: I wanted to develop the skills to study pressing issues using data and to contribute ideas that could reduce harm or inform better policy. Over time, that interest has evolved into a broader commitment to studying inequality, structural constraints, and the effects of interventions, especially in contexts I have personal ties to, such as Sherpa communities.\nAfter completing my PhD, I hope to pursue a research-oriented position where I can continue working on these questions. I’m also deeply interested in mentoring and teaching, especially supporting students from underrepresented backgrounds, including women, and first-generation students in navigating economics as a field."
   }
 ]

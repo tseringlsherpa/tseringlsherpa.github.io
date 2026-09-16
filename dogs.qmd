@@ -8,7 +8,7 @@ These dogs have, each in their own way, shaped my sense of care, patience, and p
 ## Cody Sherpa
 
 <p>
-  Cody was our family's chihuahua mix and my childhood pet. We adopted him in 2012, and we got to spend nearly 13 years with him. We also have another family dog named Daisy.
+  Cody was our family's chihuahua mix and my childhood pet, who taught me so much about caring for dogs. 
 </p>
 <div style="display: flex; gap: 5px; align-items: center; flex-wrap: nowrap; overflow-x: auto; white-space: nowrap; min-width: 820px;">
   <img src="images/cody.jpeg" width="200" style="flex-shrink: 0; display: inline-block;" alt="Cody 1">
@@ -20,10 +20,7 @@ These dogs have, each in their own way, shaped my sense of care, patience, and p
 
 ## Foster Dogs in Seattle
 
-Below are some of the puppies and dogs I've fostered through [Resilient Hearts Animal Sanctuary](https://resilientheartsanimalsanctuary.org/) in Seattle.
-
-If you're in Seattle and interested in fostering, I highly recommend getting involved. Fostering allows shelters to make space for unhoused dogs, helping reduce overcrowding and minimizing the risk of euthanasia due to lack of resources.
-
+I highly recommend getting involved with fostering if you're a dog lover who can handle a little unpredictability in life. 
 
 <style>
 .foster-grid {
@@ -86,6 +83,10 @@ If you're in Seattle and interested in fostering, I highly recommend getting inv
   <figure>
     <figcaption>Pineapple</figcaption>
     <img src="images/pineapple.jpeg" alt="Pineapple">
+  </figure>
+  <figure>
+    <figcaption>Toby</figcaption>
+    <img src="images/toby.jpeg" alt="Pineapple">
   </figure>
 </div>
 

@@ -31,18 +31,10 @@ website:
         href: res.qmd
       - text: "Fieldwork"
         href: fieldwork.qmd
-      - text: "Teaching"
-        menu:
-          - text: "Experience"
-            href: teaching.qmd
-          - text: "ECON 201"
-            href: econ201.qmd
-          - text: "ENGL 299"
-            href: engl299.qmd
-          - text: "QSCI 381"
-            href: qsci381-resources.qmd
       - text: "Other"
         menu:
+          - text: "Teaching Experience"
+            href: teaching.qmd
           - text: "Blog"
             href: blog/blog.qmd
           - text: "Suggested Sources"
@@ -60,7 +52,7 @@ website:
       - icon: envelope
         text: "tsherp@uw.edu"
         href: "mailto:tsherp@uw.edu"
-      - text: "319C Savery Hall, University of Washington, Seattle, WA"
+      - text: "Savery Hall, University of Washington, Seattle, WA"
 
 format:
   html:
@@ -70,6 +62,4 @@ format:
       dark: darkly
       light: flatly
     toc: true
-
-
   
