@@ -17,4 +17,4 @@ about:
     href: https://orcid.org/0009-0000-5484-803X
     target: _blank
 ---
-I am a fourth-year PhD student in the Department of Economics at the University of Washington. My research is in **development economics**, with a focus on how technology, information, and educational institutions shape human capital formation in Nepal. 
+I am a fourth-year PhD student in the Department of Economics at the University of Washington. My research is in development economics, focused on human capital formation in Solukhumbu, Nepal, where I study how teacher capacity, not just access to technology, shapes whether educational interventions actually work. My dissertation combines a staggered difference-in-differences design with an original cluster-randomized trial of a phone-based teacher support tool.

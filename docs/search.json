@@ -4,14 +4,14 @@
     "href": "res.html",
     "title": "Research",
     "section": "",
-    "text": "I study development economics, with a focus on human capital formation, the role of technology in education, and how households and institutions make decisions under constraints. My work combines causal inference with field-based empirical research.\nMy research originates in the Himalayan region, where families navigate constraints in schooling, gender norms, access to opportunities, and growing climate risks. A core goal of my work is to generate empirical evidence that can inform policy and contribute something meaningful to the region that made it possible for me to pursue an academic path."
+    "text": "I study development economics, with a focus on human capital formation, the role of technology in education, and how households and institutions make decisions under constraints. My work combines causal inference with field-based empirical research.\nMy research originates in the Himalayan region, where families navigate constraints in schooling, gender norms, access to opportunities, and growing climate risks. A core goal of my work is to generate empirical evidence that can inform policy and contribute something meaningful to the region that made it possible for me to pursue a policy or academic path."
   },
   {
     "objectID": "res.html#research-in-progress",
     "href": "res.html#research-in-progress",
     "title": "Research",
     "section": "Research in Progress",
-    "text": "Research in Progress\nWorking Draft — Hardware Without Pedagogy. Exploits the staggered rollout of HTN computer labs to estimate the effect of lab installation on student academic achievement, using a 22-school observational panel from HTN’s Quality Education Programme and dissertation fieldwork in the Khumbu and Junbesi clusters in March 2026. See the Fieldwork page."
+    "text": "Research in Progress\nHardware Without Pedagogy. Exploits the staggered rollout of HTN computer labs across 22 schools to show that hardware access alone does not move student learning, and that where it comes closest to working is where teacher capacity is already strongest. Draws on HTN’s Quality Education Programme panel and dissertation fieldwork in the Khumbu and Junbesi clusters in March 2026. See the Fieldwork page. Working Draft."
   },
   {
     "objectID": "qsci381-resources.html",
@@ -130,14 +130,14 @@
     "href": "tools.html",
     "title": "Additional Tools",
     "section": "",
-    "text": "Below are tools and guides I recommend for getting started:\n\nLearn to use GitHub\nLearn to use RStudio\nLearn to use Overleaf\nHow to make a website with Quarto"
+    "text": "Below are tools and guides I recommend for getting started:\n\nLearn to use GitHub\nLearn to use RStudio\nLearn to use Overleaf\nHow to make a website with Quarto -Zotero (for citations)"
   },
   {
     "objectID": "tools.html#links",
     "href": "tools.html#links",
     "title": "Additional Tools",
     "section": "",
-    "text": "Below are tools and guides I recommend for getting started:\n\nLearn to use GitHub\nLearn to use RStudio\nLearn to use Overleaf\nHow to make a website with Quarto"
+    "text": "Below are tools and guides I recommend for getting started:\n\nLearn to use GitHub\nLearn to use RStudio\nLearn to use Overleaf\nHow to make a website with Quarto -Zotero (for citations)"
   },
   {
     "objectID": "tools.html#readings-podcasts-i-like",
@@ -151,7 +151,7 @@
     "href": "index.html",
     "title": "Tsering L. Sherpa",
     "section": "",
-    "text": "I am a fourth-year PhD student in the Department of Economics at the University of Washington. My research is in development economics, with a focus on how technology, information, and educational institutions shape human capital formation in Nepal."
+    "text": "I am a fourth-year PhD student in the Department of Economics at the University of Washington. My research is in development economics, focused on human capital formation in Solukhumbu, Nepal, where I study how teacher capacity, not just access to technology, shapes whether educational interventions actually work. My dissertation combines a staggered difference-in-differences design with an original cluster-randomized trial of a phone-based teacher support tool."
   },
   {
     "objectID": "about.html",

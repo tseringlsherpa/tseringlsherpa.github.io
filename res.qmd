@@ -5,10 +5,9 @@ toc: TRUE
 
 I study development economics, with a focus on human capital formation, the role of technology in education, and how households and institutions make decisions under constraints. My work combines causal inference with field-based empirical research.
 
-My research originates in the Himalayan region, where families navigate constraints in schooling, gender norms, access to opportunities, and growing climate risks. A core goal of my work is to generate empirical evidence that can inform policy and contribute something meaningful to the region that made it possible for me to pursue an academic path.
+My research originates in the Himalayan region, where families navigate constraints in schooling, gender norms, access to opportunities, and growing climate risks. A core goal of my work is to generate empirical evidence that can inform policy and contribute something meaningful to the region that made it possible for me to pursue a policy or academic path.
 
 ## Research in Progress
 
-*Working Draft — Hardware Without Pedagogy.* Exploits the staggered rollout of HTN computer labs to estimate the effect of lab installation on student academic achievement, using a 22-school observational panel from HTN's Quality Education Programme and dissertation fieldwork in the Khumbu and Junbesi clusters in March 2026. See the [Fieldwork](fieldwork.qmd) page.
-
+Hardware Without Pedagogy. Exploits the staggered rollout of HTN computer labs across 22 schools to show that hardware access alone does not move student learning, and that where it comes closest to working is where teacher capacity is already strongest. Draws on HTN's Quality Education Programme panel and dissertation fieldwork in the Khumbu and Junbesi clusters in March 2026. See the Fieldwork page. *Working Draft*.
 
