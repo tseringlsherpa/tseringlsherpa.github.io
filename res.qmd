@@ -7,13 +7,7 @@ I study development economics, with a focus on human capital formation, the role
 
 My research originates in the Himalayan region, where families navigate constraints in schooling, gender norms, access to opportunities, and growing climate risks. A core goal of my work is to generate empirical evidence that can inform policy and contribute something meaningful to the region that made it possible for me to pursue an academic path.
 
-My dissertation committee at the University of Washington is chaired by [Rachel Heath](https://faculty.washington.edu/rmheath/) and includes [Alan Griffith](https://sites.google.com/site/alangriffithecon/), [Isabelle Cohen](https://www.isabellemcohen.com/), and [André Punt](https://puntlab.washington.edu/).
-
 ## Research in Progress
-
-**SHERPA: Solukhumbu Himalayan Education & Research on Pathways and Assessment**
-
-An independent, field-based research program examining how NGO-supported educational programs shape learning and vocational pathways for Sherpa youth in Solukhumbu, Nepal. The project is anchored to the multi-year computer-lab and teacher-training rollout led by the **Himalayan Trust Nepal (HTN)** and **EduTech Nepal**.
 
 *Working Draft — Hardware Without Pedagogy.* Exploits the staggered rollout of HTN computer labs to estimate the effect of lab installation on student academic achievement, using a 22-school observational panel from HTN's Quality Education Programme and dissertation fieldwork in the Khumbu and Junbesi clusters in March 2026. See the [Fieldwork](fieldwork.qmd) page.
 
