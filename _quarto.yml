@@ -29,18 +29,14 @@ website:
         href: files/cv.pdf
       - text: "Research"
         href: res.qmd
-      - text: "Fieldwork"
-        href: fieldwork.qmd
       - text: "Other"
         menu:
+          - text: "Fieldwork"
+            href: fieldwork.qmd
           - text: "Teaching Experience"
             href: teaching.qmd
-          - text: "Blog"
-            href: blog/blog.qmd
           - text: "Suggested Sources"
             href: tools.qmd
-          - text: "Dawgs"
-            href: dogs.qmd
 
   page-footer:
     right:
