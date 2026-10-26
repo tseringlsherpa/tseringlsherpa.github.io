@@ -37,6 +37,8 @@ website:
             href: teaching.qmd
           - text: "Suggested Sources"
             href: tools.qmd
+          - text: "QSCI 381 Extra Sources"
+            href: qsci381-resources.qmd
 
   page-footer:
     right:
